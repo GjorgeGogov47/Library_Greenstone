@@ -1,0 +1,651 @@
+s
+Command: D:\Program Files\Greenstone3\gs2build\bin\windows\perl\bin\Perl.exe -S D:\Program Files\Greenstone3\gs2build\bin\script\full-import.pl -gli -language en -site localsite -collectdir D:\Program Files\Greenstone3\web\sites\localsite\collect composer 
+import.pl> Removing current contents of the archives directory...
+import.pl> Failed to find database table 'greenstone' ...
+import.pl> Failed to find database table 'greenstone' ...
+import.pl> URL Encoding D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\2\2a\Anton_Webern_in_Stettin,_October_1912.jpg
+import.pl>  ->D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\2\2a\Anton_Webern_in_Stettin%2C_October_1912.jpg
+import.pl> URL Encoding D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\6\66\Bartók_Béla_1927.jpg
+import.pl>  ->D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\6\66\Bart%C3%B3k_B%C3%A9la_1927.jpg
+import.pl> URL Encoding D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\thumb\3\30\Benjamin_Britten,_London_Records_1968_publicity_photo_for_Wikipedia.jpg\495px-Benjamin_Britten,_London_Records_1968_publicity_photo_for_Wikipedia.jpg
+import.pl>  ->D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\thumb\3\30\Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia.jpg\495px-Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia.jpg
+import.pl> URL Encoding D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\thumb\0\02\Bernardo_Strozzi_-_Claudio_Monteverdi_(c.1630).jpg\480px-Bernardo_Strozzi_-_Claudio_Monteverdi_(c.1630).jpg
+import.pl>  ->D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\thumb\0\02\Bernardo_Strozzi_-_Claudio_Monteverdi_%28c.1630%29.jpg\480px-Bernardo_Strozzi_-_Claudio_Monteverdi_%28c.1630%29.jpg
+import.pl> URL Encoding D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\thumb\0\06\Photo_of_Gustav_Mahler_by_Moritz_Nähr_01.jpg\502px-Photo_of_Gustav_Mahler_by_Moritz_Nähr_01.jpg
+import.pl>  ->D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\thumb\0\06\Photo_of_Gustav_Mahler_by_Moritz_N%C3%A4hr_01.jpg\502px-Photo_of_Gustav_Mahler_by_Moritz_N%C3%A4hr_01.jpg
+import.pl> URL Encoding D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\thumb\4\4e\György_Ligeti_(1984).jpg\400px-György_Ligeti_(1984).jpg
+import.pl>  ->D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\thumb\4\4e\Gy%C3%B6rgy_Ligeti_%281984%29.jpg\400px-Gy%C3%B6rgy_Ligeti_%281984%29.jpg
+import.pl> URL Encoding D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\thumb\2\2b\Jean_Sibelius,_1913.jpg\450px-Jean_Sibelius,_1913.jpg
+import.pl>  ->D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\thumb\2\2b\Jean_Sibelius%2C_1913.jpg\450px-Jean_Sibelius%2C_1913.jpg
+import.pl> URL Encoding D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\thumb\2\23\John_Cage_(1988).jpg\449px-John_Cage_(1988).jpg
+import.pl>  ->D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\thumb\2\23\John_Cage_%281988%29.jpg\449px-John_Cage_%281988%29.jpg
+import.pl> URL Encoding D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\thumb\4\49\Olivier_Messiaen_(1986).jpg\450px-Olivier_Messiaen_(1986).jpg
+import.pl>  ->D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\thumb\4\49\Olivier_Messiaen_%281986%29.jpg\450px-Olivier_Messiaen_%281986%29.jpg
+import.pl> URL Encoding D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\thumb\f\f5\Philip_Glass_in_Florence,_Italy_-_1993.jpg\373px-Philip_Glass_in_Florence,_Italy_-_1993.jpg
+import.pl>  ->D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\thumb\f\f5\Philip_Glass_in_Florence%2C_Italy_-_1993.jpg\373px-Philip_Glass_in_Florence%2C_Italy_-_1993.jpg
+import.pl> Creating new database table 'greenstone' ...
+import.pl> 
+import.pl> MetadataXMLPlugin: processing metadata.xml
+import.pl> MetadataXMLPlugin: writing an entry for this metadata.xml into archiveinf-src.db
+import.pl> **** Adding metaxml file entry for full_file: D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\metadata.xml
+import.pl> HTMLPlugin processing Aaron_Copland.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\img.discogs.com\w5kFFjACb82HtcxLS-yC6G1nV3o=\fit-in\300x300\filters:strip_icc():format(jpeg):mode_rgb():quality(40)\discogs-images\A-767788-1468181293-2299.jpeg.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\img.discogs.com\w5kFFjACb82HtcxLS-yC6G1nV3o=\fit-in\300x300\filters:strip_icc():format(jpeg):mode_rgb():quality(40)\discogs-images\A-767788-1468181293-2299.jpeg.jpg
+import.pl> No database table 'greenstone' to append to.  Creating new one
+import.pl> HTMLPlugin processing Adolphe_Adam.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\1\1c\Adolphe_Adam_1850_-_Charles_Vogt_-_Gallica.jpg\463px-Adolphe_Adam_1850_-_Charles_Vogt_-_Gallica.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\1\1c\Adolphe_Adam_1850_-_Charles_Vogt_-_Gallica.jpg\463px-Adolphe_Adam_1850_-_Charles_Vogt_-_Gallica.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Adrian_Willaert.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\5\57\Adrian_Willaert.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\5\57\Adrian_Willaert.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Alan_Hovhaness.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\en\0\07\Alan_Hovhaness.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\en\0\07\Alan_Hovhaness.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Alban_Berg.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\media.mutualart.com\Images\2017_06\03\04\040601806\6a45cf0b-517f-40d5-9d00-1188077f4ea8_570.Jpeg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\media.mutualart.com\Images\2017_06\03\04\040601806\6a45cf0b-517f-40d5-9d00-1188077f4ea8_570.Jpeg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Albert Roussel.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\a\ab\Roussel_Albert_1913.jpg\410px-Roussel_Albert_1913.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\a\ab\Roussel_Albert_1913.jpg\410px-Roussel_Albert_1913.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Alessandro_Scarlatti.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\b\b3\Alessandro_Scarlatti.jpg\457px-Alessandro_Scarlatti.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\b\b3\Alessandro_Scarlatti.jpg\457px-Alessandro_Scarlatti.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Alessandro_Stradella.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\2\2f\AlessandroStradella.jpg\568px-AlessandroStradella.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\2\2f\AlessandroStradella.jpg\568px-AlessandroStradella.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Alexander_Borodin.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\7\70\Borodin.jpg\435px-Borodin.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\7\70\Borodin.jpg\435px-Borodin.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Alexander_Dargomyzhsky.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\4\4d\Makovskiy_Dargomyzhsky.jpg\478px-Makovskiy_Dargomyzhsky.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\4\4d\Makovskiy_Dargomyzhsky.jpg\478px-Makovskiy_Dargomyzhsky.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Alexander_Glazunov.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\3\3d\Glazunov_by_Repin.jpg\417px-Glazunov_by_Repin.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\3\3d\Glazunov_by_Repin.jpg\417px-Glazunov_by_Repin.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Alexander_Scriabin.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\5\53\Skrjabin_Alexander.jpg\220px-Skrjabin_Alexander.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\5\53\Skrjabin_Alexander.jpg\220px-Skrjabin_Alexander.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Alexander_Zemlinsky.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\6\6a\Zemlinsky.jpg\492px-Zemlinsky.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\6\6a\Zemlinsky.jpg\492px-Zemlinsky.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Alfredo_Casella.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\8\81\Alfredo_Casella.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\8\81\Alfredo_Casella.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Amilcare_Ponchielli.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\e\e1\Amilcareponchielli.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\e\e1\Amilcareponchielli.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Anton_Arensky.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\2\2a\Arensky_Anton_Postcard-1910.jpg\411px-Arensky_Anton_Postcard-1910.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\2\2a\Arensky_Anton_Postcard-1910.jpg\411px-Arensky_Anton_Postcard-1910.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Anton_Webern.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\2\2a\Anton_Webern_in_Stettin%2C_October_1912.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\2\2a\Anton_Webern_in_Stettin%2C_October_1912.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Arnold_Schoenberg.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\a\ad\Arnold_Schoenberg_la_1948.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\a\ad\Arnold_Schoenberg_la_1948.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Bela_Bartok.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\6\66\Bart%C3%B3k_B%C3%A9la_1927.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\6\66\Bart%C3%B3k_B%C3%A9la_1927.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Benjamin_Britten.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\3\30\Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia.jpg\495px-Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\3\30\Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia.jpg\495px-Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Carlo_Gesualdo.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\e\e7\Gesualdo3.jpg\455px-Gesualdo3.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\e\e7\Gesualdo3.jpg\455px-Gesualdo3.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Charles_Ives.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\e\eb\CharlesEdwardIves1913.jpg\328px-CharlesEdwardIves1913.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\e\eb\CharlesEdwardIves1913.jpg\328px-CharlesEdwardIves1913.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Claude_Debussy.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\ichef.bbci.co.uk\images\ic\640x360\p03jn6sm.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\ichef.bbci.co.uk\images\ic\640x360\p03jn6sm.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Claudio_Monteverdi.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\0\02\Bernardo_Strozzi_-_Claudio_Monteverdi_%28c.1630%29.jpg\480px-Bernardo_Strozzi_-_Claudio_Monteverdi_%28c.1630%29.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\0\02\Bernardo_Strozzi_-_Claudio_Monteverdi_%28c.1630%29.jpg\480px-Bernardo_Strozzi_-_Claudio_Monteverdi_%28c.1630%29.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Dmitry_Shostakovich.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\a\ab\Dmitri_Shostakovich_credit_Deutsche_Fotothek_adjusted.jpg\429px-Dmitri_Shostakovich_credit_Deutsche_Fotothek_adjusted.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\a\ab\Dmitri_Shostakovich_credit_Deutsche_Fotothek_adjusted.jpg\429px-Dmitri_Shostakovich_credit_Deutsche_Fotothek_adjusted.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Edgard_Varese.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\f\ff\Edgard_Varese.gif
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\f\ff\Edgard_Varese.gif
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Edward_Elgar.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\c\ce\Edward_Elgar.jpg\599px-Edward_Elgar.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\c\ce\Edward_Elgar.jpg\599px-Edward_Elgar.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Erik_Satie.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\5\58\Ericsatie.jpg\428px-Ericsatie.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\5\58\Ericsatie.jpg\428px-Ericsatie.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Franz_Joseph_Haydn.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\0\05\Joseph_Haydn.jpg\474px-Joseph_Haydn.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\0\05\Joseph_Haydn.jpg\474px-Joseph_Haydn.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Franz_Schubert.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\0\0d\Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg\413px-Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\0\0d\Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg\413px-Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Frederic_Chopin.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\e\e8\Frederic_Chopin_photo.jpeg\418px-Frederic_Chopin_photo.jpeg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\e\e8\Frederic_Chopin_photo.jpeg\418px-Frederic_Chopin_photo.jpeg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing George_Gershwin.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\en\1\18\Moeran2.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\en\1\18\Moeran2.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Giuseppe_Verdi.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\www.italymagazine.com\sites\default\files\styles\800xauto\public\feature-story\leader\giuseppe_verdi.jpg?itok=_11FL3wb
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\www.italymagazine.com\sites\default\files\styles\800xauto\public\feature-story\leader\giuseppe_verdi.jpg?itok=_11FL3wb
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Gustav_Mahler.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\0\06\Photo_of_Gustav_Mahler_by_Moritz_N%C3%A4hr_01.jpg\502px-Photo_of_Gustav_Mahler_by_Moritz_N%C3%A4hr_01.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\0\06\Photo_of_Gustav_Mahler_by_Moritz_N%C3%A4hr_01.jpg\502px-Photo_of_Gustav_Mahler_by_Moritz_N%C3%A4hr_01.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Gyorgy_Sandor_Ligeti.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\4\4e\Gy%C3%B6rgy_Ligeti_%281984%29.jpg\400px-Gy%C3%B6rgy_Ligeti_%281984%29.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\4\4e\Gy%C3%B6rgy_Ligeti_%281984%29.jpg\400px-Gy%C3%B6rgy_Ligeti_%281984%29.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Igor_Stravinsky.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\3\33\Igor_Stravinsky_LOC_32392u.jpg\436px-Igor_Stravinsky_LOC_32392u.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\3\33\Igor_Stravinsky_LOC_32392u.jpg\436px-Igor_Stravinsky_LOC_32392u.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Jean_Sibelius.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\2\2b\Jean_Sibelius%2C_1913.jpg\450px-Jean_Sibelius%2C_1913.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\2\2b\Jean_Sibelius%2C_1913.jpg\450px-Jean_Sibelius%2C_1913.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Johann_Sebastian_Bach.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\6\6a\Johann_Sebastian_Bach.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\6\6a\Johann_Sebastian_Bach.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Johannes_Brahms.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\1\15\JohannesBrahms.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\1\15\JohannesBrahms.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing John_Cage.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\2\23\John_Cage_%281988%29.jpg\449px-John_Cage_%281988%29.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\2\23\John_Cage_%281988%29.jpg\449px-John_Cage_%281988%29.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Karlheinz_Stockhausen.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\images.immediate.co.uk\production\volatile\sites\24\2020\05\Stockhausen_KathinkaPasveer625_0-5a2efd9.jpg?quality=90&resize=620,413
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\images.immediate.co.uk\production\volatile\sites\24\2020\05\Stockhausen_KathinkaPasveer625_0-5a2efd9.jpg?quality=90&resize=620,413
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Ludwig_Van_Beethoven.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\6\6f\Beethoven.jpg\498px-Beethoven.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\6\6f\Beethoven.jpg\498px-Beethoven.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Maurice_Ravel.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\7\78\Maurice_Ravel_1925.jpg\451px-Maurice_Ravel_1925.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\7\78\Maurice_Ravel_1925.jpg\451px-Maurice_Ravel_1925.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Morton_Feldman.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\i.pinimg.com\originals\15\a8\d1\15a8d15d096c2c29723192609a9777dd.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\i.pinimg.com\originals\15\a8\d1\15a8d15d096c2c29723192609a9777dd.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Olivier_Messiaen.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\4\49\Olivier_Messiaen_%281986%29.jpg\450px-Olivier_Messiaen_%281986%29.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\4\49\Olivier_Messiaen_%281986%29.jpg\450px-Olivier_Messiaen_%281986%29.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Philip_Glass.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\f\f5\Philip_Glass_in_Florence%2C_Italy_-_1993.jpg\373px-Philip_Glass_in_Florence%2C_Italy_-_1993.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\f\f5\Philip_Glass_in_Florence%2C_Italy_-_1993.jpg\373px-Philip_Glass_in_Florence%2C_Italy_-_1993.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Pierre_Boulez.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\www.premiosfronterasdelconocimiento.es\wp-content\uploads\sites\2\2019\06\FBBVA-12-musica-Boulez.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\www.premiosfronterasdelconocimiento.es\wp-content\uploads\sites\2\2019\06\FBBVA-12-musica-Boulez.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Pyotr_Ilyich_Tchaikovsky.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\4\4d\Tchaikovsky_by_Reutlinger.jpg\413px-Tchaikovsky_by_Reutlinger.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\4\4d\Tchaikovsky_by_Reutlinger.jpg\413px-Tchaikovsky_by_Reutlinger.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Ralph_Vaughan_Williams.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\www.ecspublishing.com\pub\media\wysiwyg\williamsWEB.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\www.ecspublishing.com\pub\media\wysiwyg\williamsWEB.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Richard_Strauss.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\2\2d\Strauss3.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\2\2d\Strauss3.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Richard_Wagner.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\9\9d\RichardWagner.jpg\432px-RichardWagner.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\9\9d\RichardWagner.jpg\432px-RichardWagner.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Robert_Schumann.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\f\fa\Robert_Schumann_1839.jpg\600px-Robert_Schumann_1839.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\f\fa\Robert_Schumann_1839.jpg\600px-Robert_Schumann_1839.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Sergei_Prokofiev.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\0\03\Sergei_Prokofiev_circa_1918_over_Chair_Bain.jpg\486px-Sergei_Prokofiev_circa_1918_over_Chair_Bain.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\0\03\Sergei_Prokofiev_circa_1918_over_Chair_Bain.jpg\486px-Sergei_Prokofiev_circa_1918_over_Chair_Bain.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Sergei_Rachmaninoff.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\b\be\Sergei_Rachmaninoff_cph.3a40575.jpg\472px-Sergei_Rachmaninoff_cph.3a40575.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\b\be\Sergei_Rachmaninoff_cph.3a40575.jpg\472px-Sergei_Rachmaninoff_cph.3a40575.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Steve_Reich.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\e\eb\Steve_Reich2.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\e\eb\Steve_Reich2.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Thomas_Tallis.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\6\6e\Thomas_Tallis_001.jpg\478px-Thomas_Tallis_001.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\6\6e\Thomas_Tallis_001.jpg\478px-Thomas_Tallis_001.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing William_Byrd.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\b\bf\William_Byrd.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\b\bf\William_Byrd.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Witold_Lutoslawski.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\e\e2\Lutoslawski3.jpg\395px-Lutoslawski3.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\e\e2\Lutoslawski3.jpg\395px-Lutoslawski3.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Wolfgang_Amadeus_Mozart.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\cdns-images.dzcdn.net\images\artist\41811848bbce380a4753bcb71fa84394\500x500.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\cdns-images.dzcdn.net\images\artist\41811848bbce380a4753bcb71fa84394\500x500.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> Creating new database table 'greenstone' ...
+import.pl> 
+import.pl> *********************************************
+import.pl> Import complete
+import.pl> *********************************************
+import.pl> * 59 documents were considered for processing
+import.pl> * 59 were processed and included in the collection
+import.pl> Command complete.
+import.pl> Extracting new metadata from archive files.
+import.pl> Archived metadata extraction complete.
+Command: D:\Program Files\Greenstone3\gs2build\bin\windows\perl\bin\Perl.exe -S D:\Program Files\Greenstone3\gs2build\bin\script\full-buildcol.pl -gli -language en -activate -site localsite -collectdir D:\Program Files\Greenstone3\web\sites\localsite\collect composer 
+buildcol.pl> Creating new database table 'greenstone' ...
+buildcol.pl> 
+buildcol.pl> *** creating the compressed text
+buildcol.pl> 
+buildcol.pl>     collecting text statistics (mgpp_passes -T1)
+buildcol.pl> ArchivesInfPlugin: processing D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\archives\archiveinf-doc.jdb
+buildcol.pl> GreenstoneXMLPlugin: processing HASH8a93.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0187.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHd7c1.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH2075.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH7643.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH23d0.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHbcc5.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHb962.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01cd.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH4c7f.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH3bae.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01f1.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHc3ba.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH2b7a.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH4c0d.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHfa23.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01d9.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0117.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0162.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01b8.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH68c3.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH1782.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH2e86.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0122.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHacc0.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0109\da40865a.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH9234.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH2c73.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHb3d4.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHcd9a.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH37bb.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHe137.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01f5.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHd419.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHc97c.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHb339.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01dc.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0121.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH4365.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0155.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHf026.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH4dd1.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0109.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH1d8c.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0136.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0164.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0173.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0156.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH015f.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01a7.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH5a23.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01ee.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0196.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH66a9.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHa7f2.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHdb0c.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01dd.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH8b0e.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHb624.dir\doc.xml
+buildcol.pl> Stats (Compressing text from text)
+buildcol.pl> Total bytes in collection: 119603
+buildcol.pl> Total bytes in text: 119662
+buildcol.pl> 
+buildcol.pl>     creating the compression dictionary
+buildcol.pl> 
+buildcol.pl>     compressing the text (mgpp_passes -T2)
+buildcol.pl> ArchivesInfPlugin: processing D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\archives\archiveinf-doc.jdb
+buildcol.pl> GreenstoneXMLPlugin: processing HASH8a93.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0187.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHd7c1.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH2075.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH7643.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH23d0.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHbcc5.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHb962.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01cd.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH4c7f.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH3bae.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01f1.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHc3ba.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH2b7a.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH4c0d.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHfa23.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01d9.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0117.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0162.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01b8.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH68c3.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH1782.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH2e86.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0122.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHacc0.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0109\da40865a.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH9234.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH2c73.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHb3d4.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHcd9a.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH37bb.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHe137.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01f5.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHd419.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHc97c.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHb339.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01dc.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0121.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH4365.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0155.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHf026.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH4dd1.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0109.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH1d8c.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0136.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0164.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0173.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0156.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH015f.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01a7.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH5a23.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01ee.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0196.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH66a9.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHa7f2.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHdb0c.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01dd.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH8b0e.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHb624.dir\doc.xml
+buildcol.pl> Stats (Compressing text from text)
+buildcol.pl> Total bytes in collection: 119603
+buildcol.pl> Total bytes in text: 119662
+buildcol.pl> 
+buildcol.pl> *** building index dc.Title,ex.dc.Title,Title; in subdirectory idx
+buildcol.pl> 
+buildcol.pl>     creating index dictionary (mgpp_passes -I1)
+buildcol.pl> ArchivesInfPlugin: processing D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\archives\archiveinf-doc.jdb
+buildcol.pl> GreenstoneXMLPlugin: processing HASH8a93.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0187.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHd7c1.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH2075.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH7643.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH23d0.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHbcc5.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHb962.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01cd.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH4c7f.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH3bae.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01f1.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHc3ba.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH2b7a.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH4c0d.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHfa23.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01d9.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0117.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0162.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01b8.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH68c3.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH1782.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH2e86.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0122.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHacc0.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0109\da40865a.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH9234.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH2c73.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHb3d4.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHcd9a.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH37bb.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHe137.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01f5.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHd419.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHc97c.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHb339.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01dc.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0121.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH4365.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0155.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHf026.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH4dd1.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0109.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH1d8c.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0136.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0164.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0173.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0156.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH015f.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01a7.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH5a23.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01ee.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0196.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH66a9.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHa7f2.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHdb0c.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01dd.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH8b0e.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHb624.dir\doc.xml
+buildcol.pl> Stats (Creating index dc.Title,ex.dc.Title,Title;)
+buildcol.pl> Total bytes in collection: 119603
+buildcol.pl> Total bytes in dc.Title,ex.dc.Title,Title;: 1510
+buildcol.pl> 
+buildcol.pl>     inverting the text (mgpp_passes -I2)
+buildcol.pl> ArchivesInfPlugin: processing D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\archives\archiveinf-doc.jdb
+buildcol.pl> GreenstoneXMLPlugin: processing HASH8a93.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0187.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHd7c1.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH2075.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH7643.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH23d0.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHbcc5.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHb962.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01cd.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH4c7f.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH3bae.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01f1.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHc3ba.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH2b7a.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH4c0d.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHfa23.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01d9.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0117.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0162.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01b8.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH68c3.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH1782.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH2e86.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0122.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHacc0.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0109\da40865a.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH9234.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH2c73.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHb3d4.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHcd9a.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH37bb.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHe137.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01f5.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHd419.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHc97c.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHb339.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01dc.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0121.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH4365.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0155.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHf026.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH4dd1.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0109.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH1d8c.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0136.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0164.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0173.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0156.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH015f.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01a7.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH5a23.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01ee.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0196.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH66a9.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHa7f2.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHdb0c.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01dd.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH8b0e.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHb624.dir\doc.xml
+buildcol.pl> Stats (Creating index dc.Title,ex.dc.Title,Title;)
+buildcol.pl> Total bytes in collection: 119603
+buildcol.pl> Total bytes in dc.Title,ex.dc.Title,Title;: 1510
+buildcol.pl> 
+buildcol.pl>     create the weights file
+buildcol.pl> 
+buildcol.pl>     creating 'on-disk' stemmed dictionary
+buildcol.pl> 
+buildcol.pl>     creating stem indexes
+buildcol.pl> BuildDir: D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\building
+buildcol.pl> 
+buildcol.pl> *** creating the info database and processing associated files
+buildcol.pl> ArchivesInfPlugin: processing D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\archives\archiveinf-doc.jdb
+buildcol.pl> Creating new database table 'greenstone' ...
+buildcol.pl> GreenstoneXMLPlugin: processing HASH8a93.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0187.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHd7c1.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH2075.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH7643.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH23d0.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHbcc5.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHb962.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01cd.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH4c7f.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH3bae.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01f1.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHc3ba.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH2b7a.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH4c0d.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHfa23.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01d9.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0117.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0162.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01b8.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH68c3.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH1782.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH2e86.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0122.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHacc0.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0109\da40865a.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH9234.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH2c73.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHb3d4.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHcd9a.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH37bb.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHe137.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01f5.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHd419.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHc97c.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHb339.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01dc.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0121.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH4365.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0155.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHf026.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH4dd1.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0109.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH1d8c.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0136.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0164.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0173.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0156.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH015f.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01a7.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH5a23.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01ee.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0196.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH66a9.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHa7f2.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHdb0c.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01dd.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH8b0e.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHb624.dir\doc.xml
+buildcol.pl> *** outputting information for classifier: CL1
+buildcol.pl> *** outputting information for classifier: CL2
+buildcol.pl> *** outputting information for classifier: CL3
+buildcol.pl> *** outputting information for classifier: CL4
+buildcol.pl> 
+buildcol.pl> *** creating auxiliary files 
+buildcol.pl> Wide character in print at D:\Program Files\Greenstone3\gs2build\perllib/buildConfigxml.pm line 200.
+buildcol.pl> Wide character in print at D:\Program Files\Greenstone3\gs2build\perllib/buildConfigxml.pm line 200.
+buildcol.pl> Wide character in print at D:\Program Files\Greenstone3\gs2build\perllib/buildConfigxml.pm line 200.
+buildcol.pl> Wide character in print at D:\Program Files\Greenstone3\gs2build\perllib/buildConfigxml.pm line 200.
+buildcol.pl> Appending to existing database table 'greenstone' ...
+buildcol.pl> Creating new database table 'greenstone' ...
+buildcol.pl> Copying rss-items.rdf file from 'archives' to 'building'
+buildcol.pl> 
+buildcol.pl> ************************
+buildcol.pl> * Running  Collection  Activation  Stage
+buildcol.pl> ************************
+buildcol.pl> Pinging http://127.0.0.1:8383/greenstone3/library
+buildcol.pl> Checking if Greenstone server is persistent
+buildcol.pl> Checking if the collection composer is already active
+buildcol.pl> Collection is not active => No need to deactivate
+buildcol.pl> 
+buildcol.pl> ************************
+buildcol.pl> * Removing "index"
+buildcol.pl> ************************
+buildcol.pl> 
+buildcol.pl> ************************
+buildcol.pl> * Moving "building" -> "index"
+buildcol.pl> ************************
+buildcol.pl> Pinging http://127.0.0.1:8383/greenstone3/library
+buildcol.pl> Checking if the collection composer is not already active
+buildcol.pl>  Collection is not active.
+buildcol.pl> Activating collection composer
+buildcol.pl> 	- Main library servlet
+buildcol.pl> 	- OAI servlet
+buildcol.pl> 
+buildcol.pl> Command complete.

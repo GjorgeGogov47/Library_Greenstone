@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Arnold_Schoenberg.html</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">HTMLPlugin</Metadata>
+    <Metadata name="FileSize">3788</Metadata>
+    <Metadata name="Source">Arnold_Schoenberg.html</Metadata>
+    <Metadata name="SourceFile">Arnold_Schoenberg.html</Metadata>
+    <Metadata name="Language">de</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="Title">Arnold Schoenberg</Metadata>
+    <Metadata name="FileFormat">HTML</Metadata>
+    <Metadata name="URL">http://Arnold_Schoenberg.html</Metadata>
+    <Metadata name="UTF8URL">http://Arnold_Schoenberg.html</Metadata>
+    <Metadata name="dc.Description">1850-1950</Metadata>
+    <Metadata name="dc.Relation">Австрија</Metadata>
+    <Metadata name="dc.Subject">Експресионизам</Metadata>
+    <Metadata name="Identifier">HASH4dd1ad62864d269ae0ad48</Metadata>
+    <Metadata name="lastmodified">1600618779</Metadata>
+    <Metadata name="lastmodifieddate">20200920</Metadata>
+    <Metadata name="oailastmodified">1600786940</Metadata>
+    <Metadata name="oailastmodifieddate">20200922</Metadata>
+    <Metadata name="assocfilepath">HASH4dd1.dir</Metadata>
+  </Description>
+  <Content>
+&lt;table style=&quot;text-align: center;background-color:lightgray;width:100%;height:100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td style=&quot;width:33%&quot;&gt;
+            &lt;h2&gt;Arnold Schoenberg&lt;/h2&gt;
+            &lt;h3&gt;1874-1951&lt;/h3&gt;
+        &lt;/td&gt;
+
+        &lt;td&gt;
+            &lt;img style=&quot;border:2px solid black&quot;
+                 src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://upload.wikimedia.org/wikipedia/commons/a/ad/Arnold_Schoenberg_la_1948.jpg&quot;/&gt;
+        &lt;/td&gt;
+
+        &lt;td style=&quot;width:33%&quot;&gt;
+            &lt;h3&gt;Потекло: Австриско-Американско&lt;/h3&gt;&lt;br/&gt;
+            &lt;h3&gt;Стил/период: Доцен Германски Романтизам до 1909; Експресионизам 1909-1922; Серијален понатаму&lt;/h3&gt;
+        &lt;/td&gt;
+
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td style=&quot;border-top:2px solid black&quot;&gt;
+            &lt;h3&gt;Композитори од кои има добиено инспирација&lt;/h3&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Alexander Zemlinsky&lt;/li&gt;
+                &lt;li&gt;Ferruccio Busoni&lt;/li&gt;
+                &lt;li&gt;Gustav Mahler&lt;/li&gt;
+                &lt;li&gt;Hugo Wolf&lt;/li&gt;
+                &lt;li&gt;Johannes Brahms&lt;/li&gt;
+                &lt;li&gt;Johann Sebastian Bach&lt;/li&gt;
+                &lt;li&gt;Ludwig van Beethoven&lt;/li&gt;
+                &lt;li&gt;Max Reger&lt;/li&gt;
+                &lt;li&gt;Paul Dukas&lt;/li&gt;
+                &lt;li&gt;Richard Strauss&lt;/li&gt;
+                &lt;li&gt;Richard Wagner&lt;/li&gt;
+                &lt;li&gt;Wolfgang Amadeus Mozart&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/td&gt;
+        &lt;td style=&quot;border-top: 2px solid black&quot;&gt;&lt;/td&gt;
+        &lt;td style=&quot;border-top:2px solid black&quot;&gt;
+            &lt;h3&gt;Композитори кои ги има инспирирано&lt;/h3&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Aaron Copland&lt;/li&gt;
+                &lt;li&gt;Alban Berg&lt;/li&gt;
+                &lt;li&gt;Alberto Ginastera&lt;/li&gt;
+                &lt;li&gt;Alexander Zemlinsky&lt;/li&gt;
+                &lt;li&gt;Alfredo Casella&lt;/li&gt;
+                &lt;li&gt;Alois Haba&lt;/li&gt;
+                &lt;li&gt;Anton Webern&lt;/li&gt;
+                &lt;li&gt;Arthur Bliss&lt;/li&gt;
+                &lt;li&gt;Arthur Honegger&lt;/li&gt;
+                &lt;li&gt;Arvo Part&lt;/li&gt;
+                &lt;li&gt;Bela Bartok&lt;/li&gt;
+                &lt;li&gt;Benjamin Britten&lt;/li&gt;
+                &lt;li&gt;Charles Wuorinen&lt;/li&gt;
+                &lt;li&gt;Edgard Varese&lt;/li&gt;
+                &lt;li&gt;Elliott Carter&lt;/li&gt;
+                &lt;li&gt;Ernst Krenek&lt;/li&gt;
+                &lt;li&gt;Frank Martin&lt;/li&gt;
+                &lt;li&gt;George Rochberg&lt;/li&gt;
+                &lt;li&gt;Giacinto Scelsi&lt;/li&gt;
+                &lt;li&gt;Gunther Schuller&lt;/li&gt;
+                &lt;li&gt;Hans Werner Henze&lt;/li&gt;
+                &lt;li&gt;Igor Stravinsky&lt;/li&gt;
+                &lt;li&gt;John Cage&lt;/li&gt;
+                &lt;li&gt;Krzysztof Penderecki&lt;/li&gt;
+                &lt;li&gt;Kurt Weill&lt;/li&gt;
+                &lt;li&gt;Leos Janacek&lt;/li&gt;
+                &lt;li&gt;Lou Harrison&lt;/li&gt;
+                &lt;li&gt;Luigi Dallapiccola&lt;/li&gt;
+                &lt;li&gt;Luigi Nono&lt;/li&gt;
+                &lt;li&gt;Marc Blitzstein&lt;/li&gt;
+                &lt;li&gt;Maurice Ravel&lt;/li&gt;
+                &lt;li&gt;Mauricio Kagel&lt;/li&gt;
+                &lt;li&gt;Mel Powell&lt;/li&gt;
+                &lt;li&gt;Milton Babbitt&lt;/li&gt;
+                &lt;li&gt;Peter Maxwell Davies&lt;/li&gt;
+                &lt;li&gt;Pierre Boulez&lt;/li&gt;
+                &lt;li&gt;Roberto Gerhard&lt;/li&gt;
+                &lt;li&gt;Roger Sessions&lt;/li&gt;
+                &lt;li&gt;Sigfrid Karg-Elert&lt;/li&gt;
+                &lt;li&gt;Toru Takemitsu&lt;/li&gt;
+                &lt;li&gt;Wallingford Riegger&lt;/li&gt;
+                &lt;li&gt;Walter Piston&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+</Content>
+</Section>
+</Archive>

@@ -1,0 +1,2 @@
+September 2018
+Added Image and SourceSialog plugins. Both version 4.10.0. Folder in plugins added, plus mods to config.js

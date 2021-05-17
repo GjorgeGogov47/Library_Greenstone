@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MetadataSet SYSTEM "http://www.greenstone.org/dtd/MetadataSet/1.0/MetadataSet.dtd">
+<MetadataSet contact="" creator="" family="" lastchanged="Tue Sep 05 14:40:36 NZST 2006 - kjdon on kanuka" namespace="gs">
+  <SetLanguage code="en">
+    <Name>Greenstone metadata set</Name>
+    <Description>Some special elements particular to Greenstone.</Description>
+  </SetLanguage>
+  <SetLanguage code="vi">
+    <Name>Bộ siêu dữ liệu riêng của Greenstone</Name>
+    <Description>Một số yếu tố riêng biệt cho Greenstone.</Description>
+  </SetLanguage>
+  <Element name="DocumentHeader">
+    <Language code="en">
+      <Attribute name="label">Document Header</Attribute>
+      <Attribute name="definition">Headers that will be added to document display. For example, use this to include stylesheets in the document display. The content should be escaped HTML.</Attribute>
+      <Attribute name="comment">The _document:documentheader_ macro will be set to the value of this metadata.</Attribute>
+    </Language>
+    <Language code="vi">
+      <Attribute name="label">Tiêu đề tài liệu</Attribute>
+      <Attribute name="definition">Tiêu đề được bổ sung vào phần hiển thị của tài liệu. Thí dụ, sử dụng điều này để đưa stylesheets vào trong việc hiển thị tài liệu. Nội dung cần là escaped HTML.</Attribute>
+      <Attribute name="comment">Macro  _document:documentheader_ sẽ được thiết lập cho giá trị của siêu dữ liệu này</Attribute>
+    </Language>
+  </Element>
+  <Element name="OAIDateStamp">
+    <Language code="en">
+      <Attribute name="label">OAI DateStamp</Attribute>
+      <Attribute name="definition">The datestamp of the document to be used by the OAI server. Format must be YYYY-MM-DD. If not defined, oailastmodified will be used instead.</Attribute>
+    </Language>
+  </Element>
+  <Element name="OAIResourceURL">
+    <Language code="en">
+      <Attribute name="label">OAI Resource URL</Attribute>
+      <Attribute name="definition">The URL for the document to be used for dc:identifier. If not defined, a URL to the file defined by srclinkFile metadata will be used instead. If no srclinkFile either, then a URL to the Greenstone version of the document will be used.</Attribute>
+    </Language>
+  </Element>
+  <Element name="allowPrinting">
+    <Language code="en">
+      <Attribute name="label">Allow Printing</Attribute>
+      <Attribute name="definition">Controls whether or not a particular document can be printed from within the Realistic Books software.  Defaults to 'true' (i.e allow printing); set to 'false' to prevent this.</Attribute>
+    </Language>
+  </Element>
+  <Element name="filenameEncoding" accumulating="false">
+    <Language code="en">
+      <Attribute name="label">Filename Encoding</Attribute>
+      <Attribute name="definition">The encoding of the filename. If this is known, it can be manually set here.</Attribute>
+      <Attribute name="comment">If not manually specified, Greenstone will try to guess the encoding of the filename upon building, which may or may not be correct.</Attribute>
+    </Language>
+  </Element>
+  
+</MetadataSet>

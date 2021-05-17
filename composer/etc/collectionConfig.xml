@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CollectionConfig xmlns:gsf="http://www.greenstone.org/greenstone3/schema/ConfigFormat" xmlns:gslib="http://www.greenstone.org/skinning" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+	<metadataList>
+		<metadata lang="en" name="creator"/>
+		<metadata lang="en" name="maintainer"/>
+		<metadata lang="en" name="public">true</metadata>
+	</metadataList>
+	<displayItemList>
+		<displayItem assigned="true" lang="en" name="name">Composers</displayItem>
+		<displayItem assigned="true" lang="en" name="dc.Title,ex.dc.Title,Title">Пребарај композитор</displayItem>
+		<displayItem assigned="true" lang="en" name="document:text">text</displayItem>
+		<displayItem assigned="true" lang="en" name="document:ex.Title">Title</displayItem>
+		<displayItem assigned="true" lang="en" name="document:ex.Source">Source</displayItem>
+		<displayItem assigned="true" lang="en" name="document">document</displayItem>
+		<displayItem assigned="true" lang="en" name="section">section</displayItem>
+		<displayItem assigned="true" lang="en" name="text">text</displayItem>
+		<displayItem assigned="true" lang="en" name="Source">filenames</displayItem>
+		<displayItem assigned="true" lang="en" name="shortDescription">composer</displayItem>
+	</displayItemList>
+	<format>
+			<gsf:template name="choose-title">
+				<gsf:choose-metadata>
+					<gsf:metadata name="dc.Title"/>
+					<gsf:metadata name="exp.Title"/>
+					<gsf:metadata name="ex.dc.Title"/>
+					<gsf:metadata name="Title"/>
+					<gsf:default>Untitled</gsf:default>
+				</gsf:choose-metadata>
+			</gsf:template>
+		</format>
+	<search type="mgpp">
+		<level name="document">
+			<displayItem lang="en" name="name">document</displayItem>
+		</level>
+		<level name="section">
+			<displayItem lang="en" name="name">section</displayItem>
+		</level>
+		<defaultLevel name="document"/>
+		<index name="dc.Title,ex.dc.Title,Title">
+			<displayItem lang="en" name="name">Пребарај композитор</displayItem>
+		</index>
+		<defaultIndex name="dc.Title,ex.dc.Title,Title"/>
+		<indexOption name="casefold"/>
+		<indexOption name="stem"/>
+		<indexOption name="accentfold"/>
+		<searchType name="plain"/>
+		<searchType name="simpleform"/>
+		<searchType name="advancedform"/>
+		<format>
+			<gsf:template match="documentNode">
+				<td valign="top">
+					<gsf:link type="document">
+						<gsf:icon type="document"/>
+					</gsf:link>
+				</td>
+				<td>
+					<gsf:link type="document">
+						<xsl:call-template name="choose-title"/>
+					</gsf:link>
+				</td>
+			</gsf:template>
+		</format>
+	</search>
+	<infodb type="jdbm"/>
+	<import>
+		<pluginList>
+			<plugin name="ZIPPlugin"/>
+			<plugin name="GreenstoneXMLPlugin"/>
+			<plugin name="TextPlugin"/>
+			<plugin name="HTMLPlugin"/>
+			<plugin name="EmailPlugin"/>
+			<plugin name="PDFv2Plugin"/>
+			<plugin name="RTFPlugin"/>
+			<plugin name="WordPlugin"/>
+			<plugin name="PostScriptPlugin"/>
+			<plugin name="PowerPointPlugin"/>
+			<plugin name="ExcelPlugin"/>
+			<plugin name="ImagePlugin"/>
+			<plugin name="ISISPlugin"/>
+			<plugin name="NulPlugin"/>
+			<plugin name="OAIPlugin"/>
+			<plugin name="MetadataXMLPlugin"/>
+			<plugin name="ArchivesInfPlugin"/>
+			<plugin name="DirectoryPlugin"/>
+		</pluginList>
+	</import>
+	<browse>
+		<classifier name="List">
+			<option name="-metadata" value="dc.Title;Title"/>
+			<option name="-partition_type_within_level" value="approximate_size"/>
+			<option name="-buttonname" value="Сите Композитори"/>
+		</classifier>
+		<classifier name="List">
+			<option name="-metadata" value="dc.Relation"/>
+			<option name="-bookshelf_type" value="always"/>
+			<option name="-partition_type_within_level" value="none"/>
+			<option name="-buttonname" value="Земја/Потекло"/>
+		</classifier>
+		<classifier name="List">
+			<option name="-metadata" value="dc.Description"/>
+			<option name="-bookshelf_type" value="always"/>
+			<option name="-partition_type_within_level" value="none"/>
+			<option name="-buttonname" value="Временски Опсег"/>
+		</classifier>
+		<classifier name="List">
+			<option name="-metadata" value="dc.Subject"/>
+			<option name="-bookshelf_type" value="always"/>
+			<option name="-partition_type_within_level" value="none"/>
+			<option name="-buttonname" value="Музички Стил/Период"/>
+		</classifier>
+		<format>  <gsf:template match="documentNode">
+    <td valign="top">
+      <gsf:link type="document">
+        <gsf:icon type="document"/>
+      </gsf:link>
+    </td>
+    <td valign="top">
+      <gsf:link type="source">
+        <gsf:choose-metadata>
+          <gsf:metadata name="thumbicon"/>
+          <gsf:metadata name="srcicon"/>
+        </gsf:choose-metadata>
+      </gsf:link>
+    </td>
+    <td valign="top">
+      <gsf:link type="document">
+<!--
+Defined in the global format statement
+-->
+        <xsl:call-template name="choose-title"/>
+        <gsf:switch>
+          <gsf:metadata name="Source"/>
+          <gsf:when test="exists">
+            <br/>
+          </gsf:when>
+        </gsf:switch>
+      </gsf:link>
+    </td>
+  </gsf:template>
+  <gsf:template match="classifierNode[@classifierStyle = 'VList']">
+    <td valign="top">
+      <gsf:link style="static" type="classifier">
+        <gsf:icon type="classifier"/>
+      </gsf:link>
+    </td>
+    <td valign="top">
+      <gsf:link type="classifier">
+        <gsf:metadata name="Title"/>
+      </gsf:link>
+    </td>
+  </gsf:template>
+  <gsf:template match="classifierNode[@classifierStyle = 'HList']">
+    <gsf:link style="static" type="classifier">
+      <gsf:metadata name="Title"/>
+    </gsf:link>
+  </gsf:template>
+
+</format>
+	</browse>
+	<display>
+		<format>
+			<gsf:option name="TOC" value="true"/>
+			<gsf:option name="AllowUserComments" value="false"/>
+<!--
+Overwriting this template allows you to change the heading of the document.
+-->
+<!--
+<gsf:template name="documentHeading">
+<span style="font-weight:bold; font-size: 120%;">
+<xsl:call-template name="choose-title"/>
+</span>
+</gsf:template>
+-->
+<!--
+Overwriting this template can be used to redefine the content of the whole document. This is useful for simple documents, but not recommended for more complex documents (e.g. hierachical and paged documents) as it can prevent any sub-sections from showing.
+-->
+<!--
+<gsf:template name="documentContent">
+<div id="gs-document">
+<xsl:call-template name="documentPre"/>
+<xsl:call-template name="wrappedSectionImage"/>
+<div id="gs-document-text">
+<xsl:call-template name="documentNodeText"/>
+</div>
+</div>
+</gsf:template>
+-->
+<!--
+Overwriting this template can be used to change the content of section headings.
+-->
+<!--
+<gsf:template name="sectionHeading">
+<xsl:call-template name="choose-title"/>
+</gsf:template>
+-->
+<!--
+Overwriting this template can be used to change the content of the top-level section.
+-->
+<!--
+<gsf:template name="topLevelSectionContent">
+<xsl:call-template name="wrappedSectionImage"/>
+<xsl:call-template name="wrappedSectionText"/>
+</gsf:template>
+-->
+<!--
+Overwriting this template can be used to change the content of sections.
+-->
+<!--
+<gsf:template name="sectionContent">
+<xsl:call-template name="wrappedSectionImage"/>
+<xsl:call-template name="wrappedSectionText"/>
+</gsf:template>
+-->
+		</format>
+	</display>
+	<replaceListRef id="gs2-standard"/>
+	<replaceListRef id="gs2-image"/>
+	<serviceRackList><!-- comment out the following serviceRack if you want to disable RSS for this collection -->
+		<serviceRack name="RSSRetrieve"/><!-- comment out the following serviceRack if you want to disable OAI for this collection -->
+		<serviceRack name="OAIPMH">
+			<setName>composer</setName>
+			<setDescription/><!-- uncomment the following and set the name attribute if 
+		       you want this collection to be part of a super set. --><!--<oaiSuperSet name="xxx"/>-->
+			<ListMetadataFormats><!--What metadata sets to support for this collection. You can select any set that is specified in OAIConfig.xml. To use a new set, you need to add a set definition in OAIConfig.xml, then reference it here, like:
+				   <metadataFormat metadataPrefix="prefix"/> -->
+				<metadataFormat metadataPrefix="oai_dc"><!-- you can customize the mappings by adding elements in here. See resources/oai/OAIConfig.xml for the format--></metadataFormat>
+			</ListMetadataFormats>
+		</serviceRack>
+	</serviceRackList>
+</CollectionConfig>

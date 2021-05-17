@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MetadataSet SYSTEM "http://www.greenstone.org/dtd/MetadataSet/1.0/MetadataSet.dtd">
+<MetadataSet contact="nzdl.org" creator="New Zealand Digital Libraries Project: Greenstone" family="Extracted Greenstone" lastchanged="Tue Sep 05 14:40:36 NZST 2006 - kjdon on kanuka" namespace="ex">
+    <SetLanguage code="en">
+        <Name>Extracted Greenstone Metadata 1.1</Name>
+        <Description>This document is the reference description, version 1.1 of the automatically extracted Greenstone Metadata Element Set. Most of the possible extracted metadata elements have been added.</Description>
+    </SetLanguage>
+    <SetLanguage code="vi">
+        <Name>Bộ siêu dữ liệu Greenstone</Name>
+        <Description>Mô tả về bộ siêu dữ liệu Greenstone phiên bản 1.1 cho yếu tố siêu dữ liệu Greenstone được triết rút tự động</Description>
+    </SetLanguage>
+    <SetLanguage code="ar">
+    	<Name language="ar">واصفات بيانات Greenstone المستخرجة 1.0</Name>
+    	<Description language="ar">واصفات بيانات قرينستون</Description>
+       </SetLanguage>
+
+    <Element name="Title">
+        <Language code="en">
+            <Attribute name="comment">Not always available.</Attribute>
+            <Attribute name="definition">The title of the imported document as extracted by Greenstone.</Attribute>
+            <Attribute name="label">Title</Attribute>
+        </Language>
+        <Language code="vi">
+            <Attribute name="label">Nhan đề</Attribute>
+            <Attribute name="definition">Nhan đề của tài liệu nhập khẩu vào Hệ thống và được Greenstone triết rút tự động</Attribute>
+            <Attribute name="comment">Không phải lúc nào cũng sẵn có</Attribute>
+        </Language>
+        <Language code="ar">
+             <Attribute name="label">العنوان</Attribute>
+             <Attribute name="definition">العنوان</Attribute>
+              <Attribute name="comment">غير متوفر دائما.</Attribute>
+        </Language>
+
+    </Element>
+    <Element name="Encoding">
+        <Language code="en">
+            <Attribute name="comment">Not always available.</Attribute>
+            <Attribute name="definition">The encoding of the imported document as extracted by Greenstone.</Attribute>
+            <Attribute name="label">Encoding</Attribute>
+        </Language>
+        <Language code="vi">
+            <Attribute name="label">Bộ mã ký tự</Attribute>
+            <Attribute name="definition">Thông tin bộ mã ký tự của tài liệu được nhập khẩu mà Greenstone tự động triết rut được</Attribute>
+            <Attribute name="comment">Không phải lúc nào cũng có sẵn</Attribute>
+        </Language>
+        <Language code="ar">
+            <Attribute name="label">التشفير</Attribute>
+            <Attribute name="definition">التشفير</Attribute>
+            <Attribute name="comment">غير متوفر دائما.</Attribute>
+    </Language>
+
+    </Element>
+    <Element name="Language">
+        <Language code="en">
+            <Attribute name="comment">Not always available.</Attribute>
+            <Attribute name="definition">The language of the imported document as extracted by Greenstone.</Attribute>
+            <Attribute name="label">Language</Attribute>
+        </Language>
+        <Language code="vi">
+            <Attribute name="label">Ngôn ngữ</Attribute>
+            <Attribute name="definition">Tên ngôn ngữ của tài liệu mà Greenstone tự động triết rút được.</Attribute>
+            <Attribute name="comment">Không phải lúc nào cũng có sẵn</Attribute>
+        </Language>
+        <Language code="ar">
+            <Attribute name="label">اللغة</Attribute>
+            <Attribute name="definition">اللغة</Attribute>
+            <Attribute name="comment">غير متوفر دائما.</Attribute>
+        </Language>
+
+    </Element>
+    <Element name="Source">
+        <Language code="en">
+            <Attribute name="comment"/>
+            <Attribute name="definition">The filename of the document imported by Greenstone, suitable for display.</Attribute>
+            <Attribute name="label">Source</Attribute>
+        </Language>
+        <Language code="vi">
+            <Attribute name="label">Tên tệp tin</Attribute>
+            <Attribute name="definition">Tên tệp tin củâtì liệu được Greenstone nhập khẩu vào hệ thống.</Attribute>
+            <Attribute name="comment">Ẩn đối với GLI bởi đã được hiển thị trong cây thư mục</Attribute>
+        </Language>
+        <Language code="ar">
+            <Attribute name="label">اسماء الملفات</Attribute>
+            <Attribute name="definition"></Attribute>
+            <Attribute name="comment">غير متوفر دائما.</Attribute>
+        </Language>
+
+    </Element>
+    <Element name="SourceFile">
+        <Language code="en">
+            <Attribute name="label">SourceFile</Attribute>
+            <Attribute name="definition">The file the metadata has been extracted from</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="FileSize">
+        <Language code="en">
+            <Attribute name="label">FileSize</Attribute>
+            <Attribute name="definition">The size of the source file in bytes</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="FileFormat">
+        <Language code="en">
+            <Attribute name="label">FileFormat</Attribute>
+            <Attribute name="definition">The format of the source file</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="MimeType">
+        <Language code="en">
+            <Attribute name="label">MimeType</Attribute>
+            <Attribute name="definition">The MIME type of the source file</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="Identifier">
+        <Language code="en">
+            <Attribute name="label">Identifier</Attribute>
+            <Attribute name="definition">Identifier assigned by Greenstone</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+        <Language code="ab">
+            <Attribute name="label"/>
+            <Attribute name="definition"/>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="Plugin">
+        <Language code="en">
+            <Attribute name="label">Plugin</Attribute>
+            <Attribute name="definition">The Greenstone plugin used to extract metadata</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="URL">
+        <Language code="en">
+            <Attribute name="label">URL</Attribute>
+            <Attribute name="definition">The URL the source file was retrieved from</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="assocfilepath">
+        <Language code="en">
+            <Attribute name="label">assocfilepath</Attribute>
+            <Attribute name="definition">The filepath of any associated files</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="lastmodified">
+        <Language code="en">
+            <Attribute name="label">lastmodified</Attribute>
+            <Attribute name="definition">The date of the last modification of the source file</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="hascover">
+        <Language code="en">
+            <Attribute name="label">hascover</Attribute>
+            <Attribute name="definition">Whether or not a cover has been defined for the source file</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="NoText">
+        <Language code="en">
+            <Attribute name="label">NoText</Attribute>
+            <Attribute name="definition">True if the source file has no text</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="Date">
+        <Language code="en">
+            <Attribute name="label">Date</Attribute>
+            <Attribute name="definition">The date of the source file</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="Image">
+        <Language code="en">
+            <Attribute name="label">Image</Attribute>
+            <Attribute name="definition">Image</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="ImageType">
+        <Language code="en">
+            <Attribute name="label">ImageType</Attribute>
+            <Attribute name="definition">The type of the image</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="ImageSize">
+        <Language code="en">
+            <Attribute name="label">ImageSize</Attribute>
+            <Attribute name="definition">The size of the image in bytes</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="ImageHeight">
+        <Language code="en">
+            <Attribute name="label">ImageHeight</Attribute>
+            <Attribute name="definition">The height of the image in pixels</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="ImageWidth">
+        <Language code="en">
+            <Attribute name="label">ImageWidth</Attribute>
+            <Attribute name="definition">The width of the image in pixels</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="Thumb">
+        <Language code="en">
+            <Attribute name="label">Thumb</Attribute>
+            <Attribute name="definition">Thumbnail image</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="ThumbType">
+        <Language code="en">
+            <Attribute name="label">ThumbType</Attribute>
+            <Attribute name="definition">The file type of the thumbnail image</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="ThumbWidth">
+        <Language code="en">
+            <Attribute name="label">ThumbWidth</Attribute>
+            <Attribute name="definition">The width of the thumbnail image in pixels</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="ThumbHeight">
+        <Language code="en">
+            <Attribute name="label">ThumbHeight</Attribute>
+            <Attribute name="definition">The height of the thumbnail image in pixels</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="Screen">
+        <Language code="en">
+            <Attribute name="label">Screen</Attribute>
+            <Attribute name="definition">Screen</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="ScreenType">
+        <Language code="en">
+            <Attribute name="label">ScreenType</Attribute>
+            <Attribute name="definition">The type of the screen</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="ScreenWidth">
+        <Language code="en">
+            <Attribute name="label">ScreenWidth</Attribute>
+            <Attribute name="definition">The width of the screen in pixels</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="ScreenHeight">
+        <Language code="en">
+            <Attribute name="label">ScreenHeight</Attribute>
+            <Attribute name="definition">The height of the screen in pixels</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="SourceSegment">
+        <Language code="en">
+            <Attribute name="label">SourceSegment</Attribute>
+            <Attribute name="definition">Source segment</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="NumPages">
+        <Language code="en">
+            <Attribute name="label">NumPages</Attribute>
+            <Attribute name="definition">Number of pages</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="HTMLDisplay">
+        <Language code="en">
+            <Attribute name="label">HTMLDisplay</Attribute>
+            <Attribute name="definition">from procite plugin</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="RecordNumber">
+        <Language code="en">
+            <Attribute name="label">RecordNumber</Attribute>
+            <Attribute name="definition">from procite plugin</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="Workform">
+        <Language code="en">
+            <Attribute name="label">Workform</Attribute>
+            <Attribute name="definition">from procite plugin</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="Pages">
+        <Language code="en">
+            <Attribute name="label">Pages</Attribute>
+            <Attribute name="definition">Pages</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="PageNum">
+        <Language code="en">
+            <Attribute name="label">PageNum</Attribute>
+            <Attribute name="definition">Number of pages</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="GENERATOR">
+        <Language code="en">
+            <Attribute name="label">GENERATOR</Attribute>
+            <Attribute name="definition">GENERATOR</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="ISISRawRecord">
+        <Language code="en">
+            <Attribute name="label">ISISRawRecord</Attribute>
+            <Attribute name="definition">ISISRawRecord</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="Creator">
+        <Language code="en">
+            <Attribute name="label">Creator</Attribute>
+            <Attribute name="definition">The Creator of a record, as extracted by Latex, Bibtex, and Refer plugins. Contains a concatenated set of all Authors.</Attribute>
+            <Attribute name="comment">Not always available.</Attribute>
+        </Language>
+    </Element>
+    <Element name="Author">
+        <Language code="en">
+            <Attribute name="label">Author</Attribute>
+            <Attribute name="definition">The Author of a record, as extracted byLatex, Bibtex, and Refer plugins. Each Author specified individually.</Attribute>
+            <Attribute name="comment">Not always available.</Attribute>
+        </Language>
+        <Language code="ar">
+            <Attribute name="label">المؤلف شخص</Attribute>
+            <Attribute name="definition">المؤلف شخص</Attribute>
+            <Attribute name="comment">غير متوفر دائما.</Attribute>
+        </Language>
+    </Element>
+    <Element name="Placename">
+        <Language code="en">
+            <Attribute name="label">Placename</Attribute>
+            <Attribute name="definition">from gis plugin</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="Headers">
+        <Language code="en">
+            <Attribute name="label">Headers</Attribute>
+            <Attribute name="definition">from email plugin</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="InReplyTo">
+        <Language code="en">
+            <Attribute name="label">InReplyTo</Attribute>
+            <Attribute name="definition">from email plugin</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="FromName">
+        <Language code="en">
+            <Attribute name="label">FromName</Attribute>
+            <Attribute name="definition">from email plugin</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="FromAddr">
+        <Language code="en">
+            <Attribute name="label">FromAddr</Attribute>
+            <Attribute name="definition">from email plugin</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="EmailAddress">
+        <Language code="en">
+            <Attribute name="label">EmailAddress</Attribute>
+            <Attribute name="definition">Email address</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="EntryType">
+        <Language code="en">
+            <Attribute name="label">EntryType</Attribute>
+            <Attribute name="definition">from bibtex plugin</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="Keyword">
+        <Language code="en">
+            <Attribute name="label">Keyword</Attribute>
+            <Attribute name="definition">Keywords for a record, as extracted by Bibtex and Refer plugins.</Attribute>
+            <Attribute name="comment">Not always available.</Attribute>
+        </Language>
+        <Language code="ar">
+            <Attribute name="label">الكلمات المفتاحية</Attribute>
+            <Attribute name="definition">الكلمات المفتاحية</Attribute>
+            <Attribute name="comment">غير متوفر دائما.</Attribute>
+        </Language>
+    </Element>
+    <Element name="BookConfOnly">
+        <Language code="en">
+            <Attribute name="label">BookConfOnly</Attribute>
+            <Attribute name="definition">from bibtex, refer plugin</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="JournalsOnly">
+        <Language code="en">
+            <Attribute name="label">JournalsOnly</Attribute>
+            <Attribute name="definition">from bibtex, refer plugin</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="equivlink">
+        <Language code="en">
+            <Attribute name="label">equivlink</Attribute>
+            <Attribute name="definition">equivlink</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="Acronym">
+        <Language code="en">
+            <Attribute name="label">Acronym</Attribute>
+            <Attribute name="definition">Acronym</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="mp3applet">
+        <Language code="en">
+            <Attribute name="label">mp3applet</Attribute>
+            <Attribute name="definition">from mp3 plugin</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="giquery">
+        <Language code="en">
+            <Attribute name="label">giquery</Attribute>
+            <Attribute name="definition">from mp3 plugin</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="srcurl">
+        <Language code="en">
+            <Attribute name="label">srcurl</Attribute>
+            <Attribute name="definition">from mp3 plugin</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="Keyphrase">
+        <Language code="en">
+            <Attribute name="label">Keyphrase</Attribute>
+            <Attribute name="definition">Keyphrase</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+    <Element name="Keyphrases">
+        <Language code="en">
+            <Attribute name="label">Keyphrases</Attribute>
+            <Attribute name="definition">Keyphrases</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+    </Element>
+</MetadataSet>

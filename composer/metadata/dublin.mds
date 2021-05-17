@@ -1,0 +1,1420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MetadataSet SYSTEM "http://www.greenstone.org/dtd/MetadataSet/1.0/MetadataSet.dtd">
+<MetadataSet contact="dcmi-feedback@dublincore.org" creator="Dublin Core Metadata Initiative" family="Dublin Core" language_dependent="label, definition, comment" lastchanged="Tue Sep 05 14:40:36 NZST 2006 - kjdon on kanuka" namespace="dc">
+    <!-- English Version sourced from http://www.dublincore.org/documents/dces/ -->
+    <SetLanguage code="en">
+        <Name language="en">Dublin Core Metadata Element Set, Version 1.1: Reference Description</Name>
+        <Description language="en">This document is the reference description, version 1.1 of the Dublin Core Metadata Element Set. This document supersedes the Dublin Core Metadata Element Set, version 1.0. See the Dublin Core Home Page (http://dublincore.org) for further information about the workshops, reports, working group papers, projects, and new developments concerning the Dublin Core Metadata Element set</Description>
+    </SetLanguage>
+    <!-- Maori Version sourced from http://www.tki.org.nz/r/maori/pedagogy/dc_elements_m.php -->
+    <SetLanguage code="mi">
+        <Name>Dublin Core Huanga - Maori (He Tauira)</Name>
+    </SetLanguage>
+    <!-- French Version sourced from http://www-rocq.inria.fr/%7Evercoust/METADATA/DC-fr.1.1.html -->
+    <!--  by Anne-Marie Vercoustre, Inria -->
+    <SetLanguage code="fr">
+        <Name language="fr">Eléments de métadonnées du Dublin Core, Version 1.1: Description de Réference</Name>
+        <Description language="fr">Ce document résume les dernières définitions des éléments demétadonnées du Dublin Core originellement définis dans le document[RFC2413]. Ces nouvelles définitions seront officiellement connues comme la Version 1.1. Elles utilisent un standard défini formellement pour la description d&apos;éléments de métadonnées. Cette formalisation contribue à améliorer la cohérence avec d&apos;autres communautés décrivant des métadonnées et à augmenter la précision, la portée et la cohérence interne de la définition des éléments du Dublin Core.</Description>
+    </SetLanguage>
+    <!-- Russian Version sourced from -->
+    <!-- by Olga Barysheva, National Library of Russia -->
+    <SetLanguage code="ru">
+        <Name language="ru">Набор элементов метаданных Dublin Core (Дублинского ядра) Версия 1.1: Справочное описание</Name>
+        <Description language="ru">Настоящий документ обобщает обновленные определения элементов метаданных Dublin Core (Дублинского ядра), первоначально определенных в RFC2413 (Метаданные Dublin Core для нахождения ресурсов). Эти новые определения официально известны как Версия 1.1.</Description>
+    </SetLanguage>
+    <!-- Spanish Version sourced from http://www.rediris.es/metadata/. Please note that this is a translation for Dublin Core v1.0 -->
+    <!-- by Javi Masa, RedIRIS -->
+    <SetLanguage code="es">
+        <Name language="es">Elementos del conjunto de metadatas de Dublin Core: Descripción de Referencia</Name>
+        <Description language="es">Este documento corresponde a una traducción del original en lengua inglesa, con fecha 02/11/1997 que se encuentra en http://purl.org/metadata/dublin_core_elements. Este documento es una descripción de referencia de los elementos del conjunto de &quot;Dublin Core&quot;. Para más información sobre reuniones de trabajo, documentos de trabajo, proyectos y nuevos desarrollos relacionados con el conjunto de elementos que aquí se describen consultar la &quot;Home Page&quot; de &quot;Dublin Core&quot; (http://purl.org/metadata/dublin_core). Los elementos poseen nombres descriptivos que pretenden transmitir un significado semántico a los mismos. Para promover una interoperabilidad global, una descripción del valor de algunos elementos prodrá ser asociada a vocabularios controlados. Se asume que otros vocabularios controlados serán desarrollados para asegurar esta interoperabilidad en dominios específicos. Cada elemento es opcional y puede repetirse. Además, los elementos pueden aparecer en cualquier orden. Aunque algunos entornos, como HTML, no diferencian entre mayúsculas y minúsculas, es recomendable escribir correctamente cada metadata según su definición para evitar conflictos con otros entornos, como XML (Extensible Markup Language) http://www.w3.org/TR/PR-xml</Description>
+    </SetLanguage>
+    <!-- Arabic Version sourced from http://haddouti.de/DC_arabic.html -->
+    <!-- maintained by Hachim Haddouti. -->
+    <SetLanguage code="ar">
+        <Name>دبلين كور</Name>
+        <Description>نرحب بكم في صفحة  د بلين كو  ر بالعربي    في  هذه الصفحة  و بالتعاون مع الاخوان العرب من المكتبات، دار النشر، البحوث العلمية و    ورشة عملWorking Group On Multilingual Dublin Core (DC-International) ،</Description>
+    </SetLanguage>
+    <!-- Chinese - Simplified Version from http://dc.library.sh.cn/DC/1-1.htm -->
+    <!-- by Liu Wei, Shanghai Library -->
+    <SetLanguage code="cn">
+        <Name>都柏林核心元数据元素集1.1版：参考描述</Name>
+        <Description>本文档关于都柏林核心元数据元素集1.1版本的参考描述。此描述与已经提交给ISO用于国际投票的NISO官方标准保持一致。    都柏林核心元数据集是一种跨领域的信息资源描述标准。这里的信息资源被定义为“任何具有标识的东西”。此定义来自于Tim Berners-Lee等人所著的Internet RFC2396 &quot;Uniform Resource Identifiers (URI): Generic Syntax&quot;文件。都柏林核心元数据的应用领域没有根本的限制。</Description>
+    </SetLanguage>
+    <!-- Czech Version from http://www.ics.muni.cz/dublin_core/DC-czech-1.1.html -->
+    <!-- Ustav vypocetni techniky Masarykovy univerzity v Brne -->
+    <SetLanguage code="cs">
+        <Name>Soubor metadatových prvků Dublin Core, verze 1.1: referenční popis</Name>
+        <Description>Tento dokument je českým překladem anglické verze referenčního popisu souboru metadatových prvků  Dublin Core, verze 1.1 [DCEN1.1]. Tento dokument nahrazuje český překlad souboru metadatových prvků Dublin Core, verze 1.0 [DCCS1.0]. Další informace o pracovních seminářích (workshopech), zprávách, studiích pracovních skupin, projektech a dalším vývoji souboru metadatových prvků Dublin Core najdete na domovské stránce Dublin Core (http://purl.org/dc)</Description>
+    </SetLanguage>
+    <!-- Dutch Version from http://www.kb.nl/coop/donor/project-nl-index.html?/coop/donor/rapporten/DCsimpleformat.html -->
+    <!-- by ... -->
+    <SetLanguage code="nl">
+        <Name>Rapporten Dublin Core Simple Format</Name>
+        <Description>Dit document beschrijft welke Dublin Core metadata elementen er zijn en geeft een korte definitie van elk element. Voor uitgebreide uitleg en gebruik van de Dublin Core elementen wordt u verwezen naar de gebruikershandleiding. Deze vertaling geeft ook de keuzes aan voor standaarden (taalcodes, datum codes) die wij in DONOR verband gaan hanteren. In zoverre kan deze vertaling afwijken van het oorspronkelijke document &quot;Description of Dublin Core Elements&quot; http://purl.org/metadata/dublin_core_elements&quot;</Description>
+    </SetLanguage>
+    <!-- Finnish Version from http://www.lib.helsinki.fi/dublin_core/dcref-fin.html -->
+    <!-- by Jani Stenvall and Juha Hakala, Helsinki University Library -->
+    <SetLanguage code="fi">
+        <Name/>
+        <Description/>
+    </SetLanguage>
+    <!-- Interlingua Version sourced from http://www.nautilus.com.br/%7Eensjo/ia/purl.org/dc/documents/rec-dces-19990702.htm -->
+    <!-- by Emerson Jose` Silveira da Costa -->
+    <SetLanguage code="ia">
+        <Name>Collection de elementos de metadatos de Dublin Core, version 1.1: Description de referentia</Name>
+        <Description>Isto es un traduction de un Recommendation del Dublin Core Metadata Initiative. Le publication como un recommendation significa que le specificationes es stabile e su adoption es supportate per le communitate Dublin Core (http://purl.org/dc/).</Description>
+    </SetLanguage>
+    <!-- Marathi Version sourced from http://bioinfo.ernet.in/library/dc/ele.txt -->
+    <!-- by by Shubhada Nagarkar, Bioinformatics Centre, University of Pune -->
+    <SetLanguage code="mr">
+        <Name>डब्लिन कोर मेटाडेटा सेट आवृत्ती १.१ संदर्भ स्पष्टीकरण १.१ डब्लिन कोर मेटाडेटाआवृत्ती १.१.</Name>
+        <Description>१.१ डब्लिन कोर मेटाडेटा हे वेगवेगळ्या विषयातील माहीती साठ्यांवद्दलची माहीती देण्याचे मानक आहे.  यात माहीतीसाठा म्हणजे ज्याला ओळख आहे असा आसतो.  अशा प्रकारची व्याख्या माहीती जाळ्यवरील आ. एफ.सी. २३९६URI: Generic Syntax -- Tim Berners Lee et al. डब्लिन कोर मानक कोणत्याही प्रकारच्या माहीती साठ्यांसाठी वापरता येतो.  त्यासाठी कोणताही मज्जाव नाही.</Description>
+    </SetLanguage>
+    <!-- Tamil Version from Greenstone Tamil Language maintainer -->
+    <!-- by A. Neelameghan and S.K. Lalitha from Sarada Ranganathan Endowment for Library Science, Bangalore -->
+    <SetLanguage code="ta">
+        <Name>டப்ளின் கோர் மீதரவு உறுப்பு கணம் பதிப்பு 1.1: குறிப்பு விவரம்</Name>
+        <Description>இந்த ஆவண்ம் டப்ளின் கோர் மீதரவு உறுப்பு கணம் பதிப்பு 1.1 குறிப்பு விவரமாகும். இந்த ஆவண்ம் டப்ளின் கோர் மீதரவு உறுப்பு கணம் பதிப்பு 1.0 வை இரிவைப்புகிரது. வர்க்ஷாபபுக்கள், அறிக்கைகள், செயல் குழு தாள்கள்,  திட்டப்பணிகள், மேலும்   டப்ளின் கோர் மீதரவு உறுப்பு கணம் பதிப்பு புதிய விருத்தி பற்றி கூடுதல் தகவலுக்கு  டப்ளின் கோர் இல்ல பக்கத்தில் பார்க்கவும் (http://dublincore.org)</Description>
+    </SetLanguage>
+    <!-- Vietnamese Version from Greenstone Vietnamese Language maintainer -->
+    <!-- by Cao Minh Kiem, National Centre for Science and Technology, Hanoi, Vietnam-->
+    <SetLanguage code="vi">
+        <Name>Yếu tố Siêu dữ liệu Dublin Core, phiên bản 1.1: Tham chiếu</Name>
+        <Description/>
+    </SetLanguage>
+    <Element name="Title">
+        <!-- English -->
+        <Language code="en">
+            <Attribute name="label">Title</Attribute>
+            <Attribute name="definition">A name given to the resource.</Attribute>
+            <Attribute name="comment">Typically, a Title will be a name by which the resource is formally known.</Attribute>
+        </Language>
+        <!-- Maori -->
+        <Language code="mi">
+            <Attribute name="label">Taitara</Attribute>
+            <Attribute name="definition">Te ingoa ka tapaina tetahi rauemi.</Attribute>
+            <Attribute name="comment">Ko te tikanga, ko te Taitara te ingoa ka mohio whanuitia te ingoa.</Attribute>
+        </Language>
+        <!-- French -->
+        <Language code="fr">
+            <Attribute name="label">Titre</Attribute>
+            <Attribute name="definition">Le nom donné à la ressource.</Attribute>
+            <Attribute name="comment">Typiquement, un titre sera le nom par lequel la ressource est officiellement connue.</Attribute>
+        </Language>
+        <!-- Russian -->
+        <Language code="ru">
+            <Attribute name="label">Название</Attribute>
+            <Attribute name="definition">Имя, данное ресурсу.</Attribute>
+            <Attribute name="comment">Обычно названием является имя, под которым ресурс официально известен.</Attribute>
+        </Language>
+        <!-- Spanish -->
+        <Language code="es">
+            <Attribute name="label">Título</Attribute>
+            <Attribute name="definition">El nombre dado a un recurso, usualmente por el autor.</Attribute>
+        </Language>
+        <!-- Arabic -->
+        <Language code="ar">
+            <Attribute name="label">العنوان</Attribute>
+            <Attribute name="definition">هذا الاسم يعطى للمصدر, من قبل المبدع او الناشر</Attribute>
+        </Language>
+        <!-- Chinese - Simplified -->
+        <Language code="cn">
+            <Attribute name="label">资源名</Attribute>
+            <Attribute name="definition">赋予资源的名称。</Attribute>
+            <Attribute name="comment">资源名一般指资源对象正式公开的名称。</Attribute>
+        </Language>
+        <!-- Czech -->
+        <Language code="cs">
+            <Attribute name="label">Název</Attribute>
+            <Attribute name="definition">Jméno dané zdroji.</Attribute>
+            <Attribute name="comment">Název bude typicky jméno, pod nímž je zdroj oficiálně znám.</Attribute>
+        </Language>
+        <!-- Dutch -->
+        <Language code="nl">
+            <Attribute name="label">Titel</Attribute>
+            <Attribute name="definition">De naam van de Internetbron. Meestal gegeven door de auteur, maker of uitgever</Attribute>
+        </Language>
+        <!-- Finnish -->
+        <Language code="fi">
+            <Attribute name="label"/>
+            <Attribute name="definition"/>
+            <Attribute name="comment"/>
+        </Language>
+        <!-- Interlingua -->
+        <Language code="ia">
+            <Attribute name="label">Titulo</Attribute>
+            <Attribute name="definition">Un nomine date al ressource.</Attribute>
+            <Attribute name="comment">Typicamente se utiliza un nomine per le qual le ressource es formalmente cognite.</Attribute>
+        </Language>
+        <!-- Marathi -->
+        <Language code="mr">
+            <Attribute name="label">शीर्षक</Attribute>
+            <Attribute name="definition">पर्यायी शीर्षक</Attribute>
+            <Attribute name="comment">संक्षिप्त ,  भाषांतरीत  शीर्षक</Attribute>
+        </Language>
+        <!-- Tamil -->
+        <Language code="ta">
+            <Attribute name="label">தலைப்பு</Attribute>
+            <Attribute name="definition">வளத்திர்க்கு கொடுத்த பெயர்.</Attribute>
+            <Attribute name="comment">தலைப்பு</Attribute>
+        </Language>
+        <!-- Vietnamese -->
+        <Language code="vi">
+            <Attribute name="label">Nhan đề</Attribute>
+            <Attribute name="definition">Tên được gán cho nguồn tin</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+        <!-- Non-language specific -->
+        <Attribute name="version">1.1</Attribute>
+        <Attribute language="en" name="registration_authority">Dublin Core Metadata Initiative</Attribute>
+        <Attribute name="obligation">Optional</Attribute>
+        <Attribute name="datatype">Character String</Attribute>
+        <Attribute name="maximum_occurrence">Unlimited</Attribute>
+    </Element>
+    <Element name="Creator">
+        <!-- English -->
+        <Language code="en">
+            <Attribute name="label">Creator</Attribute>
+            <Attribute name="definition">An entity primarily responsible for making the content of the resource.</Attribute>
+            <Attribute name="comment">Examples of a Creator include a person, an organisation, or a service. Typically, the name of a Creator should be used to indicate the entity.</Attribute>
+        </Language>
+        <!-- Maori -->
+        <Language code="mi">
+            <Attribute name="label">Kaihanga</Attribute>
+            <Attribute name="definition">Te putahi, nana, na ratou ranei i matua oti ai te hanganga o te rauemi.</Attribute>
+            <Attribute name="comment">Ko te tangata, he putahitanga, he ratonga ranei etahi tauira Kaihanga. Ko te tikanga, ko te Kaihanga te ingoa ka whakamahia hei tohu i te putahi na ratou te hanganga.</Attribute>
+        </Language>
+        <!-- French -->
+        <Language code="fr">
+            <Attribute name="label">Créateur</Attribute>
+            <Attribute name="definition">L&apos;entité principalement responsable de la création du contenu de la ressource.</Attribute>
+            <Attribute name="comment">Exemples de Créateur incluent une personne, une organisation, ou un service. Typiquement, un nom du Créateur devrait être utilisé pour désigner cette entité.</Attribute>
+        </Language>
+        <!-- Russian -->
+        <Language code="ru">
+            <Attribute name="label">Создатель</Attribute>
+            <Attribute name="definition">Лицо, несущее первичную ответственность за создание содержания ресурса.</Attribute>
+            <Attribute name="comment">Примеры Создателя включают персону, организацию или службу. Обычно имя Создателя используется для индикации объекта.</Attribute>
+        </Language>
+        <!-- Spanish -->
+        <Language code="es">
+            <Attribute name="label">Autor o Creador</Attribute>
+            <Attribute name="definition">La persona u organización responsable de la creación del contenido intelectual del recurso. Por ejemplo, los autores en el caso de documentos escritos, artistas, fotografos e ilustradores en el caso de recursos visuales.</Attribute>
+        </Language>
+        <!-- Arabic -->
+        <Language code="ar">
+            <Attribute name="label">الكاتب او المبدع</Attribute>
+            <Attribute name="definition">هو الشخص او المؤسسة أولا  عن نشئ المحتوى الفكر ي للمصدر , على سبيل المثال , المؤلفين في حالة الثائق المكتوبة , و الفنانين , المصورين في حالة المصادر المرئية</Attribute>
+        </Language>
+        <!-- Chinese - Simplified -->
+        <Language code="cn">
+            <Attribute name="label">创建者</Attribute>
+            <Attribute name="definition">创建资源内容的主要责任者。</Attribute>
+            <Attribute name="comment">创建者的实例包括个人，组织或某项服务。一般而言，用创建者的名称来标识这一条目。</Attribute>
+        </Language>
+        <!-- Czech -->
+        <Language code="cs">
+            <Attribute name="label">Tvůrce</Attribute>
+            <Attribute name="definition">Entita primárně odpovědná za vytvoření obsahu zdroje.</Attribute>
+            <Attribute name="comment">Příklady Tvůrce zahrnují osobu, organizaci nebo službu. K označení entity se typicky používá jméno tvůrce.</Attribute>
+        </Language>
+        <!-- Dutch -->
+        <Language code="nl">
+            <Attribute name="label">Auteur of maker</Attribute>
+            <Attribute name="definition">De auteur, maker of organisatie die primair verantwoordelijk is voor de intellectuele inhoud van het werk. Bijvoorbeeld auteurs in geval van geschreven documenten, artiesten, fotografen of illustrators in geval van visuele bronnen.</Attribute>
+        </Language>
+        <!-- Finnish -->
+        <Language code="fi">
+            <Attribute name="label"/>
+            <Attribute name="definition"/>
+            <Attribute name="comment"/>
+        </Language>
+        <!-- Interlingua -->
+        <Language code="ia">
+            <Attribute name="label">Creator</Attribute>
+            <Attribute name="definition">Le entitate primarimente responsabile pro producer le contento del ressource.</Attribute>
+            <Attribute name="comment">Exemplos de creator include un persona, un organization, o un servicio. Typicamente se utiliza un nomine de creator pro indicar iste entitate.</Attribute>
+        </Language>
+        <!-- Marathi -->
+        <Language code="mr">
+            <Attribute name="label">निर्माता, जनक</Attribute>
+            <Attribute name="definition">माहितीसाठा निर्माण  करणारा</Attribute>
+            <Attribute name="comment">उदा.  लेखक, लेखिका,  व्यक्ती, संस्था,  संपादक, संपादिका</Attribute>
+        </Language>
+        <!-- Tamil -->
+        <Language code="ta">
+            <Attribute name="label">உண்டாக்கியவர்</Attribute>
+            <Attribute name="definition">ஒரு வளத்தின் உள்ளடக்கத்தை செய்ததர்க்கு முக்கியமாக பொறுப்புள்ள பொருள்.</Attribute>
+            <Attribute name="comment">ஒரு உண்டாக்கியவரின் உதாகரணம்: ஒரு நபர், ஒரு குழு, அல்லது ஒரு சேவை. ஒரு பொருளை குறிப்பதர்க்கு உண்டாக்கியவரின் பெயர் உபயோகிக்கவேண்டும்.</Attribute>
+        </Language>
+        <!-- Vietnamese -->
+        <Language code="vi">
+            <Attribute name="label">Tác giả</Attribute>
+            <Attribute name="definition">Pháp nhân chịu trách nhiệm chính trong việc tạo ra nội dung của nguồn tin</Attribute>
+            <Attribute name="comment">Pháp nhân trong tác giả có thể là tên người, tên cơ quan, tổ chức chịu trách nhiệm về nôi dung tài liệu</Attribute>
+        </Language>
+        <!-- Non-language specific -->
+        <Attribute name="version">1.1</Attribute>
+        <Attribute language="en" name="registration_authority">Dublin Core Metadata Initiative</Attribute>
+        <Attribute name="obligation">Optional</Attribute>
+        <Attribute name="datatype">Character String</Attribute>
+        <Attribute name="maximum_occurrence">Unlimited</Attribute>
+    </Element>
+    <Element name="Subject">
+        <!-- English -->
+        <Language code="en">
+            <Attribute name="label">Subject and Keywords</Attribute>
+            <Attribute name="definition">The topic of the content of the resource.</Attribute>
+            <Attribute name="comment">Typically, a Subject will be expressed as keywords, key phrases or classification codes that describe a topic of the resource. Recommended best practice is to select a value from a controlled vocabulary or formal classification scheme.</Attribute>
+        </Language>
+        <!-- Maori -->
+        <Language code="mi">
+            <Attribute name="label">Kaupapa</Attribute>
+            <Attribute name="definition">Te take/ nga take o te kaupapa, o te rauemi.</Attribute>
+            <Attribute name="comment">Ko te tikanga, ka whakaaturia te kaupapa o te rauemi e nga kupu matua, nga kimahi matua, nga tohu wehewehenga whakaahua ranei.</Attribute>
+        </Language>
+        <!-- French -->
+        <Language code="fr">
+            <Attribute name="label">Sujet</Attribute>
+            <Attribute name="definition">Le sujet du contenu de la ressource.</Attribute>
+            <Attribute name="comment">Typiquement, le sujet sera décrit par un ensemble de mots-clefs ou de phrases ou un code de classification qui précisent le sujet de la ressource. L&apos;utilisation de vocabulaires contrôlés et de schémas formels de classification est encouragée.</Attribute>
+        </Language>
+        <!-- Russian -->
+        <Language code="ru">
+            <Attribute name="label">Предмет и ключевые слова</Attribute>
+            <Attribute name="definition">Тема содержания ресурса.</Attribute>
+            <Attribute name="comment">Обычно Предмет выражается с помощью ключевых слов, ключевых фраз или  классификационных кодов, которые описывают тему ресурса. Для практического использования рекомендуется выбирать значение из контролируемого словаря или формальной классификационной схемы.</Attribute>
+        </Language>
+        <!-- Spanish -->
+        <Language code="es">
+            <Attribute name="label">Claves</Attribute>
+            <Attribute name="definition">Los tópicos del recurso. Típicamente, Subject expresará las claves o frases que describen el título o el contenido del recurso. Se fomentará el uso de vocabularios controlados y de sistemas de clasificación formales. Se pueden ver ejemplos de vocabularios controlados en: Controlled vocabularies, thesauri and classification systems available in the WWW. DC Subject</Attribute>
+        </Language>
+        <!-- Arabic -->
+        <Language code="ar">
+            <Attribute name="label">الموضوع و الكلمات الرئيسية</Attribute>
+            <Attribute name="definition">هو موضوع المصدر. نموذجيا  يعبر عن الموضوع باستخداممفتاح  الكلمات  او جمل التي  تصف موضوع او محتوى المصدر , و يستحسن استخدام مفردات مخططةو محكمة  وادلة تصنيف شكلية</Attribute>
+        </Language>
+        <!-- Chinese - Simplified -->
+        <Language code="cn">
+            <Attribute name="label">主题和关键词</Attribute>
+            <Attribute name="definition">资源内容的主题描述。</Attribute>
+            <Attribute name="comment">如果要描述特定资源的某一主题，一般采用关键词、关键字短语或分类号，最好主题和关键词从受控    词表或规范的分类体系中取值。</Attribute>
+        </Language>
+        <!-- Czech -->
+        <Language code="cs">
+            <Attribute name="label">Předmět a klíčová slova</Attribute>
+            <Attribute name="definition">Téma obsahu zdroje.</Attribute>
+            <Attribute name="comment">Předmět bude typicky vyjádřen pomocí klíčových slov, klíčových frází nebo klasifikačních znaků popisujících téma zdroje. Doporučuje se vybírat hodnotu prvku z řízeného slovníku nebo formálního klasifikačního schématu.</Attribute>
+        </Language>
+        <!-- Dutch -->
+        <Language code="nl">
+            <Attribute name="label">Onderwerp en trefwoorden</Attribute>
+            <Attribute name="definition">Het onderwerp van de Internetbron. Het onderwerp wordt beschreven in korte zinnen of door het gebruik van trefwoorden. Het gebruik van gecontroleerde trefwoorden of classificatie schema&apos;s wordt aanbevolen.</Attribute>
+        </Language>
+        <!-- Finnish -->
+        <Language code="fi">
+            <Attribute name="label"/>
+            <Attribute name="definition"/>
+            <Attribute name="comment"/>
+        </Language>
+        <!-- Interlingua -->
+        <Language code="ia">
+            <Attribute name="label">Subjecto e parolas-clave</Attribute>
+            <Attribute name="definition">Le topico del contento del ressource.</Attribute>
+            <Attribute name="comment">Typicamente le subjecto es expresse per medio de parolas-clave, phrases-clave, o codices de classification que describe le topico del ressource. Le melior practica recommendate es selectionar un valor a partir de un vocabulario controlate o un schema formal de classification.</Attribute>
+        </Language>
+        <!-- Marathi -->
+        <Language code="mr">
+            <Attribute name="label">विषय</Attribute>
+            <Attribute name="definition">विषय</Attribute>
+            <Attribute name="comment">माहितीसाठा, ज्ञानसाधने यातील आशय स्पष्ट करणारे शब्द, विषयाचे वर्गीकरण करताना शब्दसंग्रह अथवा शब्द कोषाचा वापर करावा</Attribute>
+        </Language>
+        <!-- Tamil -->
+        <Language code="ta">
+            <Attribute name="label">விஷயமும் முதன்மைச் சொல்களும்</Attribute>
+            <Attribute name="definition">வளத்தின் உள்ளடக்கத்தின் விஷயம்.</Attribute>
+            <Attribute name="comment">உதாகரணமாக, ஒரு விஷயத்தை முதன்மைச் சொல்களாகவோ, முதன்மைச் சொற்றோடராகவோ அல்லது வகைப்படுத்தும் குறிமுறைகளாகவோ வளத்தின் விஷயத்தை விவரிக்கும்.   ஒரு கட்டுப்பட்ட சொல் வளத்திலிருந்தோ அல்லது முறையான வகைபடுத்தும் திட்டத்திலிருந்தோ ஒரு மதிப்பை தேர்ந்தெடுக்குவதை  நாங்கள் சிபாரசு செய்வது மேல்தரம் செயல்.</Attribute>
+        </Language>
+        <!-- Vietnamese -->
+        <Language code="vi">
+            <Attribute name="label">Chủ đề</Attribute>
+            <Attribute name="definition">Chủ đề và/hoặc đề mục chính của nội dung của nguồn tin</Attribute>
+            <Attribute name="comment">Chủ đề được thể hiện bằng từ khoá, cụm từ, ký hiệu phân loại, chỉ số đề mục,...Vên sử dụng từ vựng có kiểm soát</Attribute>
+        </Language>
+        <!-- Non-language specific -->
+        <Attribute name="version">1.1</Attribute>
+        <Attribute language="en" name="registration_authority">Dublin Core Metadata Initiative</Attribute>
+        <Attribute name="obligation">Optional</Attribute>
+        <Attribute name="datatype">Character String</Attribute>
+        <Attribute name="maximum_occurrence">Unlimited</Attribute>
+    </Element>
+    <Element name="Description">
+        <!-- English -->
+        <Language code="en">
+            <Attribute name="label">Description</Attribute>
+            <Attribute name="definition">An account of the content of the resource.</Attribute>
+            <Attribute name="comment">Description may include but is not limited to: an abstract, table of contents, reference to a graphical representation of content or a free-text account of the content.</Attribute>
+        </Language>
+        <!-- Maori -->
+        <Language code="mi">
+            <Attribute name="label">Whakaaturanga</Attribute>
+            <Attribute name="definition">He whakaaturanga o nga kaupapa o te rauemi.</Attribute>
+            <Attribute name="comment">Ka uru atu, engari ehara noa ko: te whakarapopototanga korero, te ihirangi, te tohutanga o te kaupapa ma te whakaahua, te whakaaturanga kore kupu ranei, o te kauapapa.</Attribute>
+        </Language>
+        <!-- French -->
+        <Language code="fr">
+            <Attribute name="label">Description</Attribute>
+            <Attribute name="definition">Une description du contenu de la ressource.</Attribute>
+            <Attribute name="comment">Une Description peut contenir, mais ce n&apos;est pas limitatif: un résumé, une table des matières, une référence à une représentation graphique du contenu, ou un texte libre sur le contenu.</Attribute>
+        </Language>
+        <!-- Russian -->
+        <Language code="ru">
+            <Attribute name="label">Описание</Attribute>
+            <Attribute name="definition">Сообщение о содержании ресурса.</Attribute>
+            <Attribute name="comment">Описание может быть представлено (по необходимости) в виде: реферата, оглавления, ссылки на графическое представление содержания или простого текстового изложение содержания.</Attribute>
+        </Language>
+        <!-- Spanish -->
+        <Language code="es">
+            <Attribute name="label">Descripción</Attribute>
+            <Attribute name="definition">Una descripción textual del recurso, tal como un resumen en el caso de un documento o una descripción del contenido en el caso de un documento visual.</Attribute>
+        </Language>
+        <!-- Arabic -->
+        <Language code="ar">
+            <Attribute name="label">الوصف</Attribute>
+            <Attribute name="definition">هو وصف نصي  لمحتوى المصدر, ويضم الملخصات في حالة الوثائق مثل الاشياء المكتوبة او توصيف المحتوى في حالة المصادر المرئية</Attribute>
+        </Language>
+        <!-- Chinese - Simplified -->
+        <Language code="cn">
+            <Attribute name="label">说明</Attribute>
+            <Attribute name="definition">资源内容的解释</Attribute>
+            <Attribute name="comment">说明可以包括但不限于以下内容：文摘、目录、对以图形来揭示内容的资源而言的文字说明、或者一    个有关资源内容的自由文本描述。</Attribute>
+        </Language>
+        <!-- Czech -->
+        <Language code="cs">
+            <Attribute name="label">Popis</Attribute>
+            <Attribute name="definition">Vysvětlení obsahu zdroje.</Attribute>
+            <Attribute name="comment">Popis může obsahovat (mimo jiné): abstrakt, obsah, odkaz na grafické nebo volné textové vyjádření obsahu.</Attribute>
+        </Language>
+        <!-- Dutch -->
+        <Language code="nl">
+            <Attribute name="label">Omschrijving</Attribute>
+            <Attribute name="definition">Een omschrijving van de inhoud van de Internetbron. Abstracts of inhoudsomschrijvingen.</Attribute>
+        </Language>
+        <!-- Finnish -->
+        <Language code="fi">
+            <Attribute name="label"/>
+            <Attribute name="definition"/>
+            <Attribute name="comment"/>
+        </Language>
+        <!-- Interlingua -->
+        <Language code="ia">
+            <Attribute name="label">Description</Attribute>
+            <Attribute name="definition">Un description del contento del ressource.</Attribute>
+            <Attribute name="comment">Le description pote includer, ma non se limita a: summario, indice, referentia a un representation graphic del contento o un texto libere a proposito del contento.</Attribute>
+        </Language>
+        <!-- Marathi -->
+        <Language code="mr">
+            <Attribute name="label">वर्णन</Attribute>
+            <Attribute name="definition">माहितीसाठ्याचे, ज्ञानसाधनाचेवर्णन</Attribute>
+            <Attribute name="comment">माहितीसाठ्याचे निवेदन, आलेख, चित्ररुप</Attribute>
+        </Language>
+        <!-- Tamil -->
+        <Language code="ta">
+            <Attribute name="label">விவரித்தல்</Attribute>
+            <Attribute name="definition">வளத்தின் உள்ளடக்கத்தை பற்றி விவரித்தல்</Attribute>
+            <Attribute name="comment">ஒரு சுர்ருக்கம், உள்ளடக்கம் பட்டியல்,  உள்ளடக்கத்தை வரவியலாக குறிப்பீடை கட்டில்லாத உரையின் உள்ளடக்கம் விளக்கம், இவைகளும் இன்னும் மேலும் விவரித்தல்லில் சேர்த்துக்கொள்ளலாம்.</Attribute>
+        </Language>
+        <!-- Vietnamese -->
+        <Language code="vi">
+            <Attribute name="label">Mô tả</Attribute>
+            <Attribute name="definition">Một thông báo làm rõ nội dung của nguồn tin</Attribute>
+            <Attribute name="comment">Mô tả có thể bao gồm: tóm tắt ngắn gọn. mục lục, Thông tin tham chiếu về bảng biểi. về nguồn tin</Attribute>
+        </Language>
+        <!-- Non-language specific -->
+        <Attribute name="version">1.1</Attribute>
+        <Attribute language="en" name="registration_authority">Dublin Core Metadata Initiative</Attribute>
+        <Attribute name="obligation">Optional</Attribute>
+        <Attribute name="datatype">Character String</Attribute>
+        <Attribute name="maximum_occurrence">Unlimited</Attribute>
+    </Element>
+    <Element name="Publisher">
+        <!-- English -->
+        <Language code="en">
+            <Attribute name="label">Publisher</Attribute>
+            <Attribute name="definition">An entity responsible for making the resource available.</Attribute>
+            <Attribute name="comment">Examples of a Publisher include a person, an organisation, or a service. Typically, the name of a Publisher should be used to indicate the entity.</Attribute>
+        </Language>
+        <!-- Maori -->
+        <Language code="mi">
+            <Attribute name="label">Kaiwhakaputa</Attribute>
+            <Attribute name="definition">Te putahi nana i whakaputa te rauemi.</Attribute>
+            <Attribute name="comment">Ko te tangata, he putahitanga, he ratonga ranei etahi tauira Kaiwhakaputa. Ko te tikanga, ka whakamahia te ingoa o te Kaiwhakaputa hei tohu i te putahi.</Attribute>
+        </Language>
+        <!-- French -->
+        <Language code="fr">
+            <Attribute name="label">Editeur</Attribute>
+            <Attribute name="definition">L&apos;entité responsable de la diffusion de la ressource, dans sa forme actuelle, tels, un département universitaire, une entreprise.</Attribute>
+            <Attribute name="comment">Exemples d&apos;Editeurs incluent une personne, une organisation, ou un service. Typiquement, le nom d&apos;une maison d&apos;édition devrait être utilisé ici.</Attribute>
+        </Language>
+        <!-- Russian -->
+        <Language code="ru">
+            <Attribute name="label">Издатель</Attribute>
+            <Attribute name="definition">Лицо, ответственное за ввод ресурса в обращение.</Attribute>
+            <Attribute name="comment">Примеры Издателя включают персону, организацию или службу. Обычно имя Издателя используется для индикации объекта.</Attribute>
+        </Language>
+        <!-- Spanish -->
+        <Language code="es">
+            <Attribute name="label">Editor</Attribute>
+            <Attribute name="definition">&gt;La entidad responsable de hacer que el recurso se encuentre disponible en la red en su formato actual, por ejemplo la empresa editora, un departamento universitario u otro tipo de organización.</Attribute>
+        </Language>
+        <!-- Arabic -->
+        <Language code="ar">
+            <Attribute name="label">الناشر</Attribute>
+            <Attribute name="definition">هو الهيئة المسؤولة عن صناعة المصدر المتوفر في حالته الحاضرة, مثل دار النشر, قسم جامعي او مؤسسة اعمال</Attribute>
+        </Language>
+        <!-- Chinese - Simplified -->
+        <Language code="cn">
+            <Attribute name="label">出版者</Attribute>
+            <Attribute name="definition">使资源成为可以获得并可用的责任者。</Attribute>
+            <Attribute name="comment">出版者的实例包括个体，组织，或服务。一般而言，应该用出版者的名称来标识这一条目。</Attribute>
+        </Language>
+        <!-- Czech -->
+        <Language code="cs">
+            <Attribute name="label">Vydavatel</Attribute>
+            <Attribute name="definition">Entita odpovědná za zpřístupnění zdroje.</Attribute>
+            <Attribute name="comment">Příklady Vydavatele zahrnují osobu, organizaci nebo službu. K označení entity se typicky používá jméno vydavatele.</Attribute>
+        </Language>
+        <!-- Dutch -->
+        <Language code="nl">
+            <Attribute name="label">Uitgever</Attribute>
+            <Attribute name="definition">De entiteit die verantwoordelijk is voor het beschikbaarstellen van de Internetbron in de huidig vorm. Bijvoorbeeld een uitgeversbedrijf, een universiteitsafdeling.</Attribute>
+        </Language>
+        <!-- Finnish -->
+        <Language code="fi">
+            <Attribute name="label"/>
+            <Attribute name="definition"/>
+            <Attribute name="comment"/>
+        </Language>
+        <!-- Interlingua -->
+        <Language code="ia">
+            <Attribute name="label">Editor</Attribute>
+            <Attribute name="definition">Un entitate responsabile pro disponibilizar le ressource.</Attribute>
+            <Attribute name="comment">Exemplos de editor include un persona, un organization, o un servicio. Typicamente se utiliza un nomine de editor pro indicar le entitate.</Attribute>
+        </Language>
+        <!-- Marathi -->
+        <Language code="mr">
+            <Attribute name="label">प्रकाशक</Attribute>
+            <Attribute name="definition">माहितीसाठा  उपलब्ध करून देणारा</Attribute>
+            <Attribute name="comment">उदा.ः प्रकाशक , प्रकाशन  संस्था, सेवा    माहिती छापील रुपात  अथवा ईंटरनेट वर उपलब्ध करुन देणारा</Attribute>
+        </Language>
+        <!-- Tamil -->
+        <Language code="ta">
+            <Attribute name="label">பிரசுரகர்த்தா</Attribute>
+            <Attribute name="definition">வளத்தை கிடைக்க செய்ததர்க்கு பொறுப்புள்ள ஒரு பொருள்.</Attribute>
+            <Attribute name="comment">உதாகரணம்: ஒரு பிரசுரகர்த்தா என்றால் ஒரு நபர், ஒரு குழு, அல்ல்து ஒரு சேவை. அந்த பொருளை குறிப்பிட பிரசுரகர்த்தாவின் பெயர் உபயோகபடுத்தவும்.</Attribute>
+        </Language>
+        <!-- Vietnamese -->
+        <Language code="vi">
+            <Attribute name="label">Cơ quan xuất bản</Attribute>
+            <Attribute name="definition">Tổ chức chịu trách nhiệm làm cho nguồn tin này có thể truy xuất được</Attribute>
+            <Attribute name="comment">Ghi tên cá nhân, tổ chức cơ quan chịu trách nhiệm về xuất bản nguồn tin</Attribute>
+        </Language>
+        <!-- Non-language specific -->
+        <Attribute name="version">1.1</Attribute>
+        <Attribute language="en" name="registration_authority">Dublin Core Metadata Initiative</Attribute>
+        <Attribute name="obligation">Optional</Attribute>
+        <Attribute name="datatype">Character String</Attribute>
+        <Attribute name="maximum_occurrence">Unlimited</Attribute>
+    </Element>
+    <Element name="Contributor">
+        <!-- English -->
+        <Language code="en">
+            <Attribute name="label">Contributor</Attribute>
+            <Attribute name="definition">An entity responsible for making contributions to the content of the resource.</Attribute>
+            <Attribute name="comment">Examples of a Contributor include a person, an organisation, or a service. Typically, the name of a Contributor should be used to indicate the entity.</Attribute>
+        </Language>
+        <!-- Maori -->
+        <Language code="mi">
+            <Attribute name="label">Kaiwhakaaro</Attribute>
+            <Attribute name="definition">Te putahi nana, na ratou ranei nga whakakaupapatanga whakaaro o te rauemi.</Attribute>
+            <Attribute name="comment">Ko te tangata, he putahitanga, he ratonga ranei etahi tauira Kaiwhakaaro. Ko te tikanga ka whakamahia te ingoa o te Kaiwhakaaro hei tohu i te putahi.</Attribute>
+        </Language>
+        <!-- French -->
+        <Language code="fr">
+            <Attribute name="label">Contributeur</Attribute>
+            <Attribute name="definition">Une entité qui a contribué à la création du contenu de la ressource.</Attribute>
+            <Attribute name="comment">Exemples de Contributeur incluent une personne, une organisation, ou un service. Typiquement, le nom d&apos;un contributeur devrait être utilisé ici pour désigner l&apos;entité.</Attribute>
+        </Language>
+        <!-- Russian -->
+        <Language code="ru">
+            <Attribute name="label">Соисполнитель</Attribute>
+            <Attribute name="definition">Лицо, внесшее вклад в создание содержания ресурса.</Attribute>
+            <Attribute name="comment">Примеры Соисполнителя включают персону, организацию или службу. Обычно имя Соисполнителя используется для индикации объекта.</Attribute>
+        </Language>
+        <!-- Spanish -->
+        <Language code="es">
+            <Attribute name="label">Otros Colaboradores</Attribute>
+            <Attribute name="definition">Una persona u organizacion que haya tenido una contribución intelectual significativa en la creación del recurso pero cuyas contribuciones son secundarias en comparación a las de las personas u organizaciones especificadas en el elementeo Creator (por ejemplo, editor, ilustrador y traductor).</Attribute>
+        </Language>
+        <!-- Arabic -->
+        <Language code="ar">
+            <Attribute name="label">المساهم الاخر</Attribute>
+            <Attribute name="definition">هو الشخص او المؤسسة الغير مذكور صراحة في عامل &quot; المبدع &quot; و الذي قدم مساهمات فكرية هامة للمصدر, لكن مساهمتهتبقى    ثانوية مقارنة مع الشخص أو المؤسسة المذكورة نصا في عامل &quot; المنشئ &quot; مثلال مصحح, المترجم, او المفسر</Attribute>
+        </Language>
+        <!-- Chinese - Simplified -->
+        <Language code="cn">
+            <Attribute name="label">其他责任者</Attribute>
+            <Attribute name="definition">对资源的内容作出贡献的其他实体。</Attribute>
+            <Attribute name="comment">其他责任者的实例可包括个人、组织或某项服务。一般而言，用其他责任者的名字来标识这一条目。</Attribute>
+        </Language>
+        <!-- Czech -->
+        <Language code="cs">
+            <Attribute name="label">Přispěvatel</Attribute>
+            <Attribute name="definition">Entita, která přispěla k vytvoření obsahu zdroje.</Attribute>
+            <Attribute name="comment">Příklady Přispěvatele zahrnují osobu, organizaci nebo službu. K označení entity se typicky používá jméno přispěvatele.</Attribute>
+        </Language>
+        <!-- Dutch -->
+        <Language code="nl">
+            <Attribute name="label">Andere medewerkers</Attribute>
+            <Attribute name="definition">Een persoon of organisatie die een belangrijke bijdrage heeft geleverd, maar die secondair is aan de persoon of organisatie die bij &quot;Creator&quot; genoemd wordt. Gedacht kan worden aan editors, vertalers en illustrators.</Attribute>
+        </Language>
+        <!-- Finnish -->
+        <Language code="fi">
+            <Attribute name="label"/>
+            <Attribute name="definition"/>
+            <Attribute name="comment"/>
+        </Language>
+        <!-- Interlingua -->
+        <Language code="ia">
+            <Attribute name="label">Contribuente</Attribute>
+            <Attribute name="definition">Un entitate responsabile pro facer contributiones al contento del ressource.</Attribute>
+            <Attribute name="comment">Exemplos de contribuente include un persona, un organization, o un servicio. Typicamente se utiliza un nomine de contribuente pro indicar le entitate.</Attribute>
+        </Language>
+        <!-- Marathi -->
+        <Language code="mr">
+            <Attribute name="label"> सहयोगक, सहयोगी, सहाय्यक</Attribute>
+            <Attribute name="definition">माहितीसाठा संकलीत करण्य़ास  मदत करणारी व्यक्ती</Attribute>
+            <Attribute name="comment">उदा.ः व्यक्ती, सेवा, संस्था</Attribute>
+        </Language>
+        <!-- Tamil -->
+        <Language code="ta">
+            <Attribute name="label">பஙகு கொடுத்தவர்</Attribute>
+            <Attribute name="definition">வளத்தின் உள்ளடக்கத்தில் பஙகு கொடுத்தர்க்கு பொறுப்புள்ள ஒரு பொருள்.</Attribute>
+            <Attribute name="comment">உதாகரணம்: ஒரு பஙகு கொடுத்தவர் என்றால் ஒரு நபர், ஒரு குழு, அல்ல்து ஒரு சேவை. அந்த பொருளை குறிப்பிட பஙகு கொடுத்தவர் பெயர் உபயோகபடுத்தவும்.</Attribute>
+        </Language>
+        <!-- Vietnamese -->
+        <Language code="vi">
+            <Attribute name="label">Đồng tác giả</Attribute>
+            <Attribute name="definition">Pháp nhân tham gia đóng góp vào việc tạo ra nội dung của nguồn tin</Attribute>
+            <Attribute name="comment">Pháp nhân trong Contributor có thể là tác giả cá nhân hoặc cơ quan, tổ chức, dịch vụ (là tác giả tập thể) có vai trò quan trọng, song là vai trò thứ yếu trong việc tạo ra nội dung. Những pháp nhân này không được lựa chọn đưa vào yếu tố  Creator (tác giả)</Attribute>
+        </Language>
+        <!-- Non-language specific -->
+        <Attribute name="version">1.1</Attribute>
+        <Attribute language="en" name="registration_authority">Dublin Core Metadata Initiative</Attribute>
+        <Attribute name="obligation">Optional</Attribute>
+        <Attribute name="datatype">Character String</Attribute>
+        <Attribute name="maximum_occurrence">Unlimited</Attribute>
+    </Element>
+    <Element name="Date">
+        <!-- English -->
+        <Language code="en">
+            <Attribute name="label">Date</Attribute>
+            <Attribute name="definition">A date associated with an event in the life cycle of the resource.</Attribute>
+            <Attribute name="comment">Typically, Date will be associated with the creation or availability of the resource.  Recommended best practice for encoding the date value is defined in a profile of ISO 8601 and follows the YYYY-MM-DD format.</Attribute>
+        </Language>
+        <!-- Maori -->
+        <Language code="mi">
+            <Attribute name="label">Ra</Attribute>
+            <Attribute name="definition">He ra e whai panga ana ki te huringa ora o te rauemi.</Attribute>
+            <Attribute name="comment">Ko te tikanga, ka whai panga te ra ki te hanganga, te wateatanga ranei, o te rauemi. Ko te huarahi tino pai hei tohu i te uara o te ra (date value) kua whakaritea i roto i te whakaritenga IS0 8601 [W3CDTF], a, e whai atu ana ki te whakatakotoranga YYYY-MM-DD.</Attribute>
+        </Language>
+        <!-- French -->
+        <Language code="fr">
+            <Attribute name="label">Date</Attribute>
+            <Attribute name="definition">Une date associée avec un événement dans le cycle de vie de la ressource.</Attribute>
+            <Attribute name="comment">Typiquement, une date sera associée à la création ou à la publication d&apos;une ressource. Il est fortement recommandé d&apos;encoder la valeur de la date en utilisant le format défini par l&apos;ISO 8601 [W3CDTF] sous la forme AAAA-MM-JJ.</Attribute>
+        </Language>
+        <!-- Russian -->
+        <Language code="ru">
+            <Attribute name="label">Дата</Attribute>
+            <Attribute name="definition">Дата, связанная с событием в жизненном цикле ресурса.</Attribute>
+            <Attribute name="comment">Обычно Дата ассоциируется с созданием или доступностью ресурса. На практике рекомендуется для кодировки значения даты использовать определение профиля ISO 8601 (Форматы даты и времени W3C), которое поддерживает формат ГГГГ-ММ-ДД.</Attribute>
+        </Language>
+        <!-- Spanish -->
+        <Language code="es">
+            <Attribute name="label">Fecha</Attribute>
+            <Attribute name="definition">Una fecha en la que el recurso se puso a disposición del usuario en su forma actual. Esta fecha no ha de confundirse con la que pertenece al elemento Coverage, que sería asociada con el recurso sólo en la medida en que el contenido intelectual está de algún modo relacionado con esa fecha. Recomendamos la utiliazación de uno de los formatos definidos en el documento &quot;Date and Time Formats&quot;, http://www.w3.org/TR/NOTE-datetime basado en la norma ISO 8601 que incluye, entre otras, fechas en el formato AAAA y AAAA-MM-DD. De esta forma la fecha 1994-11-05 correspondería al 5 de Noviembre de 1994.</Attribute>
+        </Language>
+        <!-- Arabic -->
+        <Language code="ar">
+            <Attribute name="label">التارخ</Attribute>
+            <Attribute name="definition">هو التاريخ المتعلق بوقت نشئ أو توفر المصدر . و يجب أن لا يخلط هذا التاريخ العائد لعامل التغطية , و الذ ي يجب أن    يلحق بالمصدر فقط من ناحية المحتوىالفكري لكونه نوعا ما له هذا التاريخ. الصيغة المسثحسنة فياحسن المتعارف عليه    عند التطبيق هي الصيغة المعتمدة في تشكيل (ISO 8601) صيغة تاريخ اليوم و الوقت ) اعتمادا على (ISO 8601) الملاحظة الفنية http://www.w3.org/TR/NOTE-datetime, W3C. وفق    هذا النسق , مثلا, تاريخ اليوم 1994-11-04 يناظر يوم 5 نوفمبر 1994</Attribute>
+        </Language>
+        <!-- Chinese - Simplified -->
+        <Language code="cn">
+            <Attribute name="label">日期</Attribute>
+            <Attribute name="definition">与资源生命周期中的一个事件相关的时间。</Attribute>
+            <Attribute name="comment">一般而言，日期应与资源的创建或出版日期相关。建议采用的日期格式应符合ISO 8601 [W3CDTF]规    范，并使用YYYY-MM-DD的格式。</Attribute>
+        </Language>
+        <!-- Czech -->
+        <Language code="cs">
+            <Attribute name="label">Datum</Attribute>
+            <Attribute name="definition">Datum spojené s určitou událostí během existence zdroje.</Attribute>
+            <Attribute name="comment">Datum bude typicky spojeno s vytvořením nebo zpřístupněním zdroje. Doporučený postup pro kódování hodnoty data je definován v ISO 8601 [W3CDTF]: formát RRRR-MM-DD.</Attribute>
+        </Language>
+        <!-- Dutch -->
+        <Language code="nl">
+            <Attribute name="label">Datum</Attribute>
+            <Attribute name="definition">De datum van de totstandkoming of beschikbaarstelling van een Internetbron. Deze datum moet niet verward worden met de datum in &quot;Coverage&quot;. De datum in &quot;Coverage&quot; geeft de tijdsperiode van de inhoud van de Internetbron aan. Voorgeschreven wordt de ISO 8601 standaard voor datum, zoals beschreven in W3C Technical Note http://www.w3.org/TR/NOTE-datetime. Hierin wordt het formaat YYYY-MM-DD beschreven. Het formaat YYYY-MM-DD wordt de voorgeschreven standaard. 3 September 1998 wordt in dit geval 1998-09-03.</Attribute>
+        </Language>
+        <!-- Finnish -->
+        <Language code="fi">
+            <Attribute name="label"/>
+            <Attribute name="definition"/>
+            <Attribute name="comment"/>
+        </Language>
+        <!-- Interlingua -->
+        <Language code="ia">
+            <Attribute name="label">Data</Attribute>
+            <Attribute name="definition">Un data associate a un evento in le cyclo vital del ressource.</Attribute>
+            <Attribute name="comment">Typicamente le data es associate al creation o disponibilization del ressource. Le practica recommendate pro codificar le valor del datas es definite in un profilo de ISO 8601 [W3CDTF] e seque le formato AAAA-MM-DD.</Attribute>
+        </Language>
+        <!-- Marathi -->
+        <Language code="mr">
+            <Attribute name="label">तारीख,  दिनांक</Attribute>
+            <Attribute name="definition">माहितीसाठा तयार केल्याची तारीख</Attribute>
+            <Attribute name="comment">तारीख  लिहीण्याचे स्वरुप ः वर्ष. महिना. दिवस १९५०. ०४. ०४</Attribute>
+        </Language>
+        <!-- Tamil -->
+        <Language code="ta">
+            <Attribute name="label">தேதி</Attribute>
+            <Attribute name="definition">வளத்தின் ஆயுள் சுழற்சியில் சேர்ந்த ஒரு நிகழ்வின் தேதி.</Attribute>
+            <Attribute name="comment">உதாகரணம்: ஒரு வளத்தை உண்டாக்கப்பட்ட அல்லது கிடைக்கக்கூடிய தேதி.  தேதியின் மதிப்பை குறியீடு ஆக்குவதர்க்கு ISO 8601 ல் விவரிக்கப்பட்டு YYYY-MM-DD வடிவம் கொண்டது நாங்கள் மேல்தரம் செயலாக சிபாரசு செய்கிரோம்.</Attribute>
+        </Language>
+        <!-- Vietnamese -->
+        <Language code="vi">
+            <Attribute name="label">Thời gian</Attribute>
+            <Attribute name="definition">Thời gian liên quan đến vòng đời của nguồn tin (tạo lập, sửa đổi, v.v..)</Attribute>
+            <Attribute name="comment">Ngày tháng có thể là thời gian liên quan đến việc tạo ra, hiệu đính hoặc làm cho nguồn tin tiếp cận được. Khuyến nghị sử dụng cách trình bày thời gian theo tiêu chuẩn ISO 8601 và theo khổ mẫu Bốn số năm-hai số tháng-hai số ngày (YYYY-MM-DD)</Attribute>
+        </Language>
+        <!-- Non-language specific -->
+        <Attribute name="version">1.1</Attribute>
+        <Attribute language="en" name="registration_authority">Dublin Core Metadata Initiative</Attribute>
+        <Attribute name="obligation">Optional</Attribute>
+        <Attribute name="datatype">Character String</Attribute>
+        <Attribute name="maximum_occurrence">Unlimited</Attribute>
+    </Element>
+    <Element name="Type">
+        <!-- English -->
+        <Language code="en">
+            <Attribute name="label">Resource Type</Attribute>
+            <Attribute name="definition">The nature or genre of the content of the resource.</Attribute>
+            <Attribute name="comment">Type includes terms describing general categories, functions, genres, or aggregation levels for content. Recommended best practice is to select a value from a controlled vocabulary (for example, the working draft list of Dublin Core Types). To describe the physical or digital manifestation of the resource, use the FORMAT element.</Attribute>
+        </Language>
+        <!-- Maori -->
+        <Language code="mi">
+            <Attribute name="label">Tumomo</Attribute>
+            <Attribute name="definition">Te ahua, te tu-ahuatanga ranei o nga kaupapa o te rauemi.</Attribute>
+            <Attribute name="comment">Kei roto i te Tumomo nga kupu whakaatu i nga wehewehenga whanui, nga aheinga, nga tu-ahuatanga, te whakaritenga ranei o nga taumata o te/ nga kaupapa. Ko te huarahi tino pai kua tohua, ko te tipako i tetahi uara mai i nga kupu kua whakaritea (hei tauira, ko te tauira rarangi e whakamahia ana o nga Dublin Core Types [DCT1]. Hei whakaatu i te whakatinanatanga o te rauemi, whakamahia ko te huanga WHAKATAKOTORANGA (FORMAT).</Attribute>
+        </Language>
+        <!-- French -->
+        <Language code="fr">
+            <Attribute name="label">Type</Attribute>
+            <Attribute name="definition">La nature ou le genre du contenu de la ressource.</Attribute>
+            <Attribute name="comment">Type inclut des termes décrivant des catégories, fonctions ou genres généraux pour le contenu, ou des niveaux d&apos;agrégation. Il est recommandé de choisir la valeur du type dans une liste de vocabulaire contrôlé (par exemple, la liste provisoire de Types du Dublin Core[DCT1]). Pour décrire la matérialisation physique ou digitale de la ressource, il faut utiliser l&apos;élément Format.</Attribute>
+        </Language>
+        <!-- Russian -->
+        <Language code="ru">
+            <Attribute name="label">Тип ресурса</Attribute>
+            <Attribute name="definition">Природа или жанр содержания ресурса.</Attribute>
+            <Attribute name="comment">Тип включает термины, описывающие общие категории, функции, жанры или объединенные уровни содержания. Для практического использования рекомендуется выбирать значение из контролируемого словаря (например, рабочего проекта списка Типов Dublin Core DCT1). Для описания физичес-кого или цифрового представления ресурса используется элемент Формат.</Attribute>
+        </Language>
+        <!-- Spanish -->
+        <Language code="es">
+            <Attribute name="label">Tipo del Recurso</Attribute>
+            <Attribute name="definition">La categoría del recurso, por ejemplo página personal, romance, poema, minuta, diccionario. Para asegurar la interoperabilidad, Type debería ser seleccionado de entre una lista de valores que actualmente se encuentra bajo desarrollo en un grupo de trabajo. En http://sunsite.berkeley.edu/Metadata/types.html se puede consultar el estado actual de la discusión en torno a este tema.</Attribute>
+        </Language>
+        <!-- Arabic -->
+        <Language code="ar">
+            <Attribute name="label">نوع المصدر</Attribute>
+            <Attribute name="definition">هو فئة المصدر , مثلا الصفحة الام, رواية , قطعة شعرية , ورقة عمل , تقرير فني , مقال , قاموس . و من أجل التعامل المشترك    يجب أن يختار النوع من القائمة المرقمة والتي ينم اعدادها حاليا ضمن حلقات ورشة عمل</Attribute>
+        </Language>
+        <!-- Chinese - Simplified -->
+        <Language code="cn">
+            <Attribute name="label">资源类型</Attribute>
+            <Attribute name="definition">资源内容的特征或类型。</Attribute>
+            <Attribute name="comment">资源类型包括描述资源内容的一般范畴，功能，种属，或聚类层次的术语。建议采用来自于受控词表    中的值（例如DCMI类型词汇表[DCMITYPE]）。要描述资源的物理或数字化表现形式，请使用“格式（FORMAT）”元素。</Attribute>
+        </Language>
+        <!-- Czech -->
+        <Language code="cs">
+            <Attribute name="label">Typ zdroje</Attribute>
+            <Attribute name="definition">Povaha nebo druh obsahu zdroje.</Attribute>
+            <Attribute name="comment">Typ obsahuje termíny popisující obecné kategorie, funkce, druhy nebo agregační úrovně obsahu. Doporučuje se vybírat hodnotu z řízeného slovníku (např. pracovní návrh seznamu Typů Dublin Core [DCT1]). K popisu fyzické nebo digitální reprezentace zdroje užijte prvek Formát.</Attribute>
+        </Language>
+        <!-- Dutch -->
+        <Language code="nl">
+            <Attribute name="label">Bestands type</Attribute>
+            <Attribute name="definition">Het soort Internetbron, bijvoorbeeld home page, gedicht, working paper, technical report, essay, woordenboek etc. De DC working groups zijn momenteel bezig met twee voorstellen; een minimalist draft: http://sunsite.berkeley.edu/Metadata/minimalist.html en een structuralist draft: http://sunsite.berkely.edu/Metadata/structuralist.html. Het wordt sterk aanbevolen om &quot;Type&quot; van deze lijsten te selecteren.</Attribute>
+        </Language>
+        <!-- Finnish -->
+        <Language code="fi">
+            <Attribute name="label"/>
+            <Attribute name="definition"/>
+            <Attribute name="comment"/>
+        </Language>
+        <!-- Interlingua -->
+        <Language code="ia">
+            <Attribute name="label">Typo del ressource</Attribute>
+            <Attribute name="definition">Le natura o genere del contento del ressource.</Attribute>
+            <Attribute name="comment">Le typo del ressource include terminos que describe categorias general, functiones, generes, o nivellos de aggregation pro le contento. Le practica recommendate es selectionar un valor a partir de un vocabulario controlate (per exemplo, le lista de schizzos de travalio de typos de Dublin Core [DCT1]). Pro describer le manifestation physic o digital del ressource, utiliza le elemento Formato.</Attribute>
+        </Language>
+        <!-- Marathi -->
+        <Language code="mr">
+            <Attribute name="label">प्रकार</Attribute>
+            <Attribute name="definition">माहितीसाठ्याचाप्रकार</Attribute>
+            <Attribute name="comment">माहितीसाठ्याचे वर्गीकरण, वर्गवारीमध्ये एखाद्या नोंदीचा मुख्य गटप्रकार</Attribute>
+        </Language>
+        <!-- Tamil -->
+        <Language code="ta">
+            <Attribute name="label">வளம் வகை</Attribute>
+            <Attribute name="definition">வளத்தின் உள்ளடக்கத்தின் பான்மை அல்லது தரம்.</Attribute>
+            <Attribute name="comment">வகை என்ரால் பொது பிரிவினைகள், செயல்கள், தரங்கள், அல்லது  உள்ளடக்கத்தின் திரட்டு நிலைகள் என்பவயின் பெயர்கள். கட்டுப்படுத்திய சொல் வளத்திலிருந்து ஒரு மதிப்பை தேர்ந்தெடுப்பதை நாங்கள் மேல்தரம் செயலாக சிபாரசு செய்கிரோம். (உதாகரணம்: Dublin Core Types (டப்ளின் கோர் டைப்ஸ்)பணி செய்வதர்கான வரைவு பட்டியல்). வளத்தின் பருநிலை அல்லது இலக்கமுறை வெளிகாட்டலை விவரிப்பதர்கு FORMAT (படிவம்)உறுப்பை உபயோகிக்கவும்.</Attribute>
+        </Language>
+        <!-- Vietnamese -->
+        <Language code="vi">
+            <Attribute name="label">Thể loại</Attribute>
+            <Attribute name="definition">Mô tả bản chất hoặc thể loại của nội dung của nguồn tin</Attribute>
+            <Attribute name="comment">Mô tả thể loại của nguồn tin</Attribute>
+        </Language>
+        <!-- Non-language specific -->
+        <Attribute name="version">1.1</Attribute>
+        <Attribute language="en" name="registration_authority">Dublin Core Metadata Initiative</Attribute>
+        <Attribute name="obligation">Optional</Attribute>
+        <Attribute name="datatype">Character String</Attribute>
+        <Attribute name="maximum_occurrence">Unlimited</Attribute>
+    </Element>
+    <Element name="Format">
+        <!-- English -->
+        <Language code="en">
+            <Attribute name="label">Format</Attribute>
+            <Attribute name="definition">The physical or digital manifestation of the resource.</Attribute>
+            <Attribute name="comment">Typically, Format may include the media-type or dimensions of the resource. Format may be used to determine the software, hardware or other equipment needed to display or operate the resource. Examples of dimensions include size and duration. Recommended best practice is to select a value from a controlled vocabulary (for example, the list of Internet Media Types [MIME] defining computer media formats).</Attribute>
+        </Language>
+        <!-- Maori -->
+        <Language code="mi">
+            <Attribute name="label">Whakatakotoranga</Attribute>
+            <Attribute name="definition">Te whakatinanatanga, te whakaputanga a-mati o te rauemi.</Attribute>
+            <Attribute name="comment">Ko te tikanga, ka taea te Whakatakotoranga te whakamahi hei whakarite i te rawa-ngohe (software), te rawa-maro (hardware), ma etahi taputapu ranei me matua whiwhi, hei whakahaere i te rauemi. Ko te rahi me te roanga etahi tauira hanga. Ko te tino huarahi kua tohua ko te tipako uara mai i tetahi whakaritenga kupu (hei tauira, te rarangi o nga Tumomo Papaho Ipurangi (Internet Media Types [MIME]) e whakaatu ana i nga whakatakotoranga papaho rorohiko.</Attribute>
+        </Language>
+        <!-- French -->
+        <Language code="fr">
+            <Attribute name="label">Format</Attribute>
+            <Attribute name="definition">La matérialisation physique ou digitale de la ressource.</Attribute>
+            <Attribute name="comment">Typiquement, Format peut inclure le media ou les dimensions de la ressource. Format peut être utilisé pour préciser le logiciel, le matériel ou autre équipement nécessaire pour afficher ou faire fonctionner la ressource. Exemples de dimensions incluent la taille et la durée. Il est recommandé de choisir la valeur du format dans une liste de vocabulaire contrôlé(par exemple, la liste des types de media définis sur Internet [MIME]).</Attribute>
+        </Language>
+        <!-- Russian -->
+        <Language code="ru">
+            <Attribute name="label">Формат</Attribute>
+            <Attribute name="definition">Физическое или цифровое представление ресурса.</Attribute>
+            <Attribute name="comment">Обычно Формат может включать тип аудиовизуальной информации (медиа-тип) или величину ресурса. Формат может использоваться для определения аппаратного, программного обеспечения или другого оборудования, необходимого для воспроизведения или работы с ресурсом. Примеры величины включают размер и продолжительность. Для практического использования рекомендуется выбирать значение из контролируемого словаря (например, списка Медиа-типов Интернет MIME, определяющего компьютерные форматы аудиовизуальной информации).</Attribute>
+        </Language>
+        <!-- Spanish -->
+        <Language code="es">
+            <Attribute name="label">Formato</Attribute>
+            <Attribute name="definition">El formato de datos de un recurso, usado para identificar el software y posiblemente, el hardware que se necesitaría para mostrar el recurso. Para asegurar la interoperabilidad, los valores de Format deberían ser seleccionados de entre una lista de valores que actualmente se encuentra bajo desarrollo en un grupo de trabajo.</Attribute>
+        </Language>
+        <!-- Arabic -->
+        <Language code="ar">
+            <Attribute name="label">الصيغة</Attribute>
+            <Attribute name="definition">هذه صيغة المعلومة الخاصة بالمصدر , و تستخدم للتعريف بالبرمجيات وربما الصلب للحاسوب و التي يمكن أن يحتاج    لها لعرض أو تشغيل المصدر . من أجل التعامل المشترك, يجب أن تختار الصيغة من القائمة المرقمة و التي يتم اعدادها    حاليا ضمن حلقات ورشة عمل</Attribute>
+        </Language>
+        <!-- Chinese - Simplified -->
+        <Language code="cn">
+            <Attribute name="label">格式</Attribute>
+            <Attribute name="definition">资源的物理或数字表现形式。</Attribute>
+            <Attribute name="comment">一般而言，格式可能包括资源的媒体类型或资源的大小，格式元素可以用来决定展示或操作资源所需    的软硬件或其他相应设备，例如大小包括资源所占的存储空间及持续时间。建议采用来自于受控词表    中的值，（例如Internet媒体类型[MIME]定义计算机媒体格式）。</Attribute>
+        </Language>
+        <!-- Czech -->
+        <Language code="cs">
+            <Attribute name="label">Formát</Attribute>
+            <Attribute name="definition">Fyzická nebo digitální reprezentace zdroje.</Attribute>
+            <Attribute name="comment">Typicky může Formát obsahovat typ média nebo rozměry zdroje. Formát lze používat k určení softwaru, hardwaru nebo dalšího zařízení potřebného k zobrazení nebo k manipulaci se zdrojem. Příklady rozměrů zahrnují velikost a dobu trvání. Doporučuje se vybírat hodnotu z řízeného slovníku (např. seznam typů internetových médií [MIME] definující formáty počítačových médií).</Attribute>
+        </Language>
+        <!-- Dutch -->
+        <Language code="nl">
+            <Attribute name="label">Format</Attribute>
+            <Attribute name="definition">Het data formaat van het Internetbestand. Dit gegeven kan gebruikt worden om systeemvereisten (hard- en software) te identificeren die nodig zijn voor raadpleging of bediening van de Internetbron. &quot;Format&quot; is nog in ontwikkeling bij de DC workshop. Uit compatibiliteitsoverwegingen wordt aanbevolen formaatgegevens te selecteren uit een gecontroleerde lijst. Formaten kunnen van de Internet Media Types (MIME types) lijst gekozen worden: http://www.isi.edu/in-notes/iana/assignments/media-types/media-types</Attribute>
+        </Language>
+        <!-- Finnish -->
+        <Language code="fi">
+            <Attribute name="label"/>
+            <Attribute name="definition"/>
+            <Attribute name="comment"/>
+        </Language>
+        <!-- Interlingua -->
+        <Language code="ia">
+            <Attribute name="label">Formato</Attribute>
+            <Attribute name="definition">Le manifestation physic o digital del ressource.</Attribute>
+            <Attribute name="comment">Typicamente le formato pote includer le typo de medio o dimensiones del ressource. Le formato pote esser utilizate pro determinar le software o le equipamento necessari pro exhibir o operar le ressource. Exemplos de dimensiones include grandessa e duration. Le practica recommendate es selectionar un valor de un vocabulario controlate (per exemplo, le lista de typos de medios de Internet [MIME] que defini formatos de medios).</Attribute>
+        </Language>
+        <!-- Marathi -->
+        <Language code="mr">
+            <Attribute name="label">रचना</Attribute>
+            <Attribute name="definition">माहितीसाठ्याची रचना, नमुनाब्द रचना</Attribute>
+            <Attribute name="comment">माहितीसाठ्याचे स्वरुप, रचनाउदा. त्याचे रुप जसे पुस्तकरुप, संगणकीय रुप, विद्युत परमाणुंच्या सहाय्याने संगणकीकृत माहितीसाठा</Attribute>
+        </Language>
+        <!-- Tamil -->
+        <Language code="ta">
+            <Attribute name="label">வடிவம்</Attribute>
+            <Attribute name="definition">வளத்தின் பருநிலை அல்லது இலக்கமுறை வெளிகாட்டல்</Attribute>
+            <Attribute name="comment">உதாகரணம்: ஊடகங்கள் வகை அல்லது வளத்தின் பாமாணம்கள் வடிவத்தில் இருக்கும். வளத்தை இயக்குவதர்க்கோ அல்லது காட்டுவதக்கோ வேண்டிய  மென்பொருள், வன்பொருள் அல்லது வேரு கருவிகளை தீர்மானிபதர்க்கு வடிவம் உபயோகிக்கலாம். பருமாணத்தில் அளவு அல்லது நீடிக்கும் காலம் உள்ப்படும். ஒரு கட்டுப்பட்ட சொல் வளத்திலிருந்து (உதாகரணம்: Internet Media Types [MIME] பட்டியல் கணிப்பொறி ஊடகங்கள் வடிவங்கள் விவரித்திருக்கும்)ஒரு மதிப்பு திரந்தெடுப்பது நாங்கள் சிபாரசு செய்யும் மேல்தரம் செயல்.</Attribute>
+        </Language>
+        <!-- Vietnamese -->
+        <Language code="vi">
+            <Attribute name="label">Dạng mẫu dữ liệu</Attribute>
+            <Attribute name="definition">Mô tả loại hình vật lý hoặc số (điện tử) của nguồn tin.</Attribute>
+            <Attribute name="comment">Về cơ bản, Yếu tố Format cung cấp thông tin về vật mang tin của nguồn tin nếu là nguồn tin không trực tuyến. Yếu tố còn cung cấp thông tin về kiểu dữ liệu hoặc kích thước, quy mô của nguồn tin. Dạng mẫu có thể sử dụng để xác định phần mềm, phần cứng hoặc thiết bị khác cần thiết để hiển thị hoặc thao tác với nguồn tin. Khuyến nghị sử dụng từ vựng có kiểm soát để chọn lựa thuật ngữ phù hợp (thí dụ sử dụng danh mục từ chuẩn tên gọi loại hình dữ liệu Internet (MIME) để xác định dạng mẫu dữ liệu điện tử)</Attribute>
+        </Language>
+        <!-- Non-language specific -->
+        <Attribute name="version">1.1</Attribute>
+        <Attribute language="en" name="registration_authority">Dublin Core Metadata Initiative</Attribute>
+        <Attribute name="obligation">Optional</Attribute>
+        <Attribute name="datatype">Character String</Attribute>
+        <Attribute name="maximum_occurrence">Unlimited</Attribute>
+    </Element>
+    <Element name="Identifier">
+        <!-- English -->
+        <Language code="en">
+            <Attribute name="label">Resource Identifier</Attribute>
+            <Attribute name="definition">An unambiguous reference to the resource within a given context.</Attribute>
+            <Attribute name="comment">Recommended best practice is to identify the resource by means of a string or number conforming to a formal identification system. Example formal identification systems include the Uniform Resource Identifier (URI) (including the Uniform Resource Locator (URL)), the Digital Object Identifier (DOI) and the International Standard Book Number (ISBN).</Attribute>
+        </Language>
+        <!-- Maori -->
+        <Language code="mi">
+            <Attribute name="label">Taututanga</Attribute>
+            <Attribute name="definition">He tohutoro e hangai ana ki te rauemi i roto i tetahi horopaki.</Attribute>
+            <Attribute name="comment">Ko te tino huarahi kua tohua, ko te tautu i te rauemi ma tetahi aho (string), tau ranei, e hangai ana ki tetahi punaha taututanga okawa. Ko etahi punaha taututanga okawa ko te Taututanga Rauemi Orite (Uniform Resource Identifier - URI), te Taututanga Rauemi Tohu-wahi (Uniform Resource Locator - URL), Te Mea A-mati (Digital Object Identifier - DOI) me te Tau Pukapuka Aro Whanui o te Ao (International Standard Book Number - ISBN).</Attribute>
+        </Language>
+        <!-- French -->
+        <Language code="fr">
+            <Attribute name="label">Identifiant</Attribute>
+            <Attribute name="definition">Une référence non ambiguë à la ressource dans un contexte donné</Attribute>
+            <Attribute name="comment">Il est recommandé d&apos;identifier la ressource par une chaîne de caractère ou un nombre conforme à un sytème formel d&apos;identification. Exemples de systemes formels d&apos;identification incluent le &quot;Uniform Resource Identifier&quot; (URI) (qui inclut le &quot;Uniform Resource Locator&quot; (URL)), le &quot;Digital Object Identifier&quot;(DOI) et le &quot;International Standard Book Number&quot;(ISBN).</Attribute>
+        </Language>
+        <!-- Russian -->
+        <Language code="ru">
+            <Attribute name="label">Идентификатор ресурса</Attribute>
+            <Attribute name="definition">Однозначная ссылка на ресурс в пределах данного контекста.</Attribute>
+            <Attribute name="comment">Для практического использования рекомендуется идентифицировать ресурс посредством строки или числа, соответствующего формальной идентификационной системе. Примеры формальных идентификационных систем включают Унифицированный Идентификатор Ресурса (URI), (включая Унифицированныый Локатор Ресурса URL), Идентификатор Цифрового Объекта (DOI) и Международный Стандартный Книжный Номер (ISBN).</Attribute>
+        </Language>
+        <!-- Spanish -->
+        <Language code="es">
+            <Attribute name="label">Identificador del Recurso</Attribute>
+            <Attribute name="definition">Secuencia de caracteres usados para identificar unívocamente un recurso. Ejemplos para recursos en línea pueden ser URLs y URNs (cuando estén implementados). Para otros recursos pueden ser usados otros formatos de identificadores, como por ejemplo ISBN (&quot;International Standard Book Number&quot; - Número Internacional Normalizado para Libros)</Attribute>
+        </Language>
+        <!-- Arabic -->
+        <Language code="ar">
+            <Attribute name="label">معرف المصدر</Attribute>
+            <Attribute name="definition">هو مجموعة حرفية أو رقم يستخدم لتعريف المصدر احديا : الامثلة لذالك في المصادر الشبكيةتضم ) URNs, URLs عند بنائها (    كذلك يمكن اعتبار المعرفات العالمية الاحادية مثل الرقم الدولي لتصنيف الكاتب (ISBN) مرشحة لهذا العامل</Attribute>
+        </Language>
+        <!-- Chinese - Simplified -->
+        <Language code="cn">
+            <Attribute name="label">资源标识符</Attribute>
+            <Attribute name="definition">在特定的范围内给予资源的一个明确的标识。</Attribute>
+            <Attribute name="comment">建议对资源的标识采用符合某一正式标识体系的字符串及数字组合。例如正式的标识体系包括统一资    源标识符(URI) (包括同一资源定位符URL)、数字对象标识符(DOI)和国际标准书号(ISBN)。</Attribute>
+        </Language>
+        <!-- Czech -->
+        <Language code="cs">
+            <Attribute name="label">Identifikátor zdroje</Attribute>
+            <Attribute name="definition">Jednoznačný odkaz na zdroj v rámci daného kontextu.</Attribute>
+            <Attribute name="comment">Doporučuje se identifikovat zdroj znakovým řetězcem nebo číslem odpovídajícím některému z formálních identifikačních systémů. Příklady formálních identifikačních systémů zahrnují Uniform Resource Identifier (URI) (včetně Uniform Resource Locator (URL)), Digital Object Identifier (DOI) a Mezinárodní standardní číslo knihy (ISBN).</Attribute>
+        </Language>
+        <!-- Dutch -->
+        <Language code="nl">
+            <Attribute name="label">Bestandsidentificatie</Attribute>
+            <Attribute name="definition">Een unieke string of nummer ter identificatie van de Internetbron. Voorbeelden zijn URL&apos;s of URN&apos;s Andere voorbeelden zijn International Standard Book Number (ISBN) of International Standard Serial Number (ISSN)</Attribute>
+        </Language>
+        <!-- Finnish -->
+        <Language code="fi">
+            <Attribute name="label"/>
+            <Attribute name="definition"/>
+            <Attribute name="comment"/>
+        </Language>
+        <!-- Interlingua -->
+        <Language code="ia">
+            <Attribute name="label">Identificator del ressource</Attribute>
+            <Attribute name="definition">Un referentia inambigue al ressource intra un date contexto.</Attribute>
+            <Attribute name="comment">Se recommenda identificar le ressource per medio de un catena de characteres o numero conforme a un systema formal de identification. Exemplos de systemas formal de identification include le Uniform Resource Identifier (URI) (includente le Uniform Resource Locator (URL)), le Digital Object Identifier (DOI) e le International Standard Book Number (ISBN).</Attribute>
+        </Language>
+        <!-- Marathi -->
+        <Language code="mr">
+            <Attribute name="label">ओळख</Attribute>
+            <Attribute name="definition">माहितीसाठ्याचा एक अर्थी संदर्भ</Attribute>
+            <Attribute name="comment">उदा. माहितीजाळ्यावरील पत्ता, विशिष्ठ स्थळ,  पुस्तकाचा आंतरराष्ट्रीय  मानक क्रमांक,  माहितीसाठ्याची ओळख पटविणारा इंटरनेट वरील पत्ता</Attribute>
+        </Language>
+        <!-- Tamil -->
+        <Language code="ta">
+            <Attribute name="label">வளம்  குறிப்பான்</Attribute>
+            <Attribute name="definition">ஒரு சூழலில் இருக்கும் வளத்தை ஒரு தெளிவான குரிப்பு.</Attribute>
+            <Attribute name="comment">ஒரு முறைசார்ந்த அடையாள அமைப்பு இணக்கமான  ஒரு சரம் அல்லது எண் உபயோகித்து வளத்தை அடயாளம் செய்வதை நாங்கள் சிபாரசு செய்யும் மேல்தரம் செயல். உதாகரண முறைசார்ந்த அடையாள அமைப்புகள்:  Uniform Resource Identifier (URI)(Uniform Resource Locator (URL)உள்ப்பட), the Digital Object Identifier (DOI)மேலும் International Standard Book Number (ISBN).</Attribute>
+        </Language>
+        <!-- Vietnamese -->
+        <Language code="vi">
+            <Attribute name="label">Định danh</Attribute>
+            <Attribute name="definition">Một tham chiếu không trùng lặp đến nguồn tin trong khung cảnh cụ thể</Attribute>
+            <Attribute name="comment">Khuyến nghị sử dụng các định danh nguồn tin theo những chuẩn được chấp nhận quy định cho những hệ thống định danh hình thức. Thí dụ về hệ thống định danh bao gồm: Định danh Nguồn tin thống nhất (Uniform Resource Identifier hoặc URI, trong đó có Định vị nguồn tin thống nhất URL - Uniform Resource Locator, Tên nguồn tin thống nhất URN - Uniform Resource Name và Định vị nguồn tin thống nhất ổn định PURL - Persistent URL),  Định danh đối tượng số DOI (Digital Object Identifier), Chỉ số sách chuẩn quốc tế ISBN (International Standard Book Number),...</Attribute>
+        </Language>
+        <!-- Non-language specific -->
+        <Attribute name="version">1.1</Attribute>
+        <Attribute language="en" name="registration_authority">Dublin Core Metadata Initiative</Attribute>
+        <Attribute name="obligation">Optional</Attribute>
+        <Attribute name="datatype">Character String</Attribute>
+        <Attribute name="maximum_occurrence">Unlimited</Attribute>
+    </Element>
+    <Element name="Source">
+        <!-- English -->
+        <Language code="en">
+            <Attribute name="label">Source</Attribute>
+            <Attribute name="definition">A Reference to a resource from which the present resource is derived.</Attribute>
+            <Attribute name="comment">The present resource may be derived from the Source resource in whole or in part.  Recommended best practice is to reference the resource by means of a string or number conforming to a formal identification system.</Attribute>
+        </Language>
+        <!-- Maori -->
+        <Language code="mi">
+            <Attribute name="label">Matapuna</Attribute>
+            <Attribute name="definition">He tohutoro ki tetahi rauemi koira te matapuna o te rauemi e tirohia ana.</Attribute>
+            <Attribute name="comment">Tera pea i puta te katoa, tetahi wahanga ranei o te rauemi, e tirohia ana, mai i te Matapuna rauemi. Ko te tino huarahi kua tohua ko te tohutoro ki te rauemi ma te aho, ma te tau ranei e hangai ana ki tetahi punaha taututanga okawa.</Attribute>
+        </Language>
+        <!-- French -->
+        <Language code="fr">
+            <Attribute name="label">Source</Attribute>
+            <Attribute name="definition">Une référence à une ressource à partir de laquelle la ressource actuelle a été dérivée.</Attribute>
+            <Attribute name="comment">La ressource actuelle peut avoir été dérivée d&apos;une autre ressource source, en totalité ou en partie. Il est recommandé de reférencer cette source par une chaîne de caractère ou un nombre conforme à un système formel d&apos;identification.</Attribute>
+        </Language>
+        <!-- Russian -->
+        <Language code="ru">
+            <Attribute name="label">Источник</Attribute>
+            <Attribute name="definition">Ссылка на ресурс, из которого извлечен настоящий.</Attribute>
+            <Attribute name="comment">Настоящий ресурс может быть извлечен из Источника целиком или частично. Для практического использования рекомендуется идентифицировать ресурс посредством строки или числа, соответствующего формальной идентификационной системе.</Attribute>
+        </Language>
+        <!-- Spanish -->
+        <Language code="es">
+            <Attribute name="label">Fuente</Attribute>
+            <Attribute name="definition">Secuencia de caracteres utilizado para identificar unívocamente un trabajo a partir del cual proviene el recurso actual. Por ejemplo, es posible usar Source con la fecha de 1603 como descripción de una película basada en una obra de Shakespeare, pero es preferible, en ese caso, usar Relation &quot;IsBasedOn&quot; con una referencia a un recurso distinto cuya descripción contenga el elemento Date con valor 1603.</Attribute>
+        </Language>
+        <!-- Arabic -->
+        <Language code="ar">
+            <Attribute name="label">المصدر</Attribute>
+            <Attribute name="definition">المعلومات الخاصة بمصدر ثاني و الذي استمد منه المصدر الحالي. مع أنه من الموصى به أن تقدم العوامل    معلومات عن المصدر الحالي فقط , ويمكن أن يحوي هذا العامل التاريخ, المنشئ , الصيغة , المعرف , او اية مية - معلومات اخرى للمصدر الثاني عندما تعتبر مهمة لاكتشاف المصدر الحالي , و لذالك يوصى عند التطبيقفي احسن     المتعارف عليه باستخدام عامل العلاقة</Attribute>
+        </Language>
+        <!-- Chinese - Simplified -->
+        <Language code="cn">
+            <Attribute name="label">来源</Attribute>
+            <Attribute name="definition">现有资源来源的参照。</Attribute>
+            <Attribute name="comment">当前资源可能部分或全部源自该元素所标识的资源，建议对这一资源的标识采用一个符合正式标识系    统的字串及数字组合 。</Attribute>
+        </Language>
+        <!-- Czech -->
+        <Language code="cs">
+            <Attribute name="label">Zdroj</Attribute>
+            <Attribute name="definition">Odkaz na zdroj, z něhož je popisovaný zdroj odvozen.</Attribute>
+            <Attribute name="comment">Popisovaný zdroj může být zcela nebo zčásti odvozen ze zdroje uvedeného v prvku Zdroj. Doporučuje se odkazovat zdroj znakovým řetězcem nebo číslem odpovídajícím některému z formálních identifikačních systémů.</Attribute>
+        </Language>
+        <!-- Dutch -->
+        <Language code="nl">
+            <Attribute name="label">Bron</Attribute>
+            <Attribute name="definition">Informatie over een tweede bron waar de huidige Internetbron is van afgeleid. Bij &quot;Source&quot; mag een datum, auteur of maker, formaat, identificatie of andere metadata voor de tweede bron worden ingevuld. Voorbeeld: het is mogelijk om een &quot;Source&quot; datum 1603 in een omschrijving van een 1996 film bewerking van een Shakespeare stuk te gebruiken. &quot;Source&quot; is niet bruikbaar wanneer de huidige bron de orginele is.</Attribute>
+        </Language>
+        <!-- Finnish -->
+        <Language code="fi">
+            <Attribute name="label"/>
+            <Attribute name="definition"/>
+            <Attribute name="comment"/>
+        </Language>
+        <!-- Interlingua -->
+        <Language code="ia">
+            <Attribute name="label">Fonte</Attribute>
+            <Attribute name="definition">Un referentia a un ressource del qual se deriva le ressource presente.</Attribute>
+            <Attribute name="comment">Le ressource presente pote derivar se del ressource-fonte in toto o in parte. Le practica recommendate es facer referentia al ressource per medio de un catena de characteres o un numero conforme a un systema formal de identification.</Attribute>
+        </Language>
+        <!-- Marathi -->
+        <Language code="mr">
+            <Attribute name="label">उगम</Attribute>
+            <Attribute name="definition">माहितीचा उगम सांगणारा एकअर्थी संदर्भ</Attribute>
+            <Attribute name="comment">उदा. पुस्तक, मासिक,  माहितीजाळ्यावरील पत्तायांचा संदर्भ</Attribute>
+        </Language>
+        <!-- Tamil -->
+        <Language code="ta">
+            <Attribute name="label">மூலம்</Attribute>
+            <Attribute name="definition">எந்த வளத்திலிருந்து நிகழும் வளம் பெற்றிருக்கிரதோ அதை குறிக்கிரது.</Attribute>
+            <Attribute name="comment">நிகழும் வளம் மூல வளத்திலிருந்து ஒரு பாகமோ அல்லது முழுமையகவோ பெறலாம். ஒரு முறைசார்ந்த அடையாள அமைப்பு இணக்கமான  ஒரு சரம் அல்லது எண் உபயோகித்து வளதை அடயாளம் செய்வதை நாங்கள் சிபாரசு செய்யும் மேல்தரம் செயல்.</Attribute>
+        </Language>
+        <!-- Vietnamese -->
+        <Language code="vi">
+            <Attribute name="label">Nguồn trích</Attribute>
+            <Attribute name="definition">Tham chiếu về nguồn gốc mà từ đó nguồn tin hiện được mô tả được rút ra hoặc tạo ra từ đó</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+        <!-- Non-language specific -->
+        <Attribute name="version">1.1</Attribute>
+        <Attribute language="en" name="registration_authority">Dublin Core Metadata Initiative</Attribute>
+        <Attribute name="obligation">Optional</Attribute>
+        <Attribute name="datatype">Character String</Attribute>
+        <Attribute name="maximum_occurrence">Unlimited</Attribute>
+    </Element>
+    <Element name="Language">
+        <!-- English -->
+        <Language code="en">
+            <Attribute name="label">Language</Attribute>
+            <Attribute name="definition">A language of the intellectual content of the resource.</Attribute>
+            <Attribute language="en" name="comment">Recommended best practice for the values of the Language element is defined by RFC 1766 which includes a two-letter Language Code (taken from the ISO 639 standard, followed optionally, by a two-letter Country Code (taken from the ISO 3166 standard). For example, &apos;en&apos; for English, &apos;fr&apos; for French, or &apos;en-uk&apos; for English used in the United Kingdom.</Attribute>
+        </Language>
+        <!-- Maori -->
+        <Language code="mi">
+            <Attribute name="label">Reo</Attribute>
+            <Attribute name="definition">Te reo o te whakakaupapatanga o nga matauranga o te rauemi.</Attribute>
+            <Attribute name="comment">Ko te tino huarahi kua tohua mo nga uara o te huanga Reo kua whakaritea ki te RFC 1766 [RFC1766] kei roto te Tohu Reo kupu-rua (two-letter Language Code) (no te aro whanui ISO 639 [ISO639], ka taea e tetahi tohu kupu-rua te whai atu (no te aro whanui ISO 3166) [ISO366]). Hei tauira, te &apos;en&apos; mo te English, te &apos;fr&apos; mo te French, &apos;te en-uk&apos; mo te English e whakamahia ana i Ingarangi (UK).</Attribute>
+        </Language>
+        <!-- French -->
+        <Language code="fr">
+            <Attribute name="label">Langue</Attribute>
+            <Attribute name="definition">La langue du contenu intellectuel de la ressource.</Attribute>
+            <Attribute name="comment">Il est recommandé d&apos;utiliser comme valeur de l&apos;élément Langue celles definies par la RFC 1766 [RFC1766] qui comprend un code de langage à deux caractères(venant du standard ISO 639 [ISO639]), éventuellement suivi d&apos;un code à deux lettres pour le pays (venant du standard ISO 3166 [ISO3166] ou en français [ISO3166]). Par exemple, &apos;en&apos; pour l&apos;anglais, &apos;fr&apos; pour le français, ou &apos;en-uk&apos; pour l&apos;anglais utilisé au Royaume-Uni.</Attribute>
+        </Language>
+        <!-- Russian -->
+        <Language code="ru">
+            <Attribute name="label">Язык</Attribute>
+            <Attribute name="definition">Язык интеллектуального содержания ресурса.</Attribute>
+            <Attribute name="comment">Для практического использования рекомендуется значение элемента Язык, определяемое RFC 1766 (Тэги для идентификации языка), включающим двухбуквенный код языка (взятый из стандарта ISO 639 (Коды для представления названий языков)), за которым следует (при необходимости) двухбуквенный код страны (взятыми из стандарта ISO 3166 (Коды для представления названий стран)). Например, &quot;en&quot; - для английского, &quot;fr&quot; - для французского, &quot;en-uk&quot; - для английского, используемого в Великобритании.</Attribute>
+        </Language>
+        <!-- Spanish -->
+        <Language code="es">
+            <Attribute name="label">Lengua</Attribute>
+            <Attribute name="definition">Lengua/s del contenido intelectual del recurso. Practicamente el contenido de este campo debería coincidir con los de la RFC 1766 (Tags para la identificación de lenguas, http://ds.internic.net/rfc/rfc1766.txt); por ejemplo: en, es, de, fi, ja y zh.</Attribute>
+        </Language>
+        <!-- Arabic -->
+        <Language code="ar">
+            <Attribute name="label">اللغة</Attribute>
+            <Attribute name="definition">هذه هي لغة المحتوى الفكري للمصدر . كلما كان  عمليا , محتوى هظا الحقل يجب أن يتطابق مع RFC 1766    ] الامثلة تضم th, ja, fr, es, fi, de, en و zh كرموز للتعريف باللغة [</Attribute>
+        </Language>
+        <!-- Chinese - Simplified -->
+        <Language code="cn">
+            <Attribute name="label">语种</Attribute>
+            <Attribute name="definition">描述资源知识内容的语种。</Attribute>
+            <Attribute name="comment">建议本元素的值采用RFC 3066[RFC3066]，该标准与ISO 639 [ISO639]一起定义了由两个和三个英    文字母组成的主语言标签和子标签例如包括“en”或“eng”来表示English, &quot;akk&quot; 来表示    &quot;en-GB&quot;表示英国英语。</Attribute>
+        </Language>
+        <!-- Czech -->
+        <Language code="cs">
+            <Attribute name="label">Jazyk</Attribute>
+            <Attribute name="definition">Jazyk intelektuálního obsahu zdroje.</Attribute>
+            <Attribute name="comment">Doporučený postup pro hodnoty prvku Jazyk je definován v RFC 1766 [RFC1766]: dvouznakový kód jazyka (převzatý z normy ISO 639 [ISO639]) volitelně následovaný dvouznakovým kódem země (převzatým z normy ISO 3166 [ISO3166]). Například &apos;en&apos; pro angličtinu, &apos;fr&apos; pro francouzštinu, &apos;cs&apos; pro češtinu, nebo &apos;en-uk&apos; pro angličtinu užívanou ve Spojeném království.</Attribute>
+        </Language>
+        <!-- Dutch -->
+        <Language code="nl">
+            <Attribute name="label">Taal</Attribute>
+            <Attribute name="definition">De taal waarin het document is beschreven. Voorgeschreven wordt de ISO639-1 norm, een twee karakter taalcode van de ISO 639(639-1 en 639-2) norm. Taalcodes kunnen van een lijst worden gekozen: http://www.ics.uci.edu/pub/ietf/http/related/iso639.txt, Eventueel kan ISO3166 (landencodes) gebruikt worden om aan te geven in welk gebied de taal wordt gesproken. Deze kunnen ook van een lijst worden gekozen:  http://www.ics.uci.edu/pub/ietf/http/related/iso3166.txt.</Attribute>
+        </Language>
+        <!-- Finnish -->
+        <Language code="fi">
+            <Attribute name="label"/>
+            <Attribute name="definition"/>
+            <Attribute name="comment"/>
+        </Language>
+        <!-- Interlingua -->
+        <Language code="ia">
+            <Attribute name="label">Lingua</Attribute>
+            <Attribute name="definition">Le lingua del contento intellectual del ressource.</Attribute>
+            <Attribute name="comment">Le practica recommendate pro le valores del elemento lingua es definite per RFC 1766 [RFC1766], que include un codice de lingua de duo litteras (prendite del standard ISO 639 [ISO639]), sequite optionalmente per un codice de pais de duo litteras (prendite del standard ISO 3166 [ISO3166]). Per exemplo, &apos;ia&apos; pro interlingua, &apos;fr&apos; pro francese, o &apos;en-uk&apos; pro le anglese del Regno Unite.</Attribute>
+        </Language>
+        <!-- Marathi -->
+        <Language code="mr">
+            <Attribute name="label">भाषा</Attribute>
+            <Attribute name="definition">माहितीसाठ्याची भाषा</Attribute>
+            <Attribute name="comment">उदा. मराठी - भारतीय भाषा</Attribute>
+        </Language>
+        <!-- Tamil -->
+        <Language code="ta">
+            <Attribute name="label">மொழி</Attribute>
+            <Attribute name="definition">வளத்தின் அறிவியற்தனமான பொருளடக்கத்தின் மொழி.</Attribute>
+            <Attribute name="comment">நாங்கள் சிபாரசு செய்யும் மேல்தரம் செயல்: மொழியின் உறுப்பின் மதிப்புகள் RFC 1766 இல் விவரித்தது, அதில் இரண்டு - எழுத்து மொழி நிரல் (ISO 639 செந்தரத்திலிருந்து எடுக்கபட்டது, வேண்டுமானால் ஒரு இரண்டு - எழுத்து தேசம் நிரல் சேர்த்திருக்கும் (ISO 3166 செந்தரத்திலிருந்து எடுக்கபட்டது).  உதாகரணம்: English க்கு &apos;en&apos;,   French க்கு &apos;fr&apos;, அல்ல்து English used in the United Kingdom க்கு &apos;en-uk&apos;.</Attribute>
+        </Language>
+        <!-- Vietnamese -->
+        <Language code="vi">
+            <Attribute name="label">Ngôn ngữ</Attribute>
+            <Attribute name="definition">Ngôn ngữ của chính văn của nội dung của nguồn tin</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+        <!-- Non-language specific -->
+        <Attribute name="version">1.1</Attribute>
+        <Attribute language="en" name="registration_authority">Dublin Core Metadata Initiative</Attribute>
+        <Attribute name="obligation">Optional</Attribute>
+        <Attribute name="datatype">Character String</Attribute>
+        <Attribute name="maximum_occurrence">Unlimited</Attribute>
+    </Element>
+    <Element name="Relation">
+        <!-- English -->
+        <Language code="en">
+            <Attribute name="label">Relation</Attribute>
+            <Attribute name="definition">A reference to a related resource.</Attribute>
+            <Attribute name="comment">Recommended best practice is to reference the resource by means of a string or number conforming to a formal identification system.</Attribute>
+        </Language>
+        <!-- Maori -->
+        <Language code="mi">
+            <Attribute name="label">Whai Panga</Attribute>
+            <Attribute name="definition">He tohutoro ki tetahi rauemi whai panga.</Attribute>
+            <Attribute name="comment">Ko te tino huarahi kua tohua, ko te tohutoro ki te rauemi ma te aho, te tau ranei, e hangai ana ki te punaha taututanga okawa.</Attribute>
+        </Language>
+        <!-- French -->
+        <Language code="fr">
+            <Attribute name="label">Relation</Attribute>
+            <Attribute name="definition">Une référence à une autre ressource qui a un rapport avec cette ressource.</Attribute>
+            <Attribute name="comment">Il est recommandé de référencer cette ressource par une chaîne de caractères ou un numéro conforme à un système formel d&apos;identification.</Attribute>
+        </Language>
+        <!-- Russian -->
+        <Language code="ru">
+            <Attribute name="label">Отношение</Attribute>
+            <Attribute name="definition">венный ресурс.</Attribute>
+            <Attribute name="comment">Для практического использования рекомендуется идентифицировать ресурс посредством строки или числа, соответствующего формальной идентификационной системе.</Attribute>
+        </Language>
+        <!-- Spanish -->
+        <Language code="es">
+            <Attribute name="label">Relación</Attribute>
+            <Attribute name="definition">Un identificador de un segundo recurso y su relación con el recurso actual. Este elemento permite enlazar los recursos relacionados y las descripciones de los recursos. Por ejemplo: IsVersionOf - Incluye la edición de un trabajo, IsBasedOn - La traducción de un trabajo, IsPartOf - Un capítulo de un libro, IsFormatOf - Un mecanismo de transformación de un conjunto de datos en una imagen. Para asegurar la interoperabilidad, las relaciones deberían ser seleccionadas de una lista de elementos que actualmente se encuentra bajo desarrollo en un grupo de trabajo.</Attribute>
+        </Language>
+        <!-- Arabic -->
+        <Language code="ar">
+            <Attribute name="label">العلاقة</Attribute>
+            <Attribute name="definition">هذا معرف للمصدر الثاني و علاقته بالمصدر الحالي . يسمح هذا العامل بتوضيح الروابط بين المصادر المتعلقة     ببعضها و توصيف المصدر . الامثلة تضم طبعة العمل ) نسخة من ( ترجمة عمل ) اعتمادا على ( فصل من كتاب ) جزء من (    و تحويله ميكانيكية لمجموعة معلوماتية الى صورة ) صيغة من ( من أجل التعامل المشترك , يجب اختيار العلاقات من    القائمة المرقمة و التي يتم اعدادها حاليا ضمن حلقات ورشة عمل</Attribute>
+        </Language>
+        <!-- Chinese - Simplified -->
+        <Language code="cn">
+            <Attribute name="label">关联</Attribute>
+            <Attribute name="definition">涉及的相关资源。</Attribute>
+            <Attribute name="comment">著录相关资源时，建议使用符合正式标识系统的字符串或者数字。</Attribute>
+        </Language>
+        <!-- Czech -->
+        <Language code="cs">
+            <Attribute name="label">Vztah</Attribute>
+            <Attribute name="definition">Odkaz na příbuzný zdroj.</Attribute>
+            <Attribute name="comment">Doporučuje se odkazovat zdroj znakovým řetězcem nebo číslem odpovídajícím některému z formálních identifikačních systémů.</Attribute>
+        </Language>
+        <!-- Dutch -->
+        <Language code="nl">
+            <Attribute name="label">Relatie</Attribute>
+            <Attribute name="definition">Een identificatie van een tweede bron en de relatie met de huide Internetbron. Voorbeelden zijn een editie van een werk (IsVersionOf), een vertaling van een werk (IsBasedOn), een hoofdstuk van een boek (IsPartOf) en een mechanische transformatie van een dataset in een plaatje (IsFormatOf). De DC Working Groups zijn bezig met een lijst met de meest verwachte relaties. Aanbevolen wordt om de relaties van deze lijst te gebruiken: http://purl.oclc.org/metadata/dublin_core/wrelationdraft.html.</Attribute>
+        </Language>
+        <!-- Finnish -->
+        <Language code="fi">
+            <Attribute name="label"/>
+            <Attribute name="definition"/>
+            <Attribute name="comment"/>
+        </Language>
+        <!-- Interlingua -->
+        <Language code="ia">
+            <Attribute name="definition">Relation</Attribute>
+            <Attribute name="definition">Un referentia a un ressource correlate.</Attribute>
+            <Attribute name="comment">Le practica recommendate es facer referentia al ressource per medio de un catena de characteres o numero conforme a un systema de identification formal.</Attribute>
+        </Language>
+        <!-- Marathi -->
+        <Language code="mr">
+            <Attribute name="label">नाते , संबंध</Attribute>
+            <Attribute name="definition">माहितीसाठ्याशी संबंध दाखवणारा संदर्भ</Attribute>
+            <Attribute name="comment">उदा.  माहिती जाळ्यावरील पत्ता(URL)</Attribute>
+        </Language>
+        <!-- Tamil -->
+        <Language code="ta">
+            <Attribute name="label">சம்பந்தம்</Attribute>
+            <Attribute name="definition">சம்பந்தபட்ட வளத்தை குறிக்கிரது.</Attribute>
+            <Attribute name="comment">ஒரு முறைசார்ந்த அடையாள அமைப்பு இணக்கமான  ஒரு சரம் அல்லது எண் உபயோகித்து வளத்தை அடயாளம் செய்வதை நாங்கள் சிபாரசு செய்யும் மேல்தரம் செயல்.</Attribute>
+        </Language>
+        <!-- Vietnamese -->
+        <Language code="vi">
+            <Attribute name="label">Quan hệ</Attribute>
+            <Attribute name="definition">Tham chiếu đến các nguồn tin liên quan đến nguồn đang mô tả</Attribute>
+            <Attribute name="comment"/>
+        </Language>
+        <!-- Non-language specific -->
+        <Attribute name="version">1.1</Attribute>
+        <Attribute language="en" name="registration_authority">Dublin Core Metadata Initiative</Attribute>
+        <Attribute name="obligation">Optional</Attribute>
+        <Attribute name="datatype">Character String</Attribute>
+        <Attribute name="maximum_occurrence">Unlimited</Attribute>
+    </Element>
+    <Element name="Coverage">
+        <!-- English -->
+        <Language code="en">
+            <Attribute name="label">Coverage</Attribute>
+            <Attribute name="definition">The extent or scope of the content of the resource.</Attribute>
+            <Attribute name="comment">Coverage will typically include spatial location (a place name or geographic coordinates), temporal period (a period label, date, or date range) or jurisdiction (such as a named administrative entity). Recommended best practice is to select a value from a controlled vocabulary (for example, the Thesaurus of Geographic Names [TGN]) and that, where appropriate, named places or time periods be used in preference to numeric identifiers such as sets of coordinates or date ranges.</Attribute>
+        </Language>
+        <!-- Maori -->
+        <Language code="mi">
+            <Attribute name="label">Kapitanga</Attribute>
+            <Attribute name="definition">Te roanga, te whanuitanga ranei o te whakakaupapatanga o te rauemi.</Attribute>
+            <Attribute name="comment">Ko te tikanga, ka uru atu te wahi mokowa (te ingoa o tetahi wahi, whakapiritanga matawhenua ranei), whakaritenga wa (he tapatanga wa (period label, ra, whakatakotoranga whanui o nga ra), te whakaritenga ture (penei i te putahi whakahaere). Ko te tino huarahi kua tohua, ko te tipako uara mai i tetahi whakaritenga kupu (hei tauira, i tetahi Puna Kupu Ingoa Matawhenua (Geographic Names [TGN] i nga wahi tika, ko nga wahi me nga whakaritenga wa ka whakamahia i mua i te whakamahitanga o nga taututanga tau penei i nga huinga whakapiritanga me nga whakatakotoranga whanui o nga ra.</Attribute>
+        </Language>
+        <!-- French -->
+        <Language code="fr">
+            <Attribute name="label">Couverture</Attribute>
+            <Attribute name="definition">La portée ou la couverture spatio-temporelle de la ressource.</Attribute>
+            <Attribute name="comment">La couverture typiquement inclut une position géographique (le nom d&apos;un lieu ou ses coordonnées), une période de temps (un nom de période, une date, ou un intervalle de temps) ou une juridiction (telle que le nom d&apos;une entité administrative). Il est recommandé de choisir la  valeur de Couverture dans un vocabulaire contrôlé (par exemple, un thésaurus de noms géographiques, comme[TGN]) et, quand cela est approprié, des noms de lieux ou de périodes plutôt que des identifiants numériques tels que des coordonnées ou des intervalles de dates. </Attribute>
+        </Language>
+        <!-- Russian -->
+        <Language code="ru">
+            <Attribute name="label">Охват</Attribute>
+            <Attribute name="definition">Протяженность и границы содержания ресурса.</Attribute>
+            <Attribute name="comment">Охват обыкновенно включает пространственное местонахождение (название местности или географические координаты), временной промежуток (указание периода, дата или ряд дат) или юрисдикцию (указание единицы административного деления). На практике рекомендуется выбирать значение из контролируемого словаря (например, Тезауруса географических названий TGN), и, если это уместно, предпочтение отдается указаниям местностей или временных промежутков вместо цифровых идентификаторов, как, например, систем координат или временных рядов.</Attribute>
+        </Language>
+        <!-- Spanish -->
+        <Language code="es">
+            <Attribute name="label">Cobertura</Attribute>
+            <Attribute name="definition">La característica de cobertura espacial y/o temporal del contenido intelectual del recurso. La cobertura espacial se refiere a una región física (por ejemplo, sector celestial); uso de coordenadas (por ejemplo, longitud y latitud) o nombres de lugares extraidos de una lista controlada. La cobertura temporal se refiere al contenido del recurso en vez de a cuando fue creado o puesto accesible ya que este último pertenece al elemento Date. Se usa el mismo formato basado en http://www.w3.org/TR/NOTE-datetime.</Attribute>
+        </Language>
+        <!-- Arabic -->
+        <Language code="ar">
+            <Attribute name="label">التغطية</Attribute>
+            <Attribute name="definition">هي الخصائص المكانية او الزمنية للمحتوى الفكري للمصدر . التغطية المكانية تشير الى جهة طبيعية )مثل , قطاع سماوي (    استخدام الاحداثيات ) مثل  خط الطول و خط العرض ( هو أسماء امكنة مستحكمة او متجهات بالكامل . التغطية الزمنية    ثعود الى ما يرجع اليه المصدر و ليس ال متى تم توفيره ) الاخير يتعلق بعامل التاريخ ( استخدام نفس صيغة التاريخ  او الوقت    ) عادة مدى ] ( صياغات اليوم و الوقت ) اعتمادا على (ISO 8601 الملاحظة الفنية [http://www.w3.org/TR/NOTE-datetime, W3C    كما هو موصى به لعامل التاريخ او قترات زمنية من قائمة مستحكمة او متجهات بالكامل</Attribute>
+        </Language>
+        <!-- Chinese - Simplified -->
+        <Language code="cn">
+            <Attribute name="label">覆盖范围</Attribute>
+            <Attribute name="definition">资源内容所涉及的外延与覆盖范围</Attribute>
+            <Attribute name="comment">覆盖范围一般包括空间位置（一个地名或地理坐标）、时间区间（一个时间标识，日期或一个日期范    围）、或者权限（比如命名的授权实体）推荐覆盖范围最好是取自于一个受控词表（例如地名词库    [TGN]），并应尽可能地使用由数字表示的坐标或日期区间来描述地名与时间段。</Attribute>
+        </Language>
+        <!-- Czech -->
+        <Language code="cs">
+            <Attribute name="label">Pokrytí</Attribute>
+            <Attribute name="definition">Rozsah nebo záběr obsahu zdroje.</Attribute>
+            <Attribute name="comment">Pokrytí bude typicky obsahovat prostorové umístění (jméno místa nebo zeměpisné souřadnice), časové období (označení období, datum nebo časový interval) nebo jurisdikci (např. jméno administrativní jednotky). Doporučuje se vybírat hodnotu z řízeného slovníku (např. Thesaurus of Geographic Names [TGN]) a tam, kde je to vhodné, uvádět místa nebo časové úseky spíše jménem než číselnými identifikátory jako jsou soubory souřadnic nebo časové intervaly.</Attribute>
+        </Language>
+        <!-- Dutch -->
+        <Language code="nl">
+            <Attribute name="label">Dekking</Attribute>
+            <Attribute name="definition">De ruimtelijke of tijdelijke karakteristieken van de intellectuele inhoud van de Internetbron. Ruimtelijke dekking verwijst naar een geografisch gebied. Gebruik coordinaten (longitude (lengtegraad) en latitude (breedtegraad)) of plaatsnamen die van een gecontroleerde lijst komen of volledig uitgeschreven zijn. Dekking in de tijd geeft de tijdsperiode aan waarop de inhoud van de Internetbron betrekking heeft en niet wanneer de Internetbron is gemaakt of beschikbaar is gesteld (dit laatste hoort ingevult te worden bij &quot;Date&quot;). Gebruik dezelfde datum/tijd formaat als bij &quot;Date&quot;; W3C Technical Note http://www.w3.org/TR/NOTE-datetime of tijdsperioden die van een gecontroleerde lijst komen of volledig uitgeschreven zijn. Coverage is in ontwikkeling bij de Dublin Core Working group http://www.alexandria.ucsb.edu/docs/metadata/dc_coverage.html.</Attribute>
+        </Language>
+        <!-- Finnish -->
+        <Language code="fi">
+            <Attribute name="label"/>
+            <Attribute name="definition"/>
+            <Attribute name="comment"/>
+        </Language>
+        <!-- Interlingua -->
+        <Language code="ia">
+            <Attribute name="label">Copertura</Attribute>
+            <Attribute name="definition">Le extension physic o abstracte del contento del ressource.</Attribute>
+            <Attribute name="comment">Le copertura typicamente include un location spatial (un nomine de localitate o coordinatas geographic), un periodo de tempore (un etiquetta de periodo, data, o gamma de datas), o un jurisdiction (tal como un entitate administrative nominate). Le practica recommendate es selectionar un valor a partir de un vocabulario controlate (per exemplo, le Thesaurus of Geographical Names [TGN]) e que, quando appropriate, localitates o periodos de tempore nominate sia utilizate in preferentia a identificatores numeric tales como collectiones de coordinatas o gammas de datas.</Attribute>
+        </Language>
+        <!-- Marathi -->
+        <Language code="mr">
+            <Attribute name="label">व्याप्ती</Attribute>
+            <Attribute name="definition">माहितीसाठ्याची भौगोलिक  माहिती</Attribute>
+            <Attribute name="comment">उदा. भौगोलिक व्याप्ती</Attribute>
+        </Language>
+        <!-- Tamil -->
+        <Language code="ta">
+            <Attribute name="label">பரப்பு</Attribute>
+            <Attribute name="definition">வளத்தின் பொருளடக்கத்தின் விஸ்திரணம் அல்லது வரையெல்லை.</Attribute>
+            <Attribute name="comment">உதாகரணமாக:  இடம்சார்ந்த இருப்பிடம் (ஒரு இடத்தின் பெயர் அல்லது பூவியியல் ஆயங்கள்), இம்மைகுரிய காலவரை  (காலவரை அடையாளம், தேதி, அல்லது தேதி  வீச்சு)அல்லது சட்ட எல்லை (உதாகரணம்: நிருவாக பொருள்)பரப்பில் உள்ப்படும்.  ஒரு கட்டுப்பட்ட சொல் வளத்திலிருந்து (உதாகரணம்: Thesaurus of Geographic Names [TGN])மேலும் எங்கு தகுமோ, எண் குறிப்பிக்கள் உதாகரணமாக ஆயங்கள் கணம் அல்லது தேதி வீச்சுக்கு பதிலாக பெயருள்ள இடங்கள் அல்ல்து பெயருள்ள காலவரைகள் உபயோகிக்குவது நாங்கள் சிபாரசு செய்யும் மேல்தரம் செயல்</Attribute>
+        </Language>
+        <!-- Vietnamese -->
+        <Language code="vi">
+            <Attribute name="label">Phạm vi bao quát</Attribute>
+            <Attribute name="definition">Mô tả mức độ bao quát của nội dung của nguồn tin</Attribute>
+            <Attribute name="comment">Phạm vi bao quát có thể là về phạm vi không gian (tên địa danh, toạ độ không gian,..), thời gian (giai đoạn, chuỗi ngày tháng, ...), phạm vi về tài phán (tên lãnh thổ, nước,..). Khuyến nghị sử dụng từ vựng có kiểm soát để chọn lựa thuật ngữ phù hợp. Thí dụ sử dụng từ điển từ chuẩn về tên địa lý, tên địa danh,...</Attribute>
+        </Language>
+        <!-- Non-language specific -->
+        <Attribute name="version">1.1</Attribute>
+        <Attribute language="en" name="registration_authority">Dublin Core Metadata Initiative</Attribute>
+        <Attribute name="obligation">Optional</Attribute>
+        <Attribute name="datatype">Character String</Attribute>
+        <Attribute name="maximum_occurrence">Unlimited</Attribute>
+    </Element>
+    <Element name="Rights">
+        <!-- English -->
+        <Language code="en">
+            <Attribute name="label">Rights Management</Attribute>
+            <Attribute name="definition">Information about rights held in and over the resource.</Attribute>
+            <Attribute name="comment">Typically, a Rights element will contain a rights management statement for the resource, or reference a service providing such information. Rights information often encompasses Intellectual Property Rights (IPR), Copyright, and various Property Rights. If the Rights element is absent, no assumptions can be made about the status of these and other rights with respect to the resource.</Attribute>
+        </Language>
+        <!-- Maori -->
+        <Language code="mi">
+            <Attribute name="label">Motika</Attribute>
+            <Attribute name="definition">Ko nga mohiohio ki nga motika o tetahi rauemi.</Attribute>
+            <Attribute name="comment">Ko te tikanga, kei te huanga Motika e pupuri ana he korero mo te whakaritenga motika mo te rauemi, he ratonga tohutoro e whakarato ana ranei i enei tumomo mohiohio. He nui nga wa, puta ai i roto i te mohiohio Motika te Mana Whakairo Hinegaro (Intellectual Property Rights - (IPR)), te Manatarua me nga Tuahua Mana Taonga (Property Rights). Ki te kore te huanga Motika, kaore e taea te pohehe noa ki te mana o enei, nga motika ranei e pa ana ki te rauemi.</Attribute>
+        </Language>
+        <!-- French -->
+        <Language code="fr">
+            <Attribute name="label">Droits</Attribute>
+            <Attribute name="definition">Information sur les droits sur et au sujet de la ressource.</Attribute>
+            <Attribute name="comment">Typiquement, un élément Droits contiendra un état du droit à gérer une ressource, ou la reférence à un service fournissant cette information. Ces droits souvent couvrent les droits de propriété intellectuelle (IPR), Copyright, et divers droits de propriété. Si l&apos;élément Droits est absent, aucune hypothèse ne peut être faite sur l&apos;état de ces droits, ou de tout autre, par rapport à la ressource.</Attribute>
+        </Language>
+        <!-- Russian -->
+        <Language code="ru">
+            <Attribute name="label">Правовое регулирование</Attribute>
+            <Attribute name="definition">Информация о правах использования, содержащаяся внутри и вне ресурса.</Attribute>
+            <Attribute name="comment">Обычно элемент Права содержит положение о правовых нормах, регулирующих функционирование ресурса или ссылку на службу, предоставляющую эту информацию. Правовая информация обычно включает сведения о Правах интеллектуальной собственности, Авторском праве и других Имущественных правах. Отсутствие элемента Права не может являться основанием для каких-либо предположений о правовом статусе и других правах, касающихся ресурса.</Attribute>
+        </Language>
+        <!-- Spanish -->
+        <Language code="es">
+            <Attribute name="label">Derechos</Attribute>
+            <Attribute name="definition">Una referencia (URL, por ejemplo) para una nota sobre derechos de autor, para un servicio de gestión de derechos o para un servicio que dará información sobre términos y condiciones de acceso a un recurso. Una especificación formal del elemento Rights se encuentra catualmente en discusión y por lo tanto su uso se considera experimental.</Attribute>
+        </Language>
+        <!-- Arabic -->
+        <Language code="ar">
+            <Attribute name="label">حقوق الادارة</Attribute>
+            <Attribute name="definition">هي افادة حقوق الادارة , معرف مرتبط بافادة حقوق ا لادارة , معرف مرتبط بخدمة تقدم معلومات عن حقوق الادارة الخاصة بالمصدر</Attribute>
+        </Language>
+        <!-- Chinese - Simplified -->
+        <Language code="cn">
+            <Attribute name="label">权限</Attribute>
+            <Attribute name="definition">有关资源本身所有的或被赋予的权限信息</Attribute>
+            <Attribute name="comment">一般而言，权限元素应包括一个对资源的权限声明，或者是对提供这一信息的服务的参照。权限一般    包括知识产权(IPR)，版权或其他各种各样的产权。如果没有权限元素的标注，不可以对与资源相关    的上述或其他权利的情况作出任何假定。</Attribute>
+        </Language>
+        <!-- Czech -->
+        <Language code="cs">
+            <Attribute name="label">Práva</Attribute>
+            <Attribute name="definition">Informace o právech vztahujících se k popisovanému zdroji.</Attribute>
+            <Attribute name="comment">Prvek Práva bude typicky obsahovat ustanovení o správě autorských/vlastnických práv ke zdroji nebo odkaz na službu poskytující takovéto informace. Informace o právech často zahrnují práva duševního vlastnictví (IPR), autorské právo a různá vlastnická práva. Jestliže prvek Práva chybí, nelze odvozovat žádné předpoklady o stavu těchto a jiných práv vztahujících se k popisovanému zdroji.</Attribute>
+        </Language>
+        <!-- Dutch -->
+        <Language code="nl">
+            <Attribute name="label">Copyright</Attribute>
+            <Attribute name="definition">Een copyright verklaring of een link naar een copyright verklaring of een link naar een service die informatie geeft over de copyright van de Internetbron.</Attribute>
+        </Language>
+        <!-- Finnish -->
+        <Language code="fi">
+            <Attribute name="label"/>
+            <Attribute name="definition"/>
+            <Attribute name="comment"/>
+        </Language>
+        <!-- Interlingua -->
+        <Language code="ia">
+            <Attribute name="label">Gestion de derectos</Attribute>
+            <Attribute name="definition">Information super derectos detenite super e a proposito del ressource.</Attribute>
+            <Attribute name="comment">Typicamente le elemento derectos continera un declaration de gestion de derectos pro le ressource, o un referentia a un servicio que provide tal information. Information de derectos frequentemente involve derectos de proprietate intellectual (IPR), copyright e varie derectos de proprietate. Si le elemento Derectos es absente, necun hypothese pote esser facite quanto al stato de iste e altere derectos concernente ressource.</Attribute>
+        </Language>
+        <!-- Marathi -->
+        <Language code="mr">
+            <Attribute name="label">हक्क</Attribute>
+            <Attribute name="definition">बौध्दिक संपदेचाहक्क</Attribute>
+            <Attribute name="comment">स्वतःहाचे लेखन छापून अथवा माहितीजाळ्यावर प्रकाशित करण्याचा लेखक अथवा लेखिकेचा बौध्दिक संपदेचाहक्क</Attribute>
+        </Language>
+        <!-- Tamil -->
+        <Language code="ta">
+            <Attribute name="label">உரிமைகள் மேலாண்மை</Attribute>
+            <Attribute name="definition">வளத்தினுள் உரிமைகள் மேலும் வளத்தின் மேல் உள்ள உரிமைகள் பற்றிய தகவல்.</Attribute>
+            <Attribute name="comment">உதாகரனமாக, ஒரு உரிமை உறுப்பு ஒரு வளம் உரிமைகள் மேலாண்மை கூற்று ஆகும், அல்லது இந்த தகவல் கொடுக்கும் சேவையய் சுட்டிக்காட்டும். உரிமைகள் தகவலில் அனேகமாக  அறிவாற்றல் உரிமை (Intellectual Property Rights (IPR)), பிரசுர (பதிப்பு) உரிமை, மேலும் பல பான்மை உரிமைகள் பற்றி இருக்கும்.</Attribute>
+        </Language>
+        <!-- Vietnamese -->
+        <Language code="vi">
+            <Attribute name="label">Quyền</Attribute>
+            <Attribute name="definition">Thông tin về các quyền có được đối với nguồn tin hoặc đối với thông tin.</Attribute>
+            <Attribute name="comment">Yếu tố Quyền chứa thông báo về các quyền liên quan đến nguồn tin hoặc chỉ dẫn đến một dịch vụ cung cấp thông báo như vậy về quyền. Thông tin về quyền có thể bao gồm thông tin về quyền sở hữu trí tuệ, bản quyền và các quyền liên quan khác.</Attribute>
+        </Language>
+        <!-- Non-language specific -->
+        <Attribute name="version">1.1</Attribute>
+        <Attribute language="en" name="registration_authority">Dublin Core Metadata Initiative</Attribute>
+        <Attribute name="obligation">Optional</Attribute>
+        <Attribute name="datatype">Character String</Attribute>
+        <Attribute name="maximum_occurrence">Unlimited</Attribute>
+    </Element>
+</MetadataSet>

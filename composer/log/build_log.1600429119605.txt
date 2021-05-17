@@ -1,0 +1,15 @@
+u
+Command: D:\Program Files\Greenstone3\gs2build\bin\windows\perl\bin\Perl.exe -S D:\Program Files\Greenstone3\gs2build\bin\script\full-import.pl -gli -language en -site localsite -collectdir D:\Program Files\Greenstone3\web\sites\localsite\collect composer 
+import.pl> Removing current contents of the archives directory...
+import.pl> Failed to find database table 'greenstone' ...
+import.pl> Failed to find database table 'greenstone' ...
+import.pl> URL Encoding D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\2\2a\Anton_Webern_in_Stettin,_October_1912.jpg
+import.pl>  ->D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\2\2a\Anton_Webern_in_Stettin%2C_October_1912.jpg
+import.pl> URL Encoding D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\6\66\Bartók_Béla_1927.jpg
+import.pl>  ->D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\6\66\Bart%C3%B3k_B%C3%A9la_1927.jpg
+import.pl> URL Encoding D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\thumb\3\30\Benjamin_Britten,_London_Records_1968_publicity_photo_for_Wikipedia.jpg\495px-Benjamin_Britten,_London_Records_1968_publicity_photo_for_Wikipedia.jpg
+import.pl>  ->D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\thumb\3\30\Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia.jpg\495px-Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia.jpg
+import.pl> URL Encoding D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\thumb\0\02\Bernardo_Strozzi_-_Claudio_Monteverdi_(c.1630).jpg\480px-Bernardo_Strozzi_-_Claudio_Monteverdi_(c.1630).jpg
+import.pl>  ->D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\thumb\0\02\Bernardo_Strozzi_-_Claudio_Monteverdi_%28c.1630%29.jpg\480px-Bernardo_Strozzi_-_Claudio_Monteverdi_%28c.1630%29.jpg
+import.pl> Creating new database table 'greenstone' ...
+import.pl> Command failed.

@@ -1,0 +1,144 @@
+/* Always set the map height explicitly to define the size of the div
+* element that contains the map. */
+#map {
+	height: 83%;
+	width: 90;
+	float: bottom;
+	clear: both;
+}
+
+  /* Optional: Makes the sample page fill the window. */
+html, body {
+	height: 100%;
+	width: 99%;
+	margin: 0;
+	padding: 0;
+
+}
+
+.ControlPanel{
+	display: inline-block;
+	border: 2px #739346 solid;
+	padding: 9px;
+	padding-top: 5px;
+	padding-bottom: 0px;
+	border-radius: 40px;
+	margin: 5px;
+}
+
+
+
+#ControlButtons{
+	margin: auto;
+	display: inline-block;
+	float: left;
+	padding-left: 10px;
+	padding-top: 5px;
+	
+
+}
+/*hide the input number spinner in Chrome 
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+} 
+*/
+
+#LineThickness{
+	display: inline-block;
+	float: left;
+	margin-left: 3px;
+	margin-right: 3px;
+
+}
+
+input[type=range]{
+	height: 10px;
+}
+
+/*make '%' display within the input field*/
+.valueChanger {
+	height: 21px;
+	width: 70px;
+	position: relative;
+	display: inline-block;
+  }
+  
+#opacityRangeVal {
+	width: 70%;
+	height: 100%;
+	padding-right: 10%;
+  }
+  
+.unit {
+	display: block;
+	width: 45px;
+	height: 21px;
+	line-height: 21px;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+  }
+
+.valueInput{
+	width:55px;
+}
+
+.valueEditor{
+	 display:inline-block;
+}
+
+#ColourOpacity{
+	float: left;
+	margin-left: 3px;
+	margin-right: 3px;
+}
+
+#buttons3{
+	display: inline-block;
+	float: left;
+	padding-left: 10px;
+
+}	  
+
+#FillColour {
+	padding-left: 10px;
+}
+
+#color-palette1 {
+	vertical-align: middle;
+	display: inline;
+}
+
+#ThirdRow {
+	clear: left;
+}
+
+#SecondRow> div  > p{
+	margin: 5px;
+}
+
+#FourthRow {
+	clear: left;
+}
+#FourthRow > p{
+	padding-left: 10px;
+}
+
+#FillColour > p { 
+ margin-top: 5px;
+ display: flex;
+ float: left;
+}
+.color-buttons1 {
+	width: 14px;
+	height: 14px;
+	font-size: 0;
+	margin: 2px;
+	margin-top: 5px;
+	margin-left: 10px;
+	float: left;
+	display: inline;
+	cursor: pointer;
+}

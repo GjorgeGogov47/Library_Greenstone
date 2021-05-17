@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Alexander_Borodin.html</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">HTMLPlugin</Metadata>
+    <Metadata name="FileSize">2207</Metadata>
+    <Metadata name="Source">Alexander_Borodin.html</Metadata>
+    <Metadata name="SourceFile">Alexander_Borodin.html</Metadata>
+    <Metadata name="Language">ru</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="Title">Alexander Borodin</Metadata>
+    <Metadata name="FileFormat">HTML</Metadata>
+    <Metadata name="URL">http://Alexander_Borodin.html</Metadata>
+    <Metadata name="UTF8URL">http://Alexander_Borodin.html</Metadata>
+    <Metadata name="dc.Description">1850-1950</Metadata>
+    <Metadata name="dc.Relation">Русија</Metadata>
+    <Metadata name="dc.Subject">Националистички</Metadata>
+    <Metadata name="Identifier">HASH37bb685fe40631683df5b4</Metadata>
+    <Metadata name="lastmodified">1600618779</Metadata>
+    <Metadata name="lastmodifieddate">20200920</Metadata>
+    <Metadata name="oailastmodified">1600786937</Metadata>
+    <Metadata name="oailastmodifieddate">20200922</Metadata>
+    <Metadata name="assocfilepath">HASH37bb.dir</Metadata>
+  </Description>
+  <Content>
+&lt;table style=&quot;text-align: center;background-color:lightgray;width:100%;height:100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td style=&quot;width:33%&quot;&gt;
+            &lt;h2&gt;Alexander Borodin&lt;/h2&gt;
+            &lt;h3&gt;1833-1887&lt;/h3&gt;
+        &lt;/td&gt;
+
+        &lt;td&gt;
+            &lt;img style=&quot;border:2px solid black&quot;
+                 src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Borodin.jpg/435px-Borodin.jpg&quot;/&gt;
+        &lt;/td&gt;
+
+        &lt;td style=&quot;width:33%&quot;&gt;
+            &lt;h3&gt;Потекло: Руско&lt;/h3&gt;&lt;br/&gt;
+            &lt;h3&gt;Стил/период: Руски Националистички&lt;/h3&gt;
+        &lt;/td&gt;
+
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td style=&quot;border-top:2px solid black&quot;&gt;
+            &lt;h3&gt;Композитори од кои има добиено инспирација&lt;/h3&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Felix Mendelssohn&lt;/li&gt;
+                &lt;li&gt;Franz Liszt&lt;/li&gt;
+                &lt;li&gt;Frederic Chopin&lt;/li&gt;
+                &lt;li&gt;Hector Berlioz&lt;/li&gt;
+                &lt;li&gt;Ludwig van Beethoven&lt;/li&gt;
+                &lt;li&gt;Mikhail Glinka&lt;/li&gt;
+                &lt;li&gt;Modest Mussorgsky&lt;/li&gt;
+                &lt;li&gt;Robert Schumann&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/td&gt;
+        &lt;td style=&quot;border-top: 2px solid black&quot;&gt;&lt;/td&gt;
+        &lt;td style=&quot;border-top:2px solid black&quot;&gt;
+            &lt;h3&gt;Композитори кои ги има инспирирано&lt;/h3&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Alexander Glazunov&lt;/li&gt;
+                &lt;li&gt;Aram Khachaturian&lt;/li&gt;
+                &lt;li&gt;Claude Debussy&lt;/li&gt;
+                &lt;li&gt;Dmitry Kabalevsky&lt;/li&gt;
+                &lt;li&gt;Dmitry Shostakovich&lt;/li&gt;
+                &lt;li&gt;Igor Stravinsky&lt;/li&gt;
+                &lt;li&gt;Jean Sibelius&lt;/li&gt;
+                &lt;li&gt;Maurice Ravel&lt;/li&gt;
+                &lt;li&gt;Reinhold Gliere&lt;/li&gt;
+                &lt;li&gt;Sergei Rachmaninoff&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+</Content>
+</Section>
+</Archive>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Wolfgang_Amadeus_Mozart.html</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">HTMLPlugin</Metadata>
+    <Metadata name="FileSize">4156</Metadata>
+    <Metadata name="Source">Wolfgang_Amadeus_Mozart.html</Metadata>
+    <Metadata name="SourceFile">Wolfgang_Amadeus_Mozart.html</Metadata>
+    <Metadata name="Language">de</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="Title">Wolfgang Amadeus Mozart</Metadata>
+    <Metadata name="FileFormat">HTML</Metadata>
+    <Metadata name="URL">http://Wolfgang_Amadeus_Mozart.html</Metadata>
+    <Metadata name="UTF8URL">http://Wolfgang_Amadeus_Mozart.html</Metadata>
+    <Metadata name="dc.Description">1701-1800</Metadata>
+    <Metadata name="dc.Relation">Австрија</Metadata>
+    <Metadata name="dc.Subject">Класичен</Metadata>
+    <Metadata name="Identifier">HASH01dc155a79e468041b02def0</Metadata>
+    <Metadata name="lastmodified">1600618778</Metadata>
+    <Metadata name="lastmodifieddate">20200920</Metadata>
+    <Metadata name="oailastmodified">1600786958</Metadata>
+    <Metadata name="oailastmodifieddate">20200922</Metadata>
+    <Metadata name="assocfilepath">HASH01dc.dir</Metadata>
+  </Description>
+  <Content>
+&lt;table style=&quot;text-align: center;background-color:lightgray;width:100%;height:100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td style=&quot;width:33%&quot;&gt;
+            &lt;h2&gt;Wolfgang Amadeus Mozart&lt;/h2&gt;
+            &lt;h3&gt;1756-1791&lt;/h3&gt;
+        &lt;/td&gt;
+
+        &lt;td&gt;
+            &lt;img style=&quot;border:2px solid black&quot;
+                 src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdns-images.dzcdn.net/images/artist/41811848bbce380a4753bcb71fa84394/500x500.jpg&quot;/&gt;
+        &lt;/td&gt;
+
+        &lt;td style=&quot;width:33%&quot;&gt;
+            &lt;h3&gt;Потекло: Австриско&lt;/h3&gt;&lt;br/&gt;
+            &lt;h3&gt;Стил/период: Класичен (Виенски)&lt;/h3&gt;
+        &lt;/td&gt;
+
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td style=&quot;border-top:2px solid black&quot;&gt;
+            &lt;h3&gt;Композитори од кои има добиено инспирација&lt;/h3&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Carl Philipp Emanuel Bach&lt;/li&gt;
+                &lt;li&gt;Christoph Willibald Gluck&lt;/li&gt;
+                &lt;li&gt;Domenico Cimarosa&lt;/li&gt;
+                &lt;li&gt;George Frideric Handel&lt;/li&gt;
+                &lt;li&gt;Giovanni Battista Sammartini&lt;/li&gt;
+                &lt;li&gt;Giovanni Pergolesi&lt;/li&gt;
+                &lt;li&gt;Johann Adolf Hasse&lt;/li&gt;
+                &lt;li&gt;Johann Christian Bach&lt;/li&gt;
+                &lt;li&gt;Johann Joseph Fux&lt;/li&gt;
+                &lt;li&gt;Johann Michael Haydn&lt;/li&gt;
+                &lt;li&gt;Johann Sebastian Bach&lt;/li&gt;
+                &lt;li&gt;Johann Stamitz&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/td&gt;
+        &lt;td style=&quot;border-top: 2px solid black&quot;&gt;&lt;/td&gt;
+        &lt;td style=&quot;border-top:2px solid black&quot;&gt;
+            &lt;h3&gt;Композитори кои ги има инспирирано&lt;/h3&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Anton Bruckner&lt;/li&gt;
+                &lt;li&gt;Antonin Dvorak&lt;/li&gt;
+                &lt;li&gt;Anton Reicha&lt;/li&gt;
+                &lt;li&gt;Arnold Schoenberg&lt;/li&gt;
+                &lt;li&gt;Camille Saint-Saens&lt;/li&gt;
+                &lt;li&gt;Carl Ditters von Dittersdorf&lt;/li&gt;
+                &lt;li&gt;Carl Maria von Weber&lt;/li&gt;
+                &lt;li&gt;Carl Nielsen&lt;/li&gt;
+                &lt;li&gt;Carl Otto Ehrenfried Nicolai&lt;/li&gt;
+                &lt;li&gt;Domenico Cimarosa&lt;/li&gt;
+                &lt;li&gt;Dominick Argento&lt;/li&gt;
+                &lt;li&gt;Ermanno Wolf-Ferrari&lt;/li&gt;
+                &lt;li&gt;Felix Mendelssohn&lt;/li&gt;
+                &lt;li&gt;Ferdinando Carulli&lt;/li&gt;
+                &lt;li&gt;Fernando Sor&lt;/li&gt;
+                &lt;li&gt;Ferruccio Busoni&lt;/li&gt;
+                &lt;li&gt;Francis Poulenc&lt;/li&gt;
+                &lt;li&gt;Francois-Adrien Boieldieu&lt;/li&gt;
+                &lt;li&gt;Franz Joseph Haydn&lt;/li&gt;
+                &lt;li&gt;Franz Schubert&lt;/li&gt;
+                &lt;li&gt;Frederic Chopin&lt;/li&gt;
+                &lt;li&gt;Gaspare Spontini&lt;/li&gt;
+                &lt;li&gt;Georges Bizet&lt;/li&gt;
+                &lt;li&gt;Giacomo Meyerbeer&lt;/li&gt;
+                &lt;li&gt;Giacomo Puccini&lt;/li&gt;
+                &lt;li&gt;Gioachino Rossini&lt;/li&gt;
+                &lt;li&gt;Giovanni Battista Viotti&lt;/li&gt;
+                &lt;li&gt;Hans Werner Henze&lt;/li&gt;
+                &lt;li&gt;Igor Stravinsky&lt;/li&gt;
+                &lt;li&gt;Jacques Offenbach&lt;/li&gt;
+                &lt;li&gt;Johannes Brahms&lt;/li&gt;
+                &lt;li&gt;Johann Nepomuk Hummel&lt;/li&gt;
+                &lt;li&gt;John Corigliano&lt;/li&gt;
+                &lt;li&gt;Kurt Weill&lt;/li&gt;
+                &lt;li&gt;Lennox Berkeley&lt;/li&gt;
+                &lt;li&gt;Louis Spohr&lt;/li&gt;
+                &lt;li&gt;Ludwig van Beethoven&lt;/li&gt;
+                &lt;li&gt;Luigi Cherubini&lt;/li&gt;
+                &lt;li&gt;Maurice Ravel&lt;/li&gt;
+                &lt;li&gt;Max Reger&lt;/li&gt;
+                &lt;li&gt;Muzio Clementi&lt;/li&gt;
+                &lt;li&gt;Nikolay Rimsky-Korsakov&lt;/li&gt;
+                &lt;li&gt;Pietro Mascagni&lt;/li&gt;
+                &lt;li&gt;Pyotr Ilyich Tchaikovsky&lt;/li&gt;
+                &lt;li&gt;Richard Strauss&lt;/li&gt;
+                &lt;li&gt;Richard Wagner&lt;/li&gt;
+                &lt;li&gt;Ruggero Leoncavallo&lt;/li&gt;
+                &lt;li&gt;Simon Mayr&lt;/li&gt;
+                &lt;li&gt;Vincenzo Bellini&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+</Content>
+</Section>
+</Archive>

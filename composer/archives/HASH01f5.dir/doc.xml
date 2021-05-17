@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\George_Gershwin.html</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">HTMLPlugin</Metadata>
+    <Metadata name="FileSize">1825</Metadata>
+    <Metadata name="Source">George_Gershwin.html</Metadata>
+    <Metadata name="SourceFile">George_Gershwin.html</Metadata>
+    <Metadata name="Language">ru</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="Title">George Gershwin</Metadata>
+    <Metadata name="FileFormat">HTML</Metadata>
+    <Metadata name="URL">http://George_Gershwin.html</Metadata>
+    <Metadata name="UTF8URL">http://George_Gershwin.html</Metadata>
+    <Metadata name="dc.Description">1901-2000</Metadata>
+    <Metadata name="dc.Relation">Америка</Metadata>
+    <Metadata name="dc.Subject">Народен</Metadata>
+    <Metadata name="Identifier">HASH01f57824eafcb82d44487edb</Metadata>
+    <Metadata name="lastmodified">1600618778</Metadata>
+    <Metadata name="lastmodifieddate">20200920</Metadata>
+    <Metadata name="oailastmodified">1600786945</Metadata>
+    <Metadata name="oailastmodifieddate">20200922</Metadata>
+    <Metadata name="assocfilepath">HASH01f5.dir</Metadata>
+  </Description>
+  <Content>
+&lt;table style=&quot;text-align: center;background-color:lightgray;width:100%;height:100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td style=&quot;width:33%&quot;&gt;
+            &lt;h2&gt;George Gershwin&lt;/h2&gt;
+            &lt;h3&gt;1898-1937&lt;/h3&gt;
+        &lt;/td&gt;
+
+        &lt;td&gt;
+            &lt;img style=&quot;border:2px solid black&quot;
+                 src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://upload.wikimedia.org/wikipedia/en/1/18/Moeran2.jpg&quot;/&gt;
+        &lt;/td&gt;
+
+        &lt;td style=&quot;width:33%&quot;&gt;
+            &lt;h3&gt;Потекло: Американско&lt;/h3&gt;&lt;br/&gt;
+            &lt;h3&gt;Стил/период: Американски Народен&lt;/h3&gt;
+        &lt;/td&gt;
+
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td style=&quot;border-top:2px solid black&quot;&gt;
+            &lt;h3&gt;Композитори од кои има добиено инспирација&lt;/h3&gt;
+            &lt;ul&gt;
+            &lt;/ul&gt;
+        &lt;/td&gt;
+        &lt;td style=&quot;border-top: 2px solid black&quot;&gt;&lt;/td&gt;
+        &lt;td style=&quot;border-top:2px solid black&quot;&gt;
+            &lt;h3&gt;Композитори кои ги има инспирирано&lt;/h3&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Aaron Copland&lt;/li&gt;
+                &lt;li&gt;Aram Khachaturian&lt;/li&gt;
+                &lt;li&gt;Charles Martin Loeffler&lt;/li&gt;
+                &lt;li&gt;Ernst Krenek&lt;/li&gt;
+                &lt;li&gt;Ferde Grofe&lt;/li&gt;
+                &lt;li&gt;Kurt Weill&lt;/li&gt;
+                &lt;li&gt;Leonard Bernstein&lt;/li&gt;
+                &lt;li&gt;Maurice Ravel&lt;/li&gt;
+                &lt;li&gt;Morton Gould&lt;/li&gt;
+                &lt;li&gt;William Walton&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+</Content>
+</Section>
+</Archive>

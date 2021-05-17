@@ -1,0 +1,350 @@
+s
+Command: D:\Program Files\Greenstone3\gs2build\bin\windows\perl\bin\Perl.exe -S D:\Program Files\Greenstone3\gs2build\bin\script\full-import.pl -gli -language en -site localsite -collectdir D:\Program Files\Greenstone3\web\sites\localsite\collect composer 
+import.pl> Removing current contents of the archives directory...
+import.pl> Failed to find database table 'greenstone' ...
+import.pl> Failed to find database table 'greenstone' ...
+import.pl> URL Encoding D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\thumb\3\3b\Agustín_Barrios_1922.jpg\260px-Agustín_Barrios_1922.jpg
+import.pl>  ->D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\thumb\3\3b\Agust%C3%ADn_Barrios_1922.jpg\260px-Agust%C3%ADn_Barrios_1922.jpg
+import.pl> URL Encoding D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\thumb\6\61\Fotografía_del_compositor_argentino_Alberto_Ginastera.jpg\250px-Fotografía_del_compositor_argentino_Alberto_Ginastera.jpg
+import.pl>  ->D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\https:\upload.wikimedia.org\wikipedia\commons\thumb\6\61\Fotograf%C3%ADa_del_compositor_argentino_Alberto_Ginastera.jpg\250px-Fotograf%C3%ADa_del_compositor_argentino_Alberto_Ginastera.jpg
+import.pl> Creating new database table 'greenstone' ...
+import.pl> 
+import.pl> MetadataXMLPlugin: processing metadata.xml
+import.pl> MetadataXMLPlugin: writing an entry for this metadata.xml into archiveinf-src.db
+import.pl> **** Adding metaxml file entry for full_file: D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\metadata.xml
+import.pl> HTMLPlugin processing Aaron_Copland.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\img.discogs.com\w5kFFjACb82HtcxLS-yC6G1nV3o=\fit-in\300x300\filters:strip_icc():format(jpeg):mode_rgb():quality(40)\discogs-images\A-767788-1468181293-2299.jpeg.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\img.discogs.com\w5kFFjACb82HtcxLS-yC6G1nV3o=\fit-in\300x300\filters:strip_icc():format(jpeg):mode_rgb():quality(40)\discogs-images\A-767788-1468181293-2299.jpeg.jpg
+import.pl> No database table 'greenstone' to append to.  Creating new one
+import.pl> HTMLPlugin processing Adolphe_Adam.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\1\1c\Adolphe_Adam_1850_-_Charles_Vogt_-_Gallica.jpg\463px-Adolphe_Adam_1850_-_Charles_Vogt_-_Gallica.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\1\1c\Adolphe_Adam_1850_-_Charles_Vogt_-_Gallica.jpg\463px-Adolphe_Adam_1850_-_Charles_Vogt_-_Gallica.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Adrian_Willaert.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\5\57\Adrian_Willaert.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\5\57\Adrian_Willaert.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Agustin_Barrios.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\3\3b\Agust%C3%ADn_Barrios_1922.jpg\260px-Agust%C3%ADn_Barrios_1922.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\3\3b\Agust%C3%ADn_Barrios_1922.jpg\260px-Agust%C3%ADn_Barrios_1922.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Alan_Hovhaness.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\en\0\07\Alan_Hovhaness.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\en\0\07\Alan_Hovhaness.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Alban_Berg.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\shop.new-art.nl\assets\image.php?width=360&image=\content\img\new_artists\1490711160.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\shop.new-art.nl\assets\image.php?width=360&image=\content\img\new_artists\1490711160.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Albert Roussel.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\a\ab\Roussel_Albert_1913.jpg\410px-Roussel_Albert_1913.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\a\ab\Roussel_Albert_1913.jpg\410px-Roussel_Albert_1913.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Alberto_Ginastera.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\6\61\Fotograf%C3%ADa_del_compositor_argentino_Alberto_Ginastera.jpg\250px-Fotograf%C3%ADa_del_compositor_argentino_Alberto_Ginastera.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\6\61\Fotograf%C3%ADa_del_compositor_argentino_Alberto_Ginastera.jpg\250px-Fotograf%C3%ADa_del_compositor_argentino_Alberto_Ginastera.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Alessandro_Scarlatti.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\b\b3\Alessandro_Scarlatti.jpg\457px-Alessandro_Scarlatti.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\b\b3\Alessandro_Scarlatti.jpg\457px-Alessandro_Scarlatti.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Alessandro_Stradella.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\2\2f\AlessandroStradella.jpg\568px-AlessandroStradella.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\2\2f\AlessandroStradella.jpg\568px-AlessandroStradella.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Alexander_Borodin.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\7\70\Borodin.jpg\435px-Borodin.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\7\70\Borodin.jpg\435px-Borodin.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Alexander_Dargomyzhsky.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\4\4d\Makovskiy_Dargomyzhsky.jpg\478px-Makovskiy_Dargomyzhsky.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\4\4d\Makovskiy_Dargomyzhsky.jpg\478px-Makovskiy_Dargomyzhsky.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Alexander_Glazunov.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\3\3d\Glazunov_by_Repin.jpg\417px-Glazunov_by_Repin.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\3\3d\Glazunov_by_Repin.jpg\417px-Glazunov_by_Repin.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Alexander_Scriabin.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\5\53\Skrjabin_Alexander.jpg\220px-Skrjabin_Alexander.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\5\53\Skrjabin_Alexander.jpg\220px-Skrjabin_Alexander.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Alexander_Zemlinsky.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\6\6a\Zemlinsky.jpg\492px-Zemlinsky.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\6\6a\Zemlinsky.jpg\492px-Zemlinsky.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Alfredo_Casella.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\8\81\Alfredo_Casella.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\8\81\Alfredo_Casella.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Amilcare_Ponchielli.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\e\e1\Amilcareponchielli.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\e\e1\Amilcareponchielli.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing Anton_Arensky.html
+import.pl> checking for existence whether relative link or not D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\2\2a\Arensky_Anton_Postcard-1910.jpg\411px-Arensky_Anton_Postcard-1910.jpg
+import.pl> DOESN'T exist D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\import\upload.wikimedia.org\wikipedia\commons\thumb\2\2a\Arensky_Anton_Postcard-1910.jpg\411px-Arensky_Anton_Postcard-1910.jpg
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> Creating new database table 'greenstone' ...
+import.pl> 
+import.pl> *********************************************
+import.pl> Import complete
+import.pl> *********************************************
+import.pl> * 18 documents were considered for processing
+import.pl> * 18 were processed and included in the collection
+import.pl> Command complete.
+import.pl> Extracting new metadata from archive files.
+import.pl> Archived metadata extraction complete.
+Command: D:\Program Files\Greenstone3\gs2build\bin\windows\perl\bin\Perl.exe -S D:\Program Files\Greenstone3\gs2build\bin\script\full-buildcol.pl -gli -language en -activate -site localsite -collectdir D:\Program Files\Greenstone3\web\sites\localsite\collect composer 
+buildcol.pl> Creating new database table 'greenstone' ...
+buildcol.pl> Full Path:     D:\Program Files\Greenstone3\gs2build\bin\script\lucene_passes.pl
+buildcol.pl> Executable:    perl.exe "D:\Program Files\Greenstone3\gs2build\bin\script\lucene_passes.pl"
+buildcol.pl> Sections:      Doc
+buildcol.pl> Build Dir:     D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\building
+buildcol.pl> Cmd:           perl.exe "D:\Program Files\Greenstone3\gs2build\bin\script\lucene_passes.pl" text Doc "D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\building" "dummy"   
+buildcol.pl> ArchivesInfPlugin: processing D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\archives\archiveinf-doc.jdb
+buildcol.pl> Monitoring for input!
+buildcol.pl> GreenstoneXMLPlugin: processing HASH4365.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01dd.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0109.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHbcc5.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0109\da40865a.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0122.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01a7.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0162.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHd7c1.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01d9.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH7643.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHacc0.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH9234.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0135.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0121.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHb339.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH37bb.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH3901.dir\doc.xml
+buildcol.pl> Stats (Compressing text from text)
+buildcol.pl> Total bytes in collection: 26794
+buildcol.pl> Total bytes in text: 34472
+buildcol.pl> 
+buildcol.pl> *** building index dc.Title,ex.dc.Title,Title; at level Sec in subdirectory sidx
+buildcol.pl> 
+buildcol.pl>     creating index dictionary (lucene_passes -I1)
+buildcol.pl> Cmd: perl.exe "D:\Program Files\Greenstone3\gs2build\bin\script\lucene_passes.pl" -removeold index Sec "D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\building" "sidx"   
+buildcol.pl> ArchivesInfPlugin: processing D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\archives\archiveinf-doc.jdb
+buildcol.pl> 
+buildcol.pl> -removeold set
+buildcol.pl> Monitoring for input!
+buildcol.pl> GreenstoneXMLPlugin: processing HASH4365.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01dd.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0109.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHbcc5.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0109\da40865a.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0122.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01a7.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0162.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHd7c1.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01d9.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH7643.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHacc0.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH9234.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0135.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0121.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHb339.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH37bb.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH3901.dir\doc.xml
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Sec: HASH4365f5486ddf6c367d7459 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Sec: HASH01ddf64e444c0d71c721f9ac (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Sec: HASH010930033bc4f62f28fb1909 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Sec: HASHbcc5e4420b991cdf4c3f05 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Sec: HASH0109da40865ad2394bf18463 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Sec: HASH0122ce890f2bb4e4dc1c0750 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Sec: HASH01a7d701866aaf95f4e451f2 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Sec: HASH0162c06310ab0814cb088085 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Sec: HASHd7c1e0c4f83f02f01eea78 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Sec: HASH01d9979ab1b62bc3834aa809 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Sec: HASH76438693167100786406c4 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Sec: HASHacc0258034ad77fbc70b9d (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Sec: HASH9234b15cdfd42d9bb2ed14 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Sec: HASH01357490a79ae7cf6fcc55da (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Sec: HASH0121607755a50fc020ff8239 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Sec: HASHb339731e2d10d8fd30b376 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Sec: HASH37bb685fe40631683df5b4 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Sec: HASH3901a34012df2a6e020f55 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Stats (Creating index dc.Title,ex.dc.Title,Title;)
+buildcol.pl> Total bytes in collection: 26794
+buildcol.pl> Total bytes in dc.Title,ex.dc.Title,Title;: 651
+buildcol.pl> 
+buildcol.pl> *** building index dc.Title,ex.dc.Title,Title; at level Doc in subdirectory didx
+buildcol.pl> 
+buildcol.pl>     creating index dictionary (lucene_passes -I1)
+buildcol.pl> Cmd: perl.exe "D:\Program Files\Greenstone3\gs2build\bin\script\lucene_passes.pl" -removeold index Doc "D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\building" "didx"   
+buildcol.pl> ArchivesInfPlugin: processing D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\archives\archiveinf-doc.jdb
+buildcol.pl> 
+buildcol.pl> -removeold set
+buildcol.pl> Monitoring for input!
+buildcol.pl> GreenstoneXMLPlugin: processing HASH4365.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01dd.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0109.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHbcc5.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0109\da40865a.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0122.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01a7.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0162.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHd7c1.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01d9.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH7643.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHacc0.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH9234.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0135.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0121.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHb339.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH37bb.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH3901.dir\doc.xml
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Doc: HASH4365f5486ddf6c367d7459 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Doc: HASH01ddf64e444c0d71c721f9ac (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Doc: HASH010930033bc4f62f28fb1909 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Doc: HASHbcc5e4420b991cdf4c3f05 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Doc: HASH0109da40865ad2394bf18463 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Doc: HASH0122ce890f2bb4e4dc1c0750 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Doc: HASH01a7d701866aaf95f4e451f2 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Doc: HASH0162c06310ab0814cb088085 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Doc: HASHd7c1e0c4f83f02f01eea78 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Doc: HASH01d9979ab1b62bc3834aa809 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Doc: HASH76438693167100786406c4 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Doc: HASHacc0258034ad77fbc70b9d (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Doc: HASH9234b15cdfd42d9bb2ed14 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Doc: HASH01357490a79ae7cf6fcc55da (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Doc: HASH0121607755a50fc020ff8239 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Doc: HASHb339731e2d10d8fd30b376 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Doc: HASH37bb685fe40631683df5b4 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin>
+buildcol.pl> [ Doc: HASH3901a34012df2a6e020f55 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Stats (Creating index dc.Title,ex.dc.Title,Title;)
+buildcol.pl> Total bytes in collection: 26794
+buildcol.pl> Total bytes in dc.Title,ex.dc.Title,Title;: 651
+buildcol.pl> BuildDir: D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\building
+buildcol.pl> 
+buildcol.pl> *** creating the info database and processing associated files
+buildcol.pl> ArchivesInfPlugin: processing D:\Program Files\Greenstone3\web\sites\localsite\collect\composer\archives\archiveinf-doc.jdb
+buildcol.pl> Creating new database table 'greenstone' ...
+buildcol.pl> GreenstoneXMLPlugin: processing HASH4365.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01dd.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0109.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHbcc5.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0109\da40865a.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0122.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01a7.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0162.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHd7c1.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01d9.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH7643.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHacc0.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH9234.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0135.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0121.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHb339.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH37bb.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH3901.dir\doc.xml
+buildcol.pl> *** outputting information for classifier: CL1
+buildcol.pl> *** outputting information for classifier: CL2
+buildcol.pl> 
+buildcol.pl> *** creating auxiliary files 
+buildcol.pl> Appending to existing database table 'greenstone' ...
+buildcol.pl> Creating new database table 'greenstone' ...
+buildcol.pl> Copying rss-items.rdf file from 'archives' to 'building'
+buildcol.pl> 
+buildcol.pl> ************************
+buildcol.pl> * Running  Collection  Activation  Stage
+buildcol.pl> ************************
+buildcol.pl> Pinging http://127.0.0.1:8383/greenstone3/library
+buildcol.pl> Checking if Greenstone server is persistent
+buildcol.pl> Checking if the collection composer is already active
+buildcol.pl> De-activating collection composer
+buildcol.pl> 	- Main library servlet
+buildcol.pl> 	- OAI servlet
+buildcol.pl> 
+buildcol.pl> ************************
+buildcol.pl> * Removing "index"
+buildcol.pl> ************************
+buildcol.pl> 
+buildcol.pl> ************************
+buildcol.pl> * Moving "building" -> "index"
+buildcol.pl> ************************
+buildcol.pl> Pinging http://127.0.0.1:8383/greenstone3/library
+buildcol.pl> Checking if the collection composer is not already active
+buildcol.pl>  Collection is not active.
+buildcol.pl> Activating collection composer
+buildcol.pl> 	- Main library servlet
+buildcol.pl> 	- OAI servlet
+buildcol.pl> 
+buildcol.pl> Command complete.

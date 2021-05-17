@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Anton_Arensky.html</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">HTMLPlugin</Metadata>
+    <Metadata name="FileSize">1791</Metadata>
+    <Metadata name="Source">Anton_Arensky.html</Metadata>
+    <Metadata name="SourceFile">Anton_Arensky.html</Metadata>
+    <Metadata name="Language">ru</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="Title">Anton Arensky</Metadata>
+    <Metadata name="FileFormat">HTML</Metadata>
+    <Metadata name="URL">http://Anton_Arensky.html</Metadata>
+    <Metadata name="UTF8URL">http://Anton_Arensky.html</Metadata>
+    <Metadata name="dc.Description">1850-1950</Metadata>
+    <Metadata name="dc.Relation">Русија</Metadata>
+    <Metadata name="dc.Subject">Романтизам</Metadata>
+    <Metadata name="Identifier">HASH0121607755a50fc020ff8239</Metadata>
+    <Metadata name="lastmodified">1600618779</Metadata>
+    <Metadata name="lastmodifieddate">20200920</Metadata>
+    <Metadata name="oailastmodified">1600786939</Metadata>
+    <Metadata name="oailastmodifieddate">20200922</Metadata>
+    <Metadata name="assocfilepath">HASH0121.dir</Metadata>
+  </Description>
+  <Content>
+&lt;table style=&quot;text-align: center;background-color:lightgray;width:100%;height:100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td style=&quot;width:33%&quot;&gt;
+            &lt;h2&gt;Anton Arensky&lt;/h2&gt;
+            &lt;h3&gt;1861-1906&lt;/h3&gt;
+        &lt;/td&gt;
+
+        &lt;td&gt;
+            &lt;img style=&quot;border:2px solid black&quot;
+                 src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Arensky_Anton_Postcard-1910.jpg/411px-Arensky_Anton_Postcard-1910.jpg&quot;/&gt;
+        &lt;/td&gt;
+
+        &lt;td style=&quot;width:33%&quot;&gt;
+            &lt;h3&gt;Потекло: Руско&lt;/h3&gt;&lt;br/&gt;
+            &lt;h3&gt;Стил/период: Доцен Руски Романтизам&lt;/h3&gt;
+        &lt;/td&gt;
+
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td style=&quot;border-top:2px solid black&quot;&gt;
+            &lt;h3&gt;Композитори од кои има добиено инспирација&lt;/h3&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Felix Mendelssohn&lt;/li&gt;
+                &lt;li&gt;Frederic Chopin&lt;/li&gt;
+                &lt;li&gt;Nikolay Rimsky-Korsakov&lt;/li&gt;
+                &lt;li&gt;Pyotr Ilyich Tchaikovsky&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/td&gt;
+        &lt;td style=&quot;border-top: 2px solid black&quot;&gt;&lt;/td&gt;
+        &lt;td style=&quot;border-top:2px solid black&quot;&gt;
+            &lt;h3&gt;Композитори кои ги има инспирирано&lt;/h3&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Alexander Scriabin&lt;/li&gt;
+                &lt;li&gt;Reinhold Gliere&lt;/li&gt;
+                &lt;li&gt;Sergei Rachamninoff&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+</Content>
+</Section>
+</Archive>

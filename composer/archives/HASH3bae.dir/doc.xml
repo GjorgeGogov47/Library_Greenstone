@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Franz_Joseph_Haydn.html</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">HTMLPlugin</Metadata>
+    <Metadata name="FileSize">2682</Metadata>
+    <Metadata name="Source">Franz_Joseph_Haydn.html</Metadata>
+    <Metadata name="SourceFile">Franz_Joseph_Haydn.html</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="Title">Franz Joseph Haydn</Metadata>
+    <Metadata name="FileFormat">HTML</Metadata>
+    <Metadata name="URL">http://Franz_Joseph_Haydn.html</Metadata>
+    <Metadata name="UTF8URL">http://Franz_Joseph_Haydn.html</Metadata>
+    <Metadata name="dc.Description">1701-1800</Metadata>
+    <Metadata name="dc.Relation">Австрија</Metadata>
+    <Metadata name="dc.Subject">Класичен</Metadata>
+    <Metadata name="Identifier">HASH3bae7b84fc0c1e2f5b94b7</Metadata>
+    <Metadata name="lastmodified">1600618778</Metadata>
+    <Metadata name="lastmodifieddate">20200920</Metadata>
+    <Metadata name="oailastmodified">1600786944</Metadata>
+    <Metadata name="oailastmodifieddate">20200922</Metadata>
+    <Metadata name="assocfilepath">HASH3bae.dir</Metadata>
+  </Description>
+  <Content>
+&lt;table style=&quot;text-align: center;background-color:lightgray;width:100%;height:100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td style=&quot;width:33%&quot;&gt;
+            &lt;h2&gt;Franz Joseph Haydn&lt;/h2&gt;
+            &lt;h3&gt;1732-1809&lt;/h3&gt;
+        &lt;/td&gt;
+
+        &lt;td&gt;
+            &lt;img style=&quot;border:2px solid black&quot;
+                 src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Joseph_Haydn.jpg/474px-Joseph_Haydn.jpg&quot;/&gt;
+        &lt;/td&gt;
+
+        &lt;td style=&quot;width:33%&quot;&gt;
+            &lt;h3&gt;Потекло: Австриско&lt;/h3&gt;&lt;br/&gt;
+            &lt;h3&gt;Стил/период: Класичен (Виенски)&lt;/h3&gt;
+        &lt;/td&gt;
+
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td style=&quot;border-top:2px solid black&quot;&gt;
+            &lt;h3&gt;Композитори од кои има добиено инспирација&lt;/h3&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Carl Philipp Emanuel Bach&lt;/li&gt;
+                &lt;li&gt;Christoph Willibald Gluck&lt;/li&gt;
+                &lt;li&gt;George Frideric Handel&lt;/li&gt;
+                &lt;li&gt;Giovanni Battista Sammartini&lt;/li&gt;
+                &lt;li&gt;Johann Adolf Hasse&lt;/li&gt;
+                &lt;li&gt;Johann Joseph Fux&lt;/li&gt;
+                &lt;li&gt;Wolfgang Amadeus Mozart&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/td&gt;
+        &lt;td style=&quot;border-top: 2px solid black&quot;&gt;&lt;/td&gt;
+        &lt;td style=&quot;border-top:2px solid black&quot;&gt;
+            &lt;h3&gt;Композитори кои ги има инспирирано&lt;/h3&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Anton Bruckner&lt;/li&gt;
+                &lt;li&gt;Antonin Dvorak&lt;/li&gt;
+                &lt;li&gt;Anton Reicha&lt;/li&gt;
+                &lt;li&gt;Bohuslav Martinu&lt;/li&gt;
+                &lt;li&gt;Carl Ditters von Dittersdorf&lt;/li&gt;
+                &lt;li&gt;Domenico Cimarosa&lt;/li&gt;
+                &lt;li&gt;Edward Elgar&lt;/li&gt;
+                &lt;li&gt;Etienne Nicolas Mehul&lt;/li&gt;
+                &lt;li&gt;Felix Mendelssohn&lt;/li&gt;
+                &lt;li&gt;Fernando Sor&lt;/li&gt;
+                &lt;li&gt;Franz Schubert&lt;/li&gt;
+                &lt;li&gt;Gioachino Rossini&lt;/li&gt;
+                &lt;li&gt;Giovanni Battista Vioti&lt;/li&gt;
+                &lt;li&gt;Johann Nepomuk Hummel&lt;/li&gt;
+                &lt;li&gt;Ludwig van Beethoven&lt;/li&gt;
+                &lt;li&gt;Luigi Boccherini&lt;/li&gt;
+                &lt;li&gt;Luigi Cherubini&lt;/li&gt;
+                &lt;li&gt;Muzio Clementi&lt;/li&gt;
+                &lt;li&gt;Vincent Persichetti&lt;/li&gt;
+                &lt;li&gt;Wolfgang Amadeus Mozart&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+</Content>
+</Section>
+</Archive>

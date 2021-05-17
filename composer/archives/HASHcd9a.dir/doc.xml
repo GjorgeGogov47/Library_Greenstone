@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Claude_Debussy.html</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">HTMLPlugin</Metadata>
+    <Metadata name="FileSize">4860</Metadata>
+    <Metadata name="Source">Claude_Debussy.html</Metadata>
+    <Metadata name="SourceFile">Claude_Debussy.html</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="Title">Claude Debussy</Metadata>
+    <Metadata name="FileFormat">HTML</Metadata>
+    <Metadata name="URL">http://Claude_Debussy.html</Metadata>
+    <Metadata name="UTF8URL">http://Claude_Debussy.html</Metadata>
+    <Metadata name="dc.Description">1850-1950</Metadata>
+    <Metadata name="dc.Relation">Франција</Metadata>
+    <Metadata name="dc.Subject">Импресионизам</Metadata>
+    <Metadata name="Identifier">HASHcd9a87af666b39763e5a4c</Metadata>
+    <Metadata name="lastmodified">1600618778</Metadata>
+    <Metadata name="lastmodifieddate">20200920</Metadata>
+    <Metadata name="oailastmodified">1600786941</Metadata>
+    <Metadata name="oailastmodifieddate">20200922</Metadata>
+    <Metadata name="assocfilepath">HASHcd9a.dir</Metadata>
+  </Description>
+  <Content>
+&lt;table style=&quot;text-align: center;background-color:lightgray;width:100%;height:100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td style=&quot;width:33%&quot;&gt;
+            &lt;h2&gt;Claude Debussy&lt;/h2&gt;
+            &lt;h3&gt;1862-1918&lt;/h3&gt;
+        &lt;/td&gt;
+
+        &lt;td&gt;
+            &lt;img style=&quot;border:2px solid black&quot;
+                 src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://ichef.bbci.co.uk/images/ic/640x360/p03jn6sm.jpg&quot;/&gt;
+        &lt;/td&gt;
+
+        &lt;td style=&quot;width:33%&quot;&gt;
+            &lt;h3&gt;Потекло: Француско&lt;/h3&gt;&lt;br/&gt;
+            &lt;h3&gt;Стил/период: Импресионизам&lt;/h3&gt;
+        &lt;/td&gt;
+
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td style=&quot;border-top:2px solid black&quot;&gt;
+            &lt;h3&gt;Композитори од кои има добиено инспирација&lt;/h3&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Alexander Borodin&lt;/li&gt;
+                &lt;li&gt;Charles Gounod&lt;/li&gt;
+                &lt;li&gt;Edouard Lalo&lt;/li&gt;
+                &lt;li&gt;Emmanuel Chabrier&lt;/li&gt;
+                &lt;li&gt;Erik Satie&lt;/li&gt;
+                &lt;li&gt;Ernest Chausson&lt;/li&gt;
+                &lt;li&gt;Francois Couperin&lt;/li&gt;
+                &lt;li&gt;Franz Liszt&lt;/li&gt;
+                &lt;li&gt;Frederic Chopin&lt;/li&gt;
+                &lt;li&gt;Gabriel Faure&lt;/li&gt;
+                &lt;li&gt;Isaac Albeniz&lt;/li&gt;
+                &lt;li&gt;Jean-Philippe Rameau&lt;/li&gt;
+                &lt;li&gt;Jules Massenet&lt;/li&gt;
+                &lt;li&gt;Maurice Ravel&lt;/li&gt;
+                &lt;li&gt;Modest Mussorgsky&lt;/li&gt;
+                &lt;li&gt;Paul Dukas&lt;/li&gt;
+                &lt;li&gt;Richard Wagner&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/td&gt;
+        &lt;td style=&quot;border-top: 2px solid black&quot;&gt;&lt;/td&gt;
+        &lt;td style=&quot;border-top:2px solid black&quot;&gt;
+            &lt;h3&gt;Композитори кои ги има инспирирано&lt;/h3&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Aaron Copland&lt;/li&gt;
+                &lt;li&gt;Alban Berg&lt;/li&gt;
+                &lt;li&gt;Albert Roussel&lt;/li&gt;
+                &lt;li&gt;Alexander Scriabin&lt;/li&gt;
+                &lt;li&gt;Alfredo Casella&lt;/li&gt;
+                &lt;li&gt;Amy Marcy Cheney Beach&lt;/li&gt;
+                &lt;li&gt;Andre Jolivet&lt;/li&gt;
+                &lt;li&gt;Arnold Bax&lt;/li&gt;
+                &lt;li&gt;Arthur Honegger&lt;/li&gt;
+                &lt;li&gt;Barbara Kolb&lt;/li&gt;
+                &lt;li&gt;Bela Bartok&lt;/li&gt;
+                &lt;li&gt;Bohuslav Martinu&lt;/li&gt;
+                &lt;li&gt;Carol Orff&lt;/li&gt;
+                &lt;li&gt;Carl Ruggles&lt;/li&gt;
+                &lt;li&gt;Charles Koechlin&lt;/li&gt;
+                &lt;li&gt;Charles Martin Loeffler&lt;/li&gt;
+                &lt;li&gt;Charles Tomlinson Griffes&lt;/li&gt;
+                &lt;li&gt;Darius Milhaud&lt;/li&gt;
+                &lt;li&gt;Edgard Varese&lt;/li&gt;
+                &lt;li&gt;Erik Satie&lt;/li&gt;
+                &lt;li&gt;Ernest Bloch&lt;/li&gt;
+                &lt;li&gt;Ernest Chausson&lt;/li&gt;
+                &lt;li&gt;Federico Mompou&lt;/li&gt;
+                &lt;li&gt;Francis Poulenc&lt;/li&gt;
+                &lt;li&gt;Frank Martin&lt;/li&gt;
+                &lt;li&gt;Franz Schreker&lt;/li&gt;
+                &lt;li&gt;Frederick Delius&lt;/li&gt;
+                &lt;li&gt;Gabriel Pierne&lt;/li&gt;
+                &lt;li&gt;George Crumb&lt;/li&gt;
+                &lt;li&gt;George Enescu&lt;/li&gt;
+                &lt;li&gt;Giacomo Puccini&lt;/li&gt;
+                &lt;li&gt;Gian Francesco Malipiero&lt;/li&gt;
+                &lt;li&gt;Gyorgy Sandor Ligeti&lt;/li&gt;
+                &lt;li&gt;Heitor Villa-Lobos&lt;/li&gt;
+                &lt;li&gt;Henri Dutilleux&lt;/li&gt;
+                &lt;li&gt;Ildebrando Pizzetti&lt;/li&gt;
+                &lt;li&gt;Isaac Albeniz&lt;/li&gt;
+                &lt;li&gt;Jacques Ibert&lt;/li&gt;
+                &lt;li&gt;Jehan Alain&lt;/li&gt;
+                &lt;li&gt;Joaquin Rodrigo&lt;/li&gt;
+                &lt;li&gt;Joaquin Turina&lt;/li&gt;
+                &lt;li&gt;John Alden Carpenter&lt;/li&gt;
+                &lt;li&gt;John Ireland&lt;/li&gt;
+                &lt;li&gt;Joonas Kokkonen&lt;/li&gt;
+                &lt;li&gt;Karol Szymanowski&lt;/li&gt;
+                &lt;li&gt;Lili Boulanger&lt;/li&gt;
+                &lt;li&gt;Luigi Dallapiccola&lt;/li&gt;
+                &lt;li&gt;Manuel de Falla&lt;/li&gt;
+                &lt;li&gt;Mario Castelnuovo-Tedesco&lt;/li&gt;
+                &lt;li&gt;Maurice Ravel&lt;/li&gt;
+                &lt;li&gt;Max Reger&lt;/li&gt;
+                &lt;li&gt;Ned Rorem&lt;/li&gt;
+                &lt;li&gt;Olivier Messiaen&lt;/li&gt;
+                &lt;li&gt;Ottorino Respighi&lt;/li&gt;
+                &lt;li&gt;Paul Dukas&lt;/li&gt;
+                &lt;li&gt;Paul Hindemith&lt;/li&gt;
+                &lt;li&gt;Pierre Boulez&lt;/li&gt;
+                &lt;li&gt;Pietro Mascagni&lt;/li&gt;
+                &lt;li&gt;Samuel Barber&lt;/li&gt;
+                &lt;li&gt;Saverio Mercadante&lt;/li&gt;
+                &lt;li&gt;Sergei Prokofiev&lt;/li&gt;
+                &lt;li&gt;Sigfrid Karg-Elert&lt;/li&gt;
+                &lt;li&gt;Toru Takemitsu&lt;/li&gt;
+                &lt;li&gt;Vitezslav Novak&lt;/li&gt;
+                &lt;li&gt;Witold Lutoslawski&lt;/li&gt;
+                &lt;li&gt;Zoltan Kodaly&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+</Content>
+</Section>
+</Archive>

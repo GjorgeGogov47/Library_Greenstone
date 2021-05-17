@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Ralph_Vaughan_Williams.html</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">HTMLPlugin</Metadata>
+    <Metadata name="FileSize">2023</Metadata>
+    <Metadata name="Source">Ralph_Vaughan_Williams.html</Metadata>
+    <Metadata name="SourceFile">Ralph_Vaughan_Williams.html</Metadata>
+    <Metadata name="Language">ru</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="Title">Ralph Vaughan Williams</Metadata>
+    <Metadata name="FileFormat">HTML</Metadata>
+    <Metadata name="URL">http://Ralph_Vaughan_Williams.html</Metadata>
+    <Metadata name="UTF8URL">http://Ralph_Vaughan_Williams.html</Metadata>
+    <Metadata name="dc.Description">1850-1950</Metadata>
+    <Metadata name="dc.Relation">Англија</Metadata>
+    <Metadata name="dc.Subject">Националистички</Metadata>
+    <Metadata name="Identifier">HASHf0264ecd518fdf299dae1e</Metadata>
+    <Metadata name="lastmodified">1600618778</Metadata>
+    <Metadata name="lastmodifieddate">20200920</Metadata>
+    <Metadata name="oailastmodified">1600786952</Metadata>
+    <Metadata name="oailastmodifieddate">20200922</Metadata>
+    <Metadata name="assocfilepath">HASHf026.dir</Metadata>
+  </Description>
+  <Content>
+&lt;table style=&quot;text-align: center;background-color:lightgray;width:100%;height:100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td style=&quot;width:33%&quot;&gt;
+            &lt;h2&gt;Ralph Vaughan Williams&lt;/h2&gt;
+            &lt;h3&gt;1872-1958&lt;/h3&gt;
+        &lt;/td&gt;
+
+        &lt;td&gt;
+            &lt;img style=&quot;border:2px solid black&quot;
+                 src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://www.ecspublishing.com/pub/media/wysiwyg/williamsWEB.jpg&quot;/&gt;
+        &lt;/td&gt;
+
+        &lt;td style=&quot;width:33%&quot;&gt;
+            &lt;h3&gt;Потекло: Англиско&lt;/h3&gt;&lt;br/&gt;
+            &lt;h3&gt;Стил/период: Англиски Националистички&lt;/h3&gt;
+        &lt;/td&gt;
+
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td style=&quot;border-top:2px solid black&quot;&gt;
+            &lt;h3&gt;Композитори од кои има добиено инспирација&lt;/h3&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Charles Hubert Parry&lt;/li&gt;
+                &lt;li&gt;Charles Villiers Stanford&lt;/li&gt;
+                &lt;li&gt;Edward Elgar&lt;/li&gt;
+                &lt;li&gt;Gustav Holst&lt;/li&gt;
+                &lt;li&gt;Jean Sibelius&lt;/li&gt;
+                &lt;li&gt;Maurice Ravel&lt;/li&gt;
+                &lt;li&gt;Thomas Tallis&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/td&gt;
+        &lt;td style=&quot;border-top: 2px solid black&quot;&gt;&lt;/td&gt;
+        &lt;td style=&quot;border-top:2px solid black&quot;&gt;
+            &lt;h3&gt;Композитори кои ги има инспирирано&lt;/h3&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Ernest John Moeran&lt;/li&gt;
+                &lt;li&gt;George Butterworth&lt;/li&gt;
+                &lt;li&gt;Gerald Finzi&lt;/li&gt;
+                &lt;li&gt;Gustav Holst&lt;/li&gt;
+                &lt;li&gt;Herbert Howells&lt;/li&gt;
+                &lt;li&gt;Howard Hanson&lt;/li&gt;
+                &lt;li&gt;William Alwyn&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+</Content>
+</Section>
+</Archive>

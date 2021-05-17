@@ -1,0 +1,49 @@
+<buildConfig xmlns:gsf="http://www.greenstone.org/greenstone3/schema/ConfigFormat">
+<metadataList>
+<metadata name="numDocs">59</metadata>
+<metadata name="buildType">mgpp</metadata>
+<metadata name="indexStem">composer</metadata>
+<metadata name="infodbType">jdbm</metadata>
+<metadata name="buildDate">1600786991</metadata>
+<metadata name="earliestDatestamp">1600786933</metadata>
+</metadataList>
+<serviceRackList>
+<serviceRack name="GS2MGPPSearch">
+<indexStem name="composer" />
+<databaseType name="jdbm" />
+<indexList>
+<index name="dc.Title,ex.dc.Title,Title" shortname="TI" />
+</indexList>
+<defaultIndex shortname="TI" />
+<indexOptionList>
+<indexOption name="stemIndexes" value="7" />
+<indexOption name="maxnumeric" value="4" />
+</indexOptionList>
+<levelList>
+<level name="document" shortname="Doc" />
+<level name="section" shortname="Sec" />
+</levelList>
+<defaultLevel shortname="Doc" />
+<defaultDBLevel shortname="Sec" />
+<searchTypeList>
+<searchType name="plain" />
+<searchType name="form" />
+</searchTypeList>
+</serviceRack>
+<serviceRack name="GS2MGPPRetrieve">
+<indexStem name="composer" />
+<defaultLevel shortname="Sec" />
+<databaseType name="jdbm" />
+</serviceRack>
+<serviceRack name="GS2Browse">
+<indexStem name="composer" />
+<databaseType name="jdbm" />
+<classifierList>
+<classifier name="CL1" content="Сите Композитори" />
+<classifier name="CL2" content="Земја/Потекло" />
+<classifier name="CL3" content="Временски Опсег" />
+<classifier name="CL4" content="Музички Стил/Период" />
+</classifierList>
+</serviceRack>
+</serviceRackList>
+</buildConfig>

@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata><!-- 
+	 Two examples of the syntax to use to attach metadata to files in a
+         given directory within the 'import' area.
+
+         Copy this file to the folder where the files or interest are, and
+	 then uncomment (or copy and paste) the <FileSet> block and
+	 edit to suit the file name(s) and metadata values required
+    --><!-- 
+	 Example 1:
+	   Attached dc.Title and dc.Subject (x 2) to a single, named file
+    --><!--
+    <FileSet>
+        <FileName>sample-file1\.txt</FileName>
+        <Description>
+            <Metadata name="dc.Title">Sample Title</Metadata>
+            <Metadata name="dc.Subject">Subject A</Metadata>
+            <Metadata mode="accumulate" name="dc.Subject">Subject B</Metadata>
+        </Description>
+    </FileSet>
+--><!-- 
+	 Example 2:
+	   Attached dc.Subject to all files in this folder that match the given
+	   regular expression 
+    --><!--
+    <FileSet>
+        <FileName>.*</FileName>
+        <Description>
+            <Metadata mode="accumulate" name="dc.Subject">Subject X</Metadata>
+        </Description>
+    </FileSet>
+-->
+	<FileSet>
+		<FileName>Aaron_Copland\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Америка</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1901-2000</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Неокласичен</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Adolphe_Adam\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Франција</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1801-1900</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Романтизам</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Adrian_Willaert\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Италија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1501-1600</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Ренесанса</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Alan_Hovhaness\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Америка</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1901-2000</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Неоромантизам</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Alban_Berg\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Австрија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1850-1950</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Експресионизам</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Albert Roussel\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Франција</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1850-1950</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Импресионизам</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Alessandro_Scarlatti\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Италија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1601-1700</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Барок</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Alessandro_Stradella\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Италија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1601-1700</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Барок</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Alexander_Borodin\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Русија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1850-1950</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Националистички</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Alexander_Dargomyzhsky\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Русија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1801-1900</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Романтизам</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Alexander_Glazunov\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Русија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1850-1950</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Романтизам</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Alexander_Scriabin\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Русија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1850-1950</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Романтизам</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Alexander_Zemlinsky\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Австрија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1850-1950</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Романтизам</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Alfredo_Casella\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Италија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1850-1950</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Импресионизам</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Amilcare_Ponchielli\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Италија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1801-1900</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Романтизам</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Anton_Arensky\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Русија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1850-1950</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Романтизам</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Anton_Webern\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Австрија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1850-1950</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Импресионизам</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Arnold_Schoenberg\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Австрија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1850-1950</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Експресионизам</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Bela_Bartok\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Унгарија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1850-1950</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Националистички</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Benjamin_Britten\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Англија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1901-2000</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Неокласичен</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Carlo_Gesualdo\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Италија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1501-1600</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Ренесанса</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Charles_Ives\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Америка</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1850-1950</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Националистички</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Claude_Debussy\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Франција</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1850-1950</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Импресионизам</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Claudio_Monteverdi\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Италија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1501-1600</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Барок</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Dmitry_Shostakovich\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Русија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1901-2000</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Неоромантизам</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Edgard_Varese\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Франција</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1901-2000</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Експериментален</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Edward_Elgar\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Англија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1850-1950</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Романтизам</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Erik_Satie\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Франција</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1850-1950</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Импресионизам</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Franz_Joseph_Haydn\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Австрија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1701-1800</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Класичен</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Franz_Schubert\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Австрија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1801-1900</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Пост-класичен</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Frederic_Chopin\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Франција</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1801-1900</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Романтизам</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>George_Gershwin\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Америка</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1901-2000</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Народен</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Giuseppe_Verdi\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Италија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1801-1900</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Романтизам</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Gustav_Mahler\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Австрија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1850-1950</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Романтизам</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Gyorgy_Sandor_Ligeti\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Унгарија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1901-2000</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Авангарда</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Igor_Stravinsky\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Русија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1850-1950</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Неокласичен</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Jean_Sibelius\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Финска</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1850-1950</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Романтизам</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Johann_Sebastian_Bach\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Германија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1701-1800</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Барок</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Johannes_Brahms\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Германија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1801-1900</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Романтизам</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>John_Cage\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Америка</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1901-2000</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Авангарда</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Karlheinz_Stockhausen\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Германија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1901-2000</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Авангарда</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Ludwig_Van_Beethoven\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Германија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1701-1800</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Класичен</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Maurice_Ravel\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Франција</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1850-1950</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Импресионизам</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Morton_Feldman\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Америка</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1901-2000</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Авангарда</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Olivier_Messiaen\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Франција</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1901-2000</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Мистичен</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Philip_Glass\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Subject">Минималистички</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1901-2000</Metadata>
+			<Metadata mode="accumulate" name="dc.Relation">Америка</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Pierre_Boulez\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Франција</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1901-2000</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Авангарда</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Pyotr_Ilyich_Tchaikovsky\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Русија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1801-1900</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Романтизам</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Ralph_Vaughan_Williams\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Англија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1850-1950</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Националистички</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Richard_Strauss\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Германија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1850-1950</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Романтизам</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Richard_Wagner\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Германија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1801-1900</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Романтизам</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Robert_Schumann\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Германија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1801-1900</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Романтизам</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Sergei_Prokofiev\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Русија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1901-2000</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Неоромантизам</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Sergei_Rachmaninoff\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Русија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1850-1950</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Романтизам</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Steve_Reich\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Subject">Минималистички</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1901-2000</Metadata>
+			<Metadata mode="accumulate" name="dc.Relation">Америка</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Thomas_Tallis\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Англија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1501-1600</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Ренесанса</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>William_Byrd\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Subject">Ренесанса</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1501-1600</Metadata>
+			<Metadata mode="accumulate" name="dc.Relation">Англија</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Witold_Lutoslawski\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Полска</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1901-2000</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Авангарда</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Wolfgang_Amadeus_Mozart\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Relation">Австрија</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">1701-1800</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Класичен</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>

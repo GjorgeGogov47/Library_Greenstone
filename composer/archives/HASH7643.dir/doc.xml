@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Amilcare_Ponchielli.html</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">HTMLPlugin</Metadata>
+    <Metadata name="FileSize">1710</Metadata>
+    <Metadata name="Source">Amilcare_Ponchielli.html</Metadata>
+    <Metadata name="SourceFile">Amilcare_Ponchielli.html</Metadata>
+    <Metadata name="Language">ru</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="Title">Amilcare Ponchielli</Metadata>
+    <Metadata name="FileFormat">HTML</Metadata>
+    <Metadata name="URL">http://Amilcare_Ponchielli.html</Metadata>
+    <Metadata name="UTF8URL">http://Amilcare_Ponchielli.html</Metadata>
+    <Metadata name="dc.Description">1801-1900</Metadata>
+    <Metadata name="dc.Relation">Италија</Metadata>
+    <Metadata name="dc.Subject">Романтизам</Metadata>
+    <Metadata name="Identifier">HASH76438693167100786406c4</Metadata>
+    <Metadata name="lastmodified">1600618779</Metadata>
+    <Metadata name="lastmodifieddate">20200920</Metadata>
+    <Metadata name="oailastmodified">1600786939</Metadata>
+    <Metadata name="oailastmodifieddate">20200922</Metadata>
+    <Metadata name="assocfilepath">HASH7643.dir</Metadata>
+  </Description>
+  <Content>
+&lt;table style=&quot;text-align: center;background-color:lightgray;width:100%;height:100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td style=&quot;width:33%&quot;&gt;
+            &lt;h2&gt;Amilcare Ponchielli&lt;/h2&gt;
+            &lt;h3&gt;1834-1886&lt;/h3&gt;
+        &lt;/td&gt;
+
+        &lt;td&gt;
+            &lt;img style=&quot;border:2px solid black&quot;
+                 src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://upload.wikimedia.org/wikipedia/commons/e/e1/Amilcareponchielli.jpg&quot;/&gt;
+        &lt;/td&gt;
+
+        &lt;td style=&quot;width:33%&quot;&gt;
+            &lt;h3&gt;Потекло: Италијанско&lt;/h3&gt;&lt;br/&gt;
+            &lt;h3&gt;Стил/период: Среден Италијански Романтизам&lt;/h3&gt;
+        &lt;/td&gt;
+
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td style=&quot;border-top:2px solid black&quot;&gt;
+            &lt;h3&gt;Композитори од кои има добиено инспирација&lt;/h3&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Gaetano Donizetti&lt;/li&gt;
+                &lt;li&gt;Giacomo Meyerbeer&lt;/li&gt;
+                &lt;li&gt;Giuseppe Verdi&lt;/li&gt;
+                &lt;li&gt;Richard Wagner&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/td&gt;
+        &lt;td style=&quot;border-top: 2px solid black&quot;&gt;&lt;/td&gt;
+        &lt;td style=&quot;border-top:2px solid black&quot;&gt;
+            &lt;h3&gt;Композитори кои ги има инспирирано&lt;/h3&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Giacomo Puccini&lt;/li&gt;
+                &lt;li&gt;Pietro Mascagni&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+</Content>
+</Section>
+</Archive>

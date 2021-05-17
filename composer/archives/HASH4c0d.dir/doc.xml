@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Richard_Strauss.html</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">HTMLPlugin</Metadata>
+    <Metadata name="FileSize">2822</Metadata>
+    <Metadata name="Source">Richard_Strauss.html</Metadata>
+    <Metadata name="SourceFile">Richard_Strauss.html</Metadata>
+    <Metadata name="Language">de</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="Title">Richard Strauss</Metadata>
+    <Metadata name="FileFormat">HTML</Metadata>
+    <Metadata name="URL">http://Richard_Strauss.html</Metadata>
+    <Metadata name="UTF8URL">http://Richard_Strauss.html</Metadata>
+    <Metadata name="dc.Description">1850-1950</Metadata>
+    <Metadata name="dc.Relation">Германија</Metadata>
+    <Metadata name="dc.Subject">Романтизам</Metadata>
+    <Metadata name="Identifier">HASH4c0dd0d0821678dc97177b</Metadata>
+    <Metadata name="lastmodified">1600618778</Metadata>
+    <Metadata name="lastmodifieddate">20200920</Metadata>
+    <Metadata name="oailastmodified">1600786953</Metadata>
+    <Metadata name="oailastmodifieddate">20200922</Metadata>
+    <Metadata name="assocfilepath">HASH4c0d.dir</Metadata>
+  </Description>
+  <Content>
+&lt;table style=&quot;text-align: center;background-color:lightgray;width:100%;height:100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td style=&quot;width:33%&quot;&gt;
+            &lt;h2&gt;Richard Strauss&lt;/h2&gt;
+            &lt;h3&gt;1864-1949&lt;/h3&gt;
+        &lt;/td&gt;
+
+        &lt;td&gt;
+            &lt;img style=&quot;border:2px solid black&quot;
+                 src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://upload.wikimedia.org/wikipedia/commons/2/2d/Strauss3.jpg&quot;/&gt;
+        &lt;/td&gt;
+
+        &lt;td style=&quot;width:33%&quot;&gt;
+            &lt;h3&gt;Потекло: Германско&lt;/h3&gt;&lt;br/&gt;
+            &lt;h3&gt;Стил/период: Доцен Германски Романтизам&lt;/h3&gt;
+        &lt;/td&gt;
+
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td style=&quot;border-top:2px solid black&quot;&gt;
+            &lt;h3&gt;Композитори од кои има добиено инспирација&lt;/h3&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Franz Liszt&lt;/li&gt;
+                &lt;li&gt;Hector Berlioz&lt;/li&gt;
+                &lt;li&gt;Johannes Brahms&lt;/li&gt;
+                &lt;li&gt;Johann Strauss II&lt;/li&gt;
+                &lt;li&gt;Richard Wagner&lt;/li&gt;
+                &lt;li&gt;Wolfgang Amadeus Mozart&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/td&gt;
+        &lt;td style=&quot;border-top: 2px solid black&quot;&gt;&lt;/td&gt;
+        &lt;td style=&quot;border-top:2px solid black&quot;&gt;
+            &lt;h3&gt;Композитори кои ги има инспирирано&lt;/h3&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Alexander Zemlinsky&lt;/li&gt;
+                &lt;li&gt;Alfredo Casella&lt;/li&gt;
+                &lt;li&gt;Arnold Bax&lt;/li&gt;
+                &lt;li&gt;Arnold Schoenberg&lt;/li&gt;
+                &lt;li&gt;Arthur Honegger&lt;/li&gt;
+                &lt;li&gt;Bela Bartok&lt;/li&gt;
+                &lt;li&gt;Carl Ruggles&lt;/li&gt;
+                &lt;li&gt;Charles Tomlinson Griffes&lt;/li&gt;
+                &lt;li&gt;Christian Sinding&lt;/li&gt;
+                &lt;li&gt;Edgard Varese&lt;/li&gt;
+                &lt;li&gt;Erich Wolfgang Korngold&lt;/li&gt;
+                &lt;li&gt;Ermanno Wolf-Ferrari&lt;/li&gt;
+                &lt;li&gt;Ernest Bloch&lt;/li&gt;
+                &lt;li&gt;Franz Lehar&lt;/li&gt;
+                &lt;li&gt;Giacomo Puccini&lt;/li&gt;
+                &lt;li&gt;Gustav Holst&lt;/li&gt;
+                &lt;li&gt;Heitor Villa-Lobos&lt;/li&gt;
+                &lt;li&gt;Josef Suk&lt;/li&gt;
+                &lt;li&gt;Karol Szymanowski&lt;/li&gt;
+                &lt;li&gt;Mario Castelnuovo-Tedesco&lt;/li&gt;
+                &lt;li&gt;Maurice Ravel&lt;/li&gt;
+                &lt;li&gt;Max Reger&lt;/li&gt;
+                &lt;li&gt;Ottorino Respighi&lt;/li&gt;
+                &lt;li&gt;Paul Dukas&lt;/li&gt;
+                &lt;li&gt;Paul Hindemith&lt;/li&gt;
+                &lt;li&gt;Sergei Prokofiev&lt;/li&gt;
+                &lt;li&gt;Victor Herbert&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+</Content>
+</Section>
+</Archive>

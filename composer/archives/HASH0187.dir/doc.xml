@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Witold_Lutoslawski.html</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">HTMLPlugin</Metadata>
+    <Metadata name="FileSize">1997</Metadata>
+    <Metadata name="Source">Witold_Lutoslawski.html</Metadata>
+    <Metadata name="SourceFile">Witold_Lutoslawski.html</Metadata>
+    <Metadata name="Language">ru</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="Title">Witold Lutoslawski</Metadata>
+    <Metadata name="FileFormat">HTML</Metadata>
+    <Metadata name="URL">http://Witold_Lutoslawski.html</Metadata>
+    <Metadata name="UTF8URL">http://Witold_Lutoslawski.html</Metadata>
+    <Metadata name="dc.Description">1901-2000</Metadata>
+    <Metadata name="dc.Relation">Полска</Metadata>
+    <Metadata name="dc.Subject">Авангарда</Metadata>
+    <Metadata name="Identifier">HASH018702a935d71379c48402ca</Metadata>
+    <Metadata name="lastmodified">1600618778</Metadata>
+    <Metadata name="lastmodifieddate">20200920</Metadata>
+    <Metadata name="oailastmodified">1600786957</Metadata>
+    <Metadata name="oailastmodifieddate">20200922</Metadata>
+    <Metadata name="assocfilepath">HASH0187.dir</Metadata>
+  </Description>
+  <Content>
+&lt;table style=&quot;text-align: center;background-color:lightgray;width:100%;height:100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td style=&quot;width:33%&quot;&gt;
+            &lt;h2&gt;Witold Lutoslawski&lt;/h2&gt;
+            &lt;h3&gt;1913-1994&lt;/h3&gt;
+        &lt;/td&gt;
+
+        &lt;td&gt;
+            &lt;img style=&quot;border:2px solid black&quot;
+                 src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Lutoslawski3.jpg/395px-Lutoslawski3.jpg&quot;/&gt;
+        &lt;/td&gt;
+
+        &lt;td style=&quot;width:33%&quot;&gt;
+            &lt;h3&gt;Потекло: Полско&lt;/h3&gt;&lt;br/&gt;
+            &lt;h3&gt;Стил/период: Неокласичен до 1955; Европска Авангарда понатаму&lt;/h3&gt;
+        &lt;/td&gt;
+
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td style=&quot;border-top:2px solid black&quot;&gt;
+            &lt;h3&gt;Композитори од кои има добиено инспирација&lt;/h3&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Albert Roussel&lt;/li&gt;
+                &lt;li&gt;Bela Bartok&lt;/li&gt;
+                &lt;li&gt;Claude Debussy&lt;/li&gt;
+                &lt;li&gt;Frederic Chopin&lt;/li&gt;
+                &lt;li&gt;Igor Stravinsky&lt;/li&gt;
+                &lt;li&gt;John Cage&lt;/li&gt;
+                &lt;li&gt;Karol Szymanowski&lt;/li&gt;
+                &lt;li&gt;Maurice Ravel&lt;/li&gt;
+                &lt;li&gt;Sergei Prokofiev&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/td&gt;
+        &lt;td style=&quot;border-top: 2px solid black&quot;&gt;&lt;/td&gt;
+        &lt;td style=&quot;border-top:2px solid black&quot;&gt;
+            &lt;h3&gt;Композитори кои ги има инспирирано&lt;/h3&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Carlo Gesualdo&lt;/li&gt;
+                &lt;li&gt;Claudio Monteverdi&lt;/li&gt;
+                &lt;li&gt;Girolamo Frescobaldi&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+</Content>
+</Section>
+</Archive>

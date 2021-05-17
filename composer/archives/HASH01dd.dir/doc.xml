@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Alexander_Zemlinsky.html</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">HTMLPlugin</Metadata>
+    <Metadata name="FileSize">1785</Metadata>
+    <Metadata name="Source">Alexander_Zemlinsky.html</Metadata>
+    <Metadata name="SourceFile">Alexander_Zemlinsky.html</Metadata>
+    <Metadata name="Language">ru</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="FileFormat">HTML</Metadata>
+    <Metadata name="URL">http://Alexander_Zemlinsky.html</Metadata>
+    <Metadata name="UTF8URL">http://Alexander_Zemlinsky.html</Metadata>
+    <Metadata name="dc.Description">1850-1950</Metadata>
+    <Metadata name="dc.Relation">Австрија</Metadata>
+    <Metadata name="dc.Subject">Романтизам</Metadata>
+    <Metadata name="Title">Alexander Zemlinsky</Metadata>
+    <Metadata name="Identifier">HASH01ddf64e444c0d71c721f9ac</Metadata>
+    <Metadata name="lastmodified">1600618779</Metadata>
+    <Metadata name="lastmodifieddate">20200920</Metadata>
+    <Metadata name="oailastmodified">1600786938</Metadata>
+    <Metadata name="oailastmodifieddate">20200922</Metadata>
+    <Metadata name="assocfilepath">HASH01dd.dir</Metadata>
+  </Description>
+  <Content>
+&lt;table style=&quot;text-align: center;background-color:lightgray;width:100%;height:100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td style=&quot;width:33%&quot;&gt;
+            &lt;h2&gt;Alexander Zemlinksy&lt;/h2&gt;
+            &lt;h3&gt;1871-1942&lt;/h3&gt;
+        &lt;/td&gt;
+
+        &lt;td&gt;
+            &lt;img style=&quot;border:2px solid black&quot;
+                 src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Zemlinsky.jpg/492px-Zemlinsky.jpg&quot;/&gt;
+        &lt;/td&gt;
+
+        &lt;td style=&quot;width:33%&quot;&gt;
+            &lt;h3&gt;Потекло: Австриско&lt;/h3&gt;&lt;br/&gt;
+            &lt;h3&gt;Стил/период: Доцен Германски Романтизам&lt;/h3&gt;
+        &lt;/td&gt;
+
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td style=&quot;border-top:2px solid black&quot;&gt;
+            &lt;h3&gt;Композитори од кои има добиено инспирација&lt;/h3&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Arnold Schoenberg&lt;/li&gt;
+                &lt;li&gt;Gustav Mahler&lt;/li&gt;
+                &lt;li&gt;Johannes Brahms&lt;/li&gt;
+                &lt;li&gt;Kurt Weill&lt;/li&gt;
+                &lt;li&gt;Richard Strauss&lt;/li&gt;
+                &lt;li&gt;Richard Wagner&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/td&gt;
+        &lt;td style=&quot;border-top: 2px solid black&quot;&gt;&lt;/td&gt;
+        &lt;td style=&quot;border-top:2px solid black&quot;&gt;
+            &lt;h3&gt;Композитори кои ги има инспирирано&lt;/h3&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Arnold Schoenberg&lt;/li&gt;
+                &lt;li&gt;Erich Wolfgang Korngold&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+</Content>
+</Section>
+</Archive>
